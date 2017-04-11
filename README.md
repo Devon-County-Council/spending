@@ -3,6 +3,7 @@ The data are published to meet the requirements of the Local Government Transpar
 Data are released under the Open Government Licence.  See www.nationalarchives.gov.uk/doc/open-government-licence/ for more information.
 
 The fields used in the data are as follows:
+
 Body - Numeric Reference for Devon County Council allocated by the Department for Communities and Local Government
 
 Name - The name of the body

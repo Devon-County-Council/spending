@@ -833,7 +833,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,20/02/2013,CFADRES30075988,REDACTED UNDER DP ACT,3760,MATSON HOUSE,289305,,People Services,Care Spot - Private (3rd),5701,B
 18,Devon County Council,06/02/2013,CFADRES30074728,REDACTED UNDER DP ACT,2227.78,MCLEOD RC & J,87171,,People Services,Care Spot - Private (3rd),5701,B
 18,Devon County Council,20/02/2013,CFADRES30075404,REDACTED UNDER DP ACT,2227.78,MCLEOD RC & J,87171,,People Services,Care Spot - Private (3rd),5701,B
-18,Devon County Council,06/02/2013,CFDIRPAY30152373,REDACTED UNDER DP ACT,617.24,MCPHERSON,291615,,People Services,Direct Payments,6401,B
+18,Devon County Council,06/02/2013,CFDIRPAY30152373,REDACTED UNDER DP ACT,617.24,REDACTED UNDER DP ACT,291615,,People Services,Direct Payments,6401,B
 18,Devon County Council,06/02/2013,CFADRES30075241,REDACTED UNDER DP ACT,1149.9,MEADBANK NURSING HOME,259977,,People Services,Care Spot - Private (3rd),5701,B
 18,Devon County Council,20/02/2013,CFADRES30075916,REDACTED UNDER DP ACT,1149.9,MEADBANK NURSING HOME,259977,,People Services,Care Spot - Private (3rd),5701,B
 18,Devon County Council,06/02/2013,CFADRES30075286,REDACTED UNDER DP ACT,1567.4,MEADOWCARE HOME,280718,,People Services,Care Spot - Private (3rd),5701,B
@@ -1470,7 +1470,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,19/02/2013,EARLYRS30235304,0083/13,2988,ACDHELP.COM LTD,255658,,People Services,Course / Exam Fees & Registration,4312,BUSN
 18,Devon County Council,26/02/2013,EARLYRS30235331,0085/13,4980,ACDHELP.COM LTD,255658,,People Services,Course / Exam Fees & Registration,4312,BUSN
 18,Devon County Council,20/02/2013,FINMDAD30442340,78,4489,ACORN COMMUNITY SUPPORT GROUP,35836,,People Services,Payments to Vol Providers (3rd),5501,BUSN
-18,Devon County Council,19/02/2013,CYPEELOC30184189,21197,767.36,ACORN KINDERGARTEN,40335,,People Services,Section 17 Payments (3rd),5710,BUSN
+18,Devon County Council,19/02/2013,CYPEELOC30184189,REDACTED UNDER DP ACT,767.36,ACORN KINDERGARTEN,40335,,People Services,Section 17 Payments (3rd),5710,BUSN
 18,Devon County Council,06/02/2013,FINTBAD30469724,18013,3032.25,ADAPTACAR,100395,692272027,People Services,Equipment - Private (3rd),5741,BUSN
 18,Devon County Council,19/02/2013,CYPSWLOC30212466,215048,700,ADOPTION UK,105628,795034217,People Services,Contributions to Private Contractors (3r,5751,BUSN
 18,Devon County Council,19/02/2013,CYPSWLOC30212467,215047,700,ADOPTION UK,105628,795034217,People Services,Contributions to Private Contractors (3r,5751,BUSN
@@ -2098,7 +2098,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,11/02/2013,LEGAL30547863,B08612,1900,H M COURTS & TRIBUNALS_(TORQUAY),134111,,People Services,Legal Fees & Disbursements,4314,BUSN
 18,Devon County Council,06/02/2013,EARLYRS30235236,Aut Depri 84007,678,HAPPY DAYS NURSERY(BROADMEADOW),163120,,People Services,Payments to Vol Providers (3rd),5501,BUSN
 18,Devon County Council,14/02/2013,WASTE30650365,290936,5622.5,HARRISON CLARK LLP,271914,,Place Services,Legal Fees & Disbursements,4314,BUSN
-18,Devon County Council,06/02/2013,CYPEELOC30184070,4105,554.5,HARTNELL CHANOT & PARTNERS,157854,585561114,People Services,Section 17 Payments (3rd),5710,BUSN
+18,Devon County Council,06/02/2013,CYPEELOC30184070,REDACTED UNDER DP ACT,554.5,HARTNELL CHANOT & PARTNERS,157854,585561114,People Services,Section 17 Payments (3rd),5710,BUSN
 18,Devon County Council,11/02/2013,TRCC30646715,NT CON TRVL FEB,2600,HATCH GREEN COACHES,249457,927463209,Place Services,Contracted Transport Services,3010,BUSN
 18,Devon County Council,26/02/2013,FINSSCW30458436,DCC14/11/2012,800.5,HAULFRYN GROUP LTD,207488,159723633,People Services,Venue Hire,2322,BUSN
 18,Devon County Council,04/02/2013,DSSCITT30232238,LHEC107,573.75,HAYES LISA/EDUCATIONAL CONSULTNT,233105,,People Services,Professional Fees,4306,BUSN
@@ -2912,7 +2912,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,01/02/2013,CYPSWLOC30210678,SIN000441,2136,YOUNG DEVON,120708,,People Services,Cl-Unsupported Accom-Rel Child (3rd),5772,BUSN
 18,Devon County Council,01/02/2013,CYPSWLOC30211398,SIN000819,2136,YOUNG DEVON,120708,,People Services,Cl-Unsupported Accom-Rel Child (3rd),5772,BUSN
 18,Devon County Council,06/02/2013,CYPSWLOC30212206,SIN000894,2099.55,YOUNG DEVON,120708,,People Services,Cl-Unsupported Accom-Rel Child (3rd),5772,BUSN
-18,Devon County Council,05/02/2013,CYPSWLOC30212207,SIN000895,1005.6,YOUNG DEVON,120708,,People Services,Section 17 Payments (3rd),5710,BUSN
+18,Devon County Council,05/02/2013,CYPSWLOC30212207,REDACTED UNDER DP ACT,1005.6,YOUNG DEVON,120708,,People Services,Section 17 Payments (3rd),5710,BUSN
 18,Devon County Council,15/02/2013,CYPSWLOC30212930,SIN000944,5841,YOUNG DEVON,120708,,People Services,Cl-Unsupported Accom-Rel Child (3rd),5772,BUSN
 18,Devon County Council,15/02/2013,CYPSWLOC30212931,SIN000940,2136,YOUNG DEVON,120708,,People Services,Cl-Unsupported Accom-Rel Child (3rd),5772,BUSN
 18,Devon County Council,27/02/2013,CYPSWLOC30213279,SIN000897,2380.62,YOUNG DEVON,120708,,People Services,Rents & other landlord charges payable,2321,BUSN
@@ -3174,216 +3174,216 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,26/02/2013,CFCLEAV30120253,REDACTED UNDER DP ACT,1860,MANOR HOTEL THE,255940,,People Services,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
 18,Devon County Council,21/02/2013,FINSSCW30458424,2013000433,818.33,TIVERTON HOTEL LTD (AFTR 1/1,188311,,People Services,Venue Hire,2322,HOTL
 18,Devon County Council,26/02/2013,LLCCULM30556445,2013000702,615.5,TIVERTON HOTEL LTD (AFTR 1/1,188311,,People Services,Professional Fees,4306,HOTL
-18,Devon County Council,01/02/2013,DSSCITT30232034,DSTTG-Feb295413,500,ALDERSON,295413,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230782,BURS06,900,ANSELL,295630,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230783,BURS6,500,AYLMORE,271144,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232035,DSTTG-Feb295415,500,BARKER,295415,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026780,REDACTED UNDER DP ACT,567.32,BAXTER,123276,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,20/02/2013,CFSUPP30172017,REDACTED UNDER DP ACT,989.6,BAXTER,123276,,People Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,25/02/2013,LEGAL30548007,416 ISWSGODEV,695,BAYNES,208383,,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,20/02/2013,CFSUPP30171994,REDACTED UNDER DP ACT,12985.04,BECK,118050,,People Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232036,DSTTG-Feb295414,2700,BELLI,295414,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230784,BURS06,500,BENNETT,295631,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/02/2013,LEGAL30547782,101022,600,BENNETT,141629,447043557,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,21/02/2013,LEGAL30547975,31984,750,BERKLEY,86220,585796468,Place Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,25/02/2013,DHRP30224626,DEV 85,3928,BETTS,214086,,Corporate Services,Professional Fees,4306,INDV
-18,Devon County Council,13/02/2013,CFADDAY30026486,REDACTED UNDER DP ACT,1116.6,BIBBINGS,135593,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,20/02/2013,CFADDAY30026942,REDACTED UNDER DP ACT,2044.6,BIBBINGS,135593,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,05/02/2013,LEGAL30547821,82653,1627.5,BOURNE,278918,564359908,People Services,Professional Fees,4306,INDV
-18,Devon County Council,28/02/2013,LEGAL30548009,88576,754,BRAY,268016,948819170,Corporate Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,28/02/2013,LEGAL30548009,88576,3770,BRAY,268016,948819170,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230785,BURS06,900,BREMNER,295663,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230786,BURS06,500,BROWN,295664,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,20/02/2013,CFSUPP30172009,REDACTED UNDER DP ACT,1924.48,BROWN,120559,,People Services,Floating Support Service (3rd),5708,INDV
-18,Devon County Council,11/02/2013,DPSCITT30230787,BURS06,500,BURROWS,295665,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,07/02/2013,HIGHWAYS30505929,631,2125,BUTT,19504,385078424,Place Services,Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,13/02/2013,HIGHWAYS30507276,633,660,BUTT,19504,385078424,Place Services,Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,11/02/2013,RESTRAT30612147,060213LAWRY,525,BYRNES,298825,,People Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230788,BURS06,500,CAMPEY,295666,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232037,DSTTG-Feb295416,900,CARR,295416,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230789,BURS06,500,CASE,295667,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,20/02/2013,LEGAL30547950,101246,670,CASSIDY,255706,805675615,Corporate Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,20/02/2013,LEGAL30547950,101246,3350,CASSIDY,255706,805675615,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230790,BURS06,500,CHANDLER,295668,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,18/02/2013,HQ30527199,SC/SWCPT/1213/1,530,CHURCH,238939,,Place Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,13/02/2013,DHRP30224481,32,599.25,CLEARVIEW,162892,,Corporate Services,Course / Exam Fees & Registration,4312,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230791,BURS06,500,CLEMENTS,295669,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230792,BURS06,900,COE,295632,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232038,DSTTG-Feb295417,900,CONWAY,295417,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,01/02/2013,LEGAL30547806,92303,2025,COOK,104720,524171374,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,13/02/2013,RESTRAT30612194,9,525,CORNISH,288687,,People Services,Independent Special School Fees,5733,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230793,BURS06,900,COX,295680,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232039,DSTTG-Feb295418,900,CROCKER,295418,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230794,BURS06,900,CUNNINGHAM,295684,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,15/02/2013,DHRP30224496,18/01/13,1050,CURRAN,283808,974159682,Corporate Services,Venue Hire,2322,INDV
-18,Devon County Council,20/02/2013,DHRP30224524,TRAIN 22/1,526.79,CURRAN,283808,974159682,Corporate Services,Professional Fees,4306,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232040,DSTTG-Feb295437,2700,CURRAN,295437,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,20/02/2013,LEGAL30547943,B06926,1013.8,CURRAN,283808,974159682,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230795,BURS06,500,DAW,295686,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,06/02/2013,FINNDAD30452807,1495,760,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,06/02/2013,FINNDAD30452808,1501,880,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,06/02/2013,FINNDAD30452809,1502,520,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,11/02/2013,FINNDAD30452931,1496,860,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,27/02/2013,FINNDAD30453214,1514,980,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,27/02/2013,FINNDAD30453215,1515,420,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,27/02/2013,FINNDAD30453221,1524,560,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,27/02/2013,FINNDAD30453222,1523,920,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,27/02/2013,FINNDAD30453225,1505,870,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,28/02/2013,FINNDAD30453293,1508,520,DEAN,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,05/02/2013,CFBOUT30100955,REDACTED UNDER DP ACT,563.92,DELBOURGO,207382,,People Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,12/02/2013,CFBOUT30101402,REDACTED UNDER DP ACT,563.92,DELBOURGO,207382,,People Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,19/02/2013,CFBOUT30101851,REDACTED UNDER DP ACT,563.92,DELBOURGO,207382,,People Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,26/02/2013,CFBOUT30102290,REDACTED UNDER DP ACT,563.92,DELBOURGO,207382,,People Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30151177,REDACTED UNDER DP ACT,1128.88,DOCKINGS,225228,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,01/02/2013,DSSCITT30231843,DSTTG Tra 164,500,EASTMAN,295419,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,12/02/2013,LLCCRED30556280,007,749.5,EVELY,290017,,People Services,Professional Fees,4306,INDV
-18,Devon County Council,08/02/2013,LEGAL30547855,35036,900,FARQUHARSON,250626,577830892,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30150814,REDACTED UNDER DP ACT,1299.4,FARRELL,183167,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232041,DSTTG-Feb295420,900,FISHLEIGH,295420,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232042,DSTTG-Feb295436,500,FOSTER,295436,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,05/02/2013,CFBOUT30100904,REDACTED UNDER DP ACT,658.71,GANDER,177730,,People Services,Weekly Allowances,5712,INDV
-18,Devon County Council,12/02/2013,CFBOUT30101350,REDACTED UNDER DP ACT,658.71,GANDER,177730,,People Services,Weekly Allowances,5712,INDV
-18,Devon County Council,19/02/2013,CFBOUT30101798,REDACTED UNDER DP ACT,658.71,GANDER,177730,,People Services,Weekly Allowances,5712,INDV
-18,Devon County Council,05/02/2013,CFBOUT30101092,REDACTED UNDER DP ACT,522.54,GILLARD,291807,,People Services,Weekly Allowances,5712,INDV
-18,Devon County Council,12/02/2013,CFBOUT30101540,REDACTED UNDER DP ACT,522.54,GILLARD,291807,,People Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,19/02/2013,CFBOUT30101987,REDACTED UNDER DP ACT,700.73,GILLARD,291807,,People Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,26/02/2013,CFBOUT30102428,REDACTED UNDER DP ACT,522.54,GILLARD,291807,,People Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,27/02/2013,EDUC30243925,1480213,2177.7,GLENNY,257024,,People Services,Professional Fees,4306,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232043,DSTTG-Feb295421,500,GLOVER,295421,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,20/02/2013,FACM30436486,01612/01,1675,GOFF,210009,,Corporate Services,Professional Fees,4306,INDV
-18,Devon County Council,20/02/2013,FACM30436487,01611/01,650,GOFF,210009,,Corporate Services,Professional Fees,4306,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232044,DSTTG-Feb295422,500,GRANT,295422,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026830,REDACTED UNDER DP ACT,578.8,GREENAWAY,196903,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026837,REDACTED UNDER DP ACT,607.74,GREENAWAY,196903,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,25/02/2013,CFADDAY30027037,REDACTED UNDER DP ACT,578.8,GREENAWAY,196903,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,25/02/2013,CFADDAY30027044,REDACTED UNDER DP ACT,607.74,GREENAWAY,196903,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,28/02/2013,CYPSWLOC30213290,CFC345,600,GRIMES,293878,,People Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30150973,REDACTED UNDER DP ACT,560,GUSCOTT,203824,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30151374,REDACTED UNDER DP ACT,1414.76,HAMBRIDGE,241418,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,05/02/2013,CFCLEAV30119704,REDACTED UNDER DP ACT,2151.14,HAMILTON,292380,,People Services,Care Leaver - Weekly Allowance,6006,INDV
-18,Devon County Council,05/02/2013,CFBOUT30101104,REDACTED UNDER DP ACT,905.05,HARDING,295337,,People Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,21/02/2013,CYPSWLOC30213032,CFC344,600,HARDING,295337,,People Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,11/02/2013,FINSSCW30458310,0173,676.73,HARRIS,248288,,People Services,Professional Fees,4306,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230796,BURS06,500,HAWKINGS,295690,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/02/2013,LEGAL30547794,35151,500,HAYWARD,202750,456142848,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,05/02/2013,LEGAL30547840,35209,600,HAYWARD,202750,456142848,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,21/02/2013,LEGAL30547974,31919,750,HAYWARD,202750,456142848,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,20/02/2013,CFSUPP30171910,REDACTED UNDER DP ACT,689.78,HAYWOOD,117854,,People Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,20/02/2013,CFSUPP30171986,REDACTED UNDER DP ACT,1774.88,HAYWOOD,117854,,People Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,19/02/2013,HQ30527121,JANUARY 2013,1200,HEIMANN,242789,,Place Services,Professional Fees,4306,INDV
-18,Devon County Council,06/02/2013,CFADRES30074849,REDACTED UNDER DP ACT,5464.56,HIBBERD,90051,,People Services,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,20/02/2013,CFADRES30075525,REDACTED UNDER DP ACT,5464.56,HIBBERD,90051,,People Services,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30150412,REDACTED UNDER DP ACT,1565.76,HINGLEY,66686,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230797,BURS06,500,HOUSE,295693,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,27/02/2013,CYPEELOC30180453,UNIT4 RENT MAR,500,HOWE,226685,,People Services,Rents & other landlord charges payable,2321,INDV
-18,Devon County Council,20/02/2013,CFSUPP30171996,REDACTED UNDER DP ACT,659.68,HOWLETT,118066,,People Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232045,DSTTG-Feb295423,2700,HURFORD,295423,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,27/02/2013,WASTE30650358,PP16/3,700,HURFORD,15147,,Place Services,Venue Hire,2322,INDV
-18,Devon County Council,28/02/2013,LEGAL30548019,34915,1091.2,INGHAM,207067,524284846,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,20/02/2013,LEGAL30547942,34972,1207.8,ISAACS,292372,,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230798,BURS06,500,JAMES,295694,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30152490,REDACTED UNDER DP ACT,965.16,KALA,294245,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,14/02/2013,CYPNMLOC30199140,LK,835.91,KELLAWAY,295568,,People Services,Section 17 Payments (3rd),5710,INDV
-18,Devon County Council,06/02/2013,CYPSWLOC30212268,240113,885.7,KENNELLY,198659,,People Services,Pay - Non contract staff paid by claim,1071,INDV
-18,Devon County Council,05/02/2013,LEGAL30547826,90478 15/1/13,950,KENNY,268548,743963602,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,05/02/2013,LEGAL30547827,90627,750,KENNY,268548,743963602,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,18/02/2013,LEGAL30547927,90326,570,KENNY,268548,743963602,Corporate Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,18/02/2013,LEGAL30547927,90326,2850,KENNY,268548,743963602,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,26/02/2013,LEGAL30548011,90478,1250,KENNY,268548,743963602,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,07/02/2013,CYPNMLOC30199042,AK 23/02/13,500,KING,249869,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,27/02/2013,FNEXMHLD30473549,18.02/MALYON,5392.65,KNIGHT,298338,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230799,BURS06,500,LAND,295633,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,12/02/2013,FACM30436399,WORK & MATERIAL,814.2,LATHAM,61760,,Corporate Services,Building Mtce Works - programmed,2102,INDV
-18,Devon County Council,21/02/2013,CYPSWLOC30213030,CFC342,599.98,LEWIS,295797,,People Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,20/02/2013,CFSUPP30172015,REDACTED UNDER DP ACT,4166.72,LEWIS,120578,,People Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,07/02/2013,FINSSCW30458367,1,1360,LLOYD,295274,,People Services,Management Consultancy,4303,INDV
-18,Devon County Council,01/02/2013,DSSCITT30231693,DSTTG Tra 014,500,LONG,295424,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,20/02/2013,HQ30527201,130102/SW,1764,LUCKHURST,262754,,Place Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230800,BURS06,500,MAUNDER,295703,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230801,BURS06,500,MCCRORY,295704,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,18/02/2013,HIGHWAYS30507419,8,791.25,MCCULLOCH,196492,,Place Services,Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232046,DSTTG-Feb295425,500,MCGRATH,295425,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,26/02/2013,DHRP30224612,17-00,698,MEARS,155527,,Corporate Services,Professional Fees,4306,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232047,DSTTG-Feb295426,500,MORGAN,295426,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,01/02/2013,DSSCITT30231931,DSTTG Tra 252,4400,MUELLER,295428,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,05/02/2013,DSSCITT30232245,0041,2500,MURRAY,191287,,People Services,Professional Fees,4306,INDV
-18,Devon County Council,26/02/2013,DHRP30224593,000015,1716,NICKELLS,231701,,Corporate Services,Professional Fees,4306,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026781,REDACTED UNDER DP ACT,900,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026782,REDACTED UNDER DP ACT,1120,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026783,REDACTED UNDER DP ACT,1152,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026784,REDACTED UNDER DP ACT,984,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026785,REDACTED UNDER DP ACT,2160,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026786,REDACTED UNDER DP ACT,2056.32,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,18/02/2013,CFADDAY30026787,REDACTED UNDER DP ACT,2640,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/02/2013,CFADDAY30027177,REDACTED UNDER DP ACT,592,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/02/2013,CFADDAY30027178,REDACTED UNDER DP ACT,680,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/02/2013,CFADDAY30027179,REDACTED UNDER DP ACT,680,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/02/2013,CFADDAY30027180,REDACTED UNDER DP ACT,680,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/02/2013,CFADDAY30027181,REDACTED UNDER DP ACT,680,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/02/2013,CFADDAY30027182,REDACTED UNDER DP ACT,540,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/02/2013,CFADDAY30027183,REDACTED UNDER DP ACT,680,OKE,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232049,DSTTG-Feb295429,500,ORTON,295429,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230802,BURS06,500,OVEY,295705,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/02/2013,DHRP30224427,901,1181,POLLOCK,301167,,Corporate Services,Professional Fees,4306,INDV
-18,Devon County Council,15/02/2013,DHRP30224495,902,1169.95,POLLOCK,301167,,Corporate Services,Management Consultancy,4303,INDV
-18,Devon County Council,26/02/2013,DHRP30224636,903,2349.8,POLLOCK,301167,,Corporate Services,Management Consultancy,4303,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230803,BURS06,900,POPE,295706,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,05/02/2013,DDRC30217131,54,910,POPE,6269,,Place Services,Professional Fees,4306,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230804,BURS06,500,PUTT,295707,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230805,BURS06,500,READ,295708,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30152346,REDACTED UNDER DP ACT,2034,REDGWELL,291131,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,08/02/2013,LEGAL30547847,AD 24/07/12,1803.1,ROBERTS,301365,,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30151289,REDACTED UNDER DP ACT,1158.36,ROBERTSON,232753,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230806,BURS06,500,RODERICK,295709,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232050,DSTTG-Feb295438,500,ROGERS,295438,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,13/02/2013,CFADDAY30026565,REDACTED UNDER DP ACT,765.56,ROSEWALL,238591,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,13/02/2013,CFADDAY30026566,REDACTED UNDER DP ACT,1028.16,ROSEWALL,238591,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,20/02/2013,CFADDAY30026951,REDACTED UNDER DP ACT,765.56,ROSEWALL,238591,,People Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,28/02/2013,LLCAXEVA30553451,1,510,ROWSELL,301354,,People Services,Training inc Travel Costs,1802,INDV
-18,Devon County Council,05/02/2013,LEGAL30547830,32762,620,SAPIECHA,22839,691715121,Corporate Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,05/02/2013,LEGAL30547830,32762,3100,SAPIECHA,22839,691715121,Place Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,18/02/2013,LEGAL30547918,30368,650,SAPIECHA,22839,691715121,Place Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,13/02/2013,CFCHIL1730109856,REDACTED UNDER DP ACT,653,SAUNDERS,290897,,People Services,Section 17 Payments (3rd),5710,INDV
-18,Devon County Council,25/02/2013,CYPSWLOC30213111,16 CS/TP 2013,1560,SCHNEIDER,251826,,People Services,Section 17 Payments (3rd),5710,INDV
-18,Devon County Council,15/02/2013,LLCBARNS30553550,17,600,SEARS,283184,,People Services,Professional Fees,4306,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232051,DSTTG-Feb295430,500,SEYMOUR,295430,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230807,BURS06,900,SHIPLEY,295710,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,05/02/2013,CFBOUT30100958,REDACTED UNDER DP ACT,869.18,SINCLAIR,209780,,People Services,Weekly Allowances,5712,INDV
-18,Devon County Council,26/02/2013,CFBOUT30102293,REDACTED UNDER DP ACT,1044.96,SINCLAIR,209780,,People Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,28/02/2013,CYPSWLOC30213304,34 (DCC),589.8,SLADE,302028,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30150459,REDACTED UNDER DP ACT,526.6,SMALE,102654,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232052,DSTTG-Feb295431,500,SMALL,295431,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,07/02/2013,CYPEELOC30184128,GRACE KELLY,1017.3,SMITH,301362,,People Services,Section 17 Payments (3rd),5710,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232053,DSTTG-Feb295432,900,SMITH,295432,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,08/02/2013,CYPSWLOC30212526,CS102/3115,500,SOPER,251574,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,14/02/2013,LLCTIVER30560444,04/13,840,SOUTHCOMBE,227193,,People Services,Management Consultancy,4303,INDV
-18,Devon County Council,14/02/2013,LLCTIVER30560443,021,1500,STILL,241921,892501223,People Services,Management Consultancy,4303,INDV
-18,Devon County Council,07/02/2013,HIGHWAYS30506230,DC2012/13-51,574.34,SWANBOROUGH,263456,,Place Services,Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,21/02/2013,HIGHWAYS30507272,DC2012/13-53,1841.18,SWANBOROUGH,263456,,Place Services,Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,15/02/2013,LLCTORRI30561321,OCT/NOV 12,695.1,TAMLYN,80391,,People Services,Professional Fees,4306,INDV
-18,Devon County Council,15/02/2013,LLCTORRI30561322,DEC/JAN 13,755.6,TAMLYN,80391,,People Services,Professional Fees,4306,INDV
-18,Devon County Council,20/02/2013,FACM30436492,REIMBURSEMENT,2350,TAYLOR,51804,326706459,Corporate Services,Other Building Maintenance,2251,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230808,BURS06,500,TREANOR,295711,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232054,DSTTG-Feb295433,2700,TURNER,295433,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,13/02/2013,LEGAL30547876,35123,1250,VAHIB,182208,,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,22/02/2013,LEGAL30547986,35154,1150,VAHIB,182208,,People Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232055,DSTTG-Feb295435,500,VALE,295435,,People Services,Discretionary Awards,6101,INDV
-18,Devon County Council,08/02/2013,LEGAL30547854,167753 JAN 13,680,WADSLEY,271358,416746050,Corporate Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,08/02/2013,LEGAL30547854,167753 JAN 13,3400,WADSLEY,271358,416746050,Place Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,08/02/2013,DPSCITT30230809,BURS06,900,WALTON,295712,,People Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30150895,REDACTED UNDER DP ACT,603.48,WARDLE,195025,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30151152,REDACTED UNDER DP ACT,515.88,WARREN,222171,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30150413,REDACTED UNDER DP ACT,1848,WEBSTER,68455,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,20/02/2013,CFSUPP30172023,REDACTED UNDER DP ACT,634.08,WELLMAN,131080,,People Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,06/02/2013,CFDIRPAY30150754,REDACTED UNDER DP ACT,566.16,WESTON,176688,,People Services,Direct Payments,6401,INDV
-18,Devon County Council,27/02/2013,EDUC30243985,DEC & JAN 12/3,750,WOLF-LIGHT,188750,,People Services,Professional Fees,4306,INDV
-18,Devon County Council,05/02/2013,CFBOUT30100943,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,People Services,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,12/02/2013,CFBOUT30101390,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,People Services,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,19/02/2013,CFBOUT30101839,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,People Services,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,26/02/2013,CFBOUT30102279,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,People Services,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,08/02/2013,CYPSWLOC30212484,CS102/0292,500,WOODLEY,279255,,People Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,07/02/2013,FINSSCW30458301,DCC01.13,1175.43,WURR,178050,,People Services,Management Consultancy,4303,INDV
-18,Devon County Council,01/02/2013,DSSCITT30232056,DSTTG-Feb295434,900,WYATT,295434,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232034,DSTTG-Feb295413,500,REDACTED UNDER DP ACT,295413,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230782,BURS06,900,REDACTED UNDER DP ACT,295630,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230783,BURS6,500,REDACTED UNDER DP ACT,271144,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232035,DSTTG-Feb295415,500,REDACTED UNDER DP ACT,295415,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026780,REDACTED UNDER DP ACT,567.32,REDACTED UNDER DP ACT,123276,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,20/02/2013,CFSUPP30172017,REDACTED UNDER DP ACT,989.6,REDACTED UNDER DP ACT,123276,,People Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,25/02/2013,LEGAL30548007,416 ISWSGODEV,695,REDACTED UNDER DP ACT,208383,,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,20/02/2013,CFSUPP30171994,REDACTED UNDER DP ACT,12985.04,REDACTED UNDER DP ACT,118050,,People Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232036,DSTTG-Feb295414,2700,REDACTED UNDER DP ACT,295414,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230784,BURS06,500,REDACTED UNDER DP ACT,295631,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/02/2013,LEGAL30547782,101022,600,REDACTED UNDER DP ACT,141629,447043557,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,21/02/2013,LEGAL30547975,31984,750,REDACTED UNDER DP ACT,86220,585796468,Place Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,25/02/2013,DHRP30224626,DEV 85,3928,REDACTED UNDER DP ACT,214086,,Corporate Services,Professional Fees,4306,INDV
+18,Devon County Council,13/02/2013,CFADDAY30026486,REDACTED UNDER DP ACT,1116.6,REDACTED UNDER DP ACT,135593,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,20/02/2013,CFADDAY30026942,REDACTED UNDER DP ACT,2044.6,REDACTED UNDER DP ACT,135593,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,05/02/2013,LEGAL30547821,82653,1627.5,REDACTED UNDER DP ACT,278918,564359908,People Services,Professional Fees,4306,INDV
+18,Devon County Council,28/02/2013,LEGAL30548009,88576,754,REDACTED UNDER DP ACT,268016,948819170,Corporate Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,28/02/2013,LEGAL30548009,88576,3770,REDACTED UNDER DP ACT,268016,948819170,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230785,BURS06,900,REDACTED UNDER DP ACT,295663,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230786,BURS06,500,REDACTED UNDER DP ACT,295664,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,20/02/2013,CFSUPP30172009,REDACTED UNDER DP ACT,1924.48,REDACTED UNDER DP ACT,120559,,People Services,Floating Support Service (3rd),5708,INDV
+18,Devon County Council,11/02/2013,DPSCITT30230787,BURS06,500,REDACTED UNDER DP ACT,295665,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,07/02/2013,HIGHWAYS30505929,631,2125,REDACTED UNDER DP ACT,19504,385078424,Place Services,Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,13/02/2013,HIGHWAYS30507276,633,660,REDACTED UNDER DP ACT,19504,385078424,Place Services,Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,11/02/2013,RESTRAT30612147,060213LAWRY,525,REDACTED UNDER DP ACT,298825,,People Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230788,BURS06,500,REDACTED UNDER DP ACT,295666,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232037,DSTTG-Feb295416,900,REDACTED UNDER DP ACT,295416,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230789,BURS06,500,REDACTED UNDER DP ACT,295667,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,20/02/2013,LEGAL30547950,101246,670,REDACTED UNDER DP ACT,255706,805675615,Corporate Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,20/02/2013,LEGAL30547950,101246,3350,REDACTED UNDER DP ACT,255706,805675615,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230790,BURS06,500,REDACTED UNDER DP ACT,295668,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,18/02/2013,HQ30527199,SC/SWCPT/1213/1,530,REDACTED UNDER DP ACT,238939,,Place Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,13/02/2013,DHRP30224481,32,599.25,REDACTED UNDER DP ACT,162892,,Corporate Services,Course / Exam Fees & Registration,4312,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230791,BURS06,500,REDACTED UNDER DP ACT,295669,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230792,BURS06,900,REDACTED UNDER DP ACT,295632,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232038,DSTTG-Feb295417,900,REDACTED UNDER DP ACT,295417,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,01/02/2013,LEGAL30547806,92303,2025,REDACTED UNDER DP ACT,104720,524171374,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,13/02/2013,RESTRAT30612194,9,525,REDACTED UNDER DP ACT,288687,,People Services,Independent Special School Fees,5733,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230793,BURS06,900,REDACTED UNDER DP ACT,295680,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232039,DSTTG-Feb295418,900,REDACTED UNDER DP ACT,295418,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230794,BURS06,900,REDACTED UNDER DP ACT,295684,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,15/02/2013,DHRP30224496,18/01/13,1050,REDACTED UNDER DP ACT,283808,974159682,Corporate Services,Venue Hire,2322,INDV
+18,Devon County Council,20/02/2013,DHRP30224524,TRAIN 22/1,526.79,REDACTED UNDER DP ACT,283808,974159682,Corporate Services,Professional Fees,4306,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232040,DSTTG-Feb295437,2700,REDACTED UNDER DP ACT,295437,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,20/02/2013,LEGAL30547943,B06926,1013.8,REDACTED UNDER DP ACT,283808,974159682,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230795,BURS06,500,REDACTED UNDER DP ACT,295686,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,06/02/2013,FINNDAD30452807,1495,760,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,06/02/2013,FINNDAD30452808,1501,880,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,06/02/2013,FINNDAD30452809,1502,520,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,11/02/2013,FINNDAD30452931,1496,860,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,27/02/2013,FINNDAD30453214,1514,980,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,27/02/2013,FINNDAD30453215,1515,420,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,27/02/2013,FINNDAD30453221,1524,560,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,27/02/2013,FINNDAD30453222,1523,920,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,27/02/2013,FINNDAD30453225,1505,870,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,28/02/2013,FINNDAD30453293,1508,520,REDACTED UNDER DP ACT,168479,682526125,People Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,05/02/2013,CFBOUT30100955,REDACTED UNDER DP ACT,563.92,REDACTED UNDER DP ACT,207382,,People Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,12/02/2013,CFBOUT30101402,REDACTED UNDER DP ACT,563.92,REDACTED UNDER DP ACT,207382,,People Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,19/02/2013,CFBOUT30101851,REDACTED UNDER DP ACT,563.92,REDACTED UNDER DP ACT,207382,,People Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,26/02/2013,CFBOUT30102290,REDACTED UNDER DP ACT,563.92,REDACTED UNDER DP ACT,207382,,People Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30151177,REDACTED UNDER DP ACT,1128.88,REDACTED UNDER DP ACT,225228,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,01/02/2013,DSSCITT30231843,DSTTG Tra 164,500,REDACTED UNDER DP ACT,295419,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,12/02/2013,LLCCRED30556280,007,749.5,REDACTED UNDER DP ACT,290017,,People Services,Professional Fees,4306,INDV
+18,Devon County Council,08/02/2013,LEGAL30547855,35036,900,REDACTED UNDER DP ACT,250626,577830892,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30150814,REDACTED UNDER DP ACT,1299.4,REDACTED UNDER DP ACT,183167,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232041,DSTTG-Feb295420,900,REDACTED UNDER DP ACT,295420,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232042,DSTTG-Feb295436,500,REDACTED UNDER DP ACT,295436,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,05/02/2013,CFBOUT30100904,REDACTED UNDER DP ACT,658.71,REDACTED UNDER DP ACT,177730,,People Services,Weekly Allowances,5712,INDV
+18,Devon County Council,12/02/2013,CFBOUT30101350,REDACTED UNDER DP ACT,658.71,REDACTED UNDER DP ACT,177730,,People Services,Weekly Allowances,5712,INDV
+18,Devon County Council,19/02/2013,CFBOUT30101798,REDACTED UNDER DP ACT,658.71,REDACTED UNDER DP ACT,177730,,People Services,Weekly Allowances,5712,INDV
+18,Devon County Council,05/02/2013,CFBOUT30101092,REDACTED UNDER DP ACT,522.54,REDACTED UNDER DP ACT,291807,,People Services,Weekly Allowances,5712,INDV
+18,Devon County Council,12/02/2013,CFBOUT30101540,REDACTED UNDER DP ACT,522.54,REDACTED UNDER DP ACT,291807,,People Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,19/02/2013,CFBOUT30101987,REDACTED UNDER DP ACT,700.73,REDACTED UNDER DP ACT,291807,,People Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,26/02/2013,CFBOUT30102428,REDACTED UNDER DP ACT,522.54,REDACTED UNDER DP ACT,291807,,People Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,27/02/2013,EDUC30243925,1480213,2177.7,REDACTED UNDER DP ACT,257024,,People Services,Professional Fees,4306,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232043,DSTTG-Feb295421,500,REDACTED UNDER DP ACT,295421,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,20/02/2013,FACM30436486,01612/01,1675,REDACTED UNDER DP ACT,210009,,Corporate Services,Professional Fees,4306,INDV
+18,Devon County Council,20/02/2013,FACM30436487,01611/01,650,REDACTED UNDER DP ACT,210009,,Corporate Services,Professional Fees,4306,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232044,DSTTG-Feb295422,500,REDACTED UNDER DP ACT,295422,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026830,REDACTED UNDER DP ACT,578.8,REDACTED UNDER DP ACT,196903,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026837,REDACTED UNDER DP ACT,607.74,REDACTED UNDER DP ACT,196903,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,25/02/2013,CFADDAY30027037,REDACTED UNDER DP ACT,578.8,REDACTED UNDER DP ACT,196903,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,25/02/2013,CFADDAY30027044,REDACTED UNDER DP ACT,607.74,REDACTED UNDER DP ACT,196903,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,28/02/2013,CYPSWLOC30213290,CFC345,600,REDACTED UNDER DP ACT,293878,,People Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30150973,REDACTED UNDER DP ACT,560,REDACTED UNDER DP ACT,203824,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30151374,REDACTED UNDER DP ACT,1414.76,REDACTED UNDER DP ACT,241418,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,05/02/2013,CFCLEAV30119704,REDACTED UNDER DP ACT,2151.14,REDACTED UNDER DP ACT,292380,,People Services,Care Leaver - Weekly Allowance,6006,INDV
+18,Devon County Council,05/02/2013,CFBOUT30101104,REDACTED UNDER DP ACT,905.05,REDACTED UNDER DP ACT,295337,,People Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,21/02/2013,CYPSWLOC30213032,CFC344,600,REDACTED UNDER DP ACT,295337,,People Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,11/02/2013,FINSSCW30458310,0173,676.73,REDACTED UNDER DP ACT,248288,,People Services,Professional Fees,4306,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230796,BURS06,500,REDACTED UNDER DP ACT,295690,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/02/2013,LEGAL30547794,35151,500,REDACTED UNDER DP ACT,202750,456142848,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,05/02/2013,LEGAL30547840,35209,600,REDACTED UNDER DP ACT,202750,456142848,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,21/02/2013,LEGAL30547974,31919,750,REDACTED UNDER DP ACT,202750,456142848,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,20/02/2013,CFSUPP30171910,REDACTED UNDER DP ACT,689.78,REDACTED UNDER DP ACT,117854,,People Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,20/02/2013,CFSUPP30171986,REDACTED UNDER DP ACT,1774.88,REDACTED UNDER DP ACT,117854,,People Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,19/02/2013,HQ30527121,JANUARY 2013,1200,REDACTED UNDER DP ACT,242789,,Place Services,Professional Fees,4306,INDV
+18,Devon County Council,06/02/2013,CFADRES30074849,REDACTED UNDER DP ACT,5464.56,REDACTED UNDER DP ACT,90051,,People Services,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,20/02/2013,CFADRES30075525,REDACTED UNDER DP ACT,5464.56,REDACTED UNDER DP ACT,90051,,People Services,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30150412,REDACTED UNDER DP ACT,1565.76,REDACTED UNDER DP ACT,66686,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230797,BURS06,500,REDACTED UNDER DP ACT,295693,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,27/02/2013,CYPEELOC30180453,UNIT4 RENT MAR,500,REDACTED UNDER DP ACT,226685,,People Services,Rents & other landlord charges payable,2321,INDV
+18,Devon County Council,20/02/2013,CFSUPP30171996,REDACTED UNDER DP ACT,659.68,REDACTED UNDER DP ACT,118066,,People Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232045,DSTTG-Feb295423,2700,REDACTED UNDER DP ACT,295423,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,27/02/2013,WASTE30650358,PP16/3,700,REDACTED UNDER DP ACT,15147,,Place Services,Venue Hire,2322,INDV
+18,Devon County Council,28/02/2013,LEGAL30548019,34915,1091.2,REDACTED UNDER DP ACT,207067,524284846,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,20/02/2013,LEGAL30547942,34972,1207.8,REDACTED UNDER DP ACT,292372,,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230798,BURS06,500,REDACTED UNDER DP ACT,295694,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30152490,REDACTED UNDER DP ACT,965.16,REDACTED UNDER DP ACT,294245,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,14/02/2013,CYPNMLOC30199140,REDACTED UNDER DP ACT,835.91,REDACTED UNDER DP ACT,295568,,People Services,Section 17 Payments (3rd),5710,INDV
+18,Devon County Council,06/02/2013,CYPSWLOC30212268,240113,885.7,REDACTED UNDER DP ACT,198659,,People Services,Pay - Non contract staff paid by claim,1071,INDV
+18,Devon County Council,05/02/2013,LEGAL30547826,90478 15/1/13,950,REDACTED UNDER DP ACT,268548,743963602,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,05/02/2013,LEGAL30547827,90627,750,REDACTED UNDER DP ACT,268548,743963602,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,18/02/2013,LEGAL30547927,90326,570,REDACTED UNDER DP ACT,268548,743963602,Corporate Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,18/02/2013,LEGAL30547927,90326,2850,REDACTED UNDER DP ACT,268548,743963602,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,26/02/2013,LEGAL30548011,90478,1250,REDACTED UNDER DP ACT,268548,743963602,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,07/02/2013,CYPNMLOC30199042,AK 23/02/13,500,REDACTED UNDER DP ACT,249869,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,27/02/2013,FNEXMHLD30473549,18.02/MALYON,5392.65,REDACTED UNDER DP ACT,298338,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230799,BURS06,500,REDACTED UNDER DP ACT,295633,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,12/02/2013,FACM30436399,WORK & MATERIAL,814.2,REDACTED UNDER DP ACT,61760,,Corporate Services,Building Mtce Works - programmed,2102,INDV
+18,Devon County Council,21/02/2013,CYPSWLOC30213030,CFC342,599.98,REDACTED UNDER DP ACT,295797,,People Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,20/02/2013,CFSUPP30172015,REDACTED UNDER DP ACT,4166.72,REDACTED UNDER DP ACT,120578,,People Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,07/02/2013,FINSSCW30458367,1,1360,REDACTED UNDER DP ACT,295274,,People Services,Management Consultancy,4303,INDV
+18,Devon County Council,01/02/2013,DSSCITT30231693,DSTTG Tra 014,500,REDACTED UNDER DP ACT,295424,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,20/02/2013,HQ30527201,130102/SW,1764,REDACTED UNDER DP ACT,262754,,Place Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230800,BURS06,500,REDACTED UNDER DP ACT,295703,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230801,BURS06,500,REDACTED UNDER DP ACT,295704,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,18/02/2013,HIGHWAYS30507419,8,791.25,REDACTED UNDER DP ACT,196492,,Place Services,Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232046,DSTTG-Feb295425,500,REDACTED UNDER DP ACT,295425,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,26/02/2013,DHRP30224612,17-00,698,REDACTED UNDER DP ACT,155527,,Corporate Services,Professional Fees,4306,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232047,DSTTG-Feb295426,500,REDACTED UNDER DP ACT,295426,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,01/02/2013,DSSCITT30231931,DSTTG Tra 252,4400,REDACTED UNDER DP ACT,295428,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,05/02/2013,DSSCITT30232245,0041,2500,REDACTED UNDER DP ACT,191287,,People Services,Professional Fees,4306,INDV
+18,Devon County Council,26/02/2013,DHRP30224593,000015,1716,REDACTED UNDER DP ACT,231701,,Corporate Services,Professional Fees,4306,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026781,REDACTED UNDER DP ACT,900,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026782,REDACTED UNDER DP ACT,1120,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026783,REDACTED UNDER DP ACT,1152,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026784,REDACTED UNDER DP ACT,984,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026785,REDACTED UNDER DP ACT,2160,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026786,REDACTED UNDER DP ACT,2056.32,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,18/02/2013,CFADDAY30026787,REDACTED UNDER DP ACT,2640,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/02/2013,CFADDAY30027177,REDACTED UNDER DP ACT,592,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/02/2013,CFADDAY30027178,REDACTED UNDER DP ACT,680,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/02/2013,CFADDAY30027179,REDACTED UNDER DP ACT,680,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/02/2013,CFADDAY30027180,REDACTED UNDER DP ACT,680,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/02/2013,CFADDAY30027181,REDACTED UNDER DP ACT,680,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/02/2013,CFADDAY30027182,REDACTED UNDER DP ACT,540,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/02/2013,CFADDAY30027183,REDACTED UNDER DP ACT,680,REDACTED UNDER DP ACT,137894,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232049,DSTTG-Feb295429,500,REDACTED UNDER DP ACT,295429,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230802,BURS06,500,REDACTED UNDER DP ACT,295705,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/02/2013,DHRP30224427,901,1181,REDACTED UNDER DP ACT,301167,,Corporate Services,Professional Fees,4306,INDV
+18,Devon County Council,15/02/2013,DHRP30224495,902,1169.95,REDACTED UNDER DP ACT,301167,,Corporate Services,Management Consultancy,4303,INDV
+18,Devon County Council,26/02/2013,DHRP30224636,903,2349.8,REDACTED UNDER DP ACT,301167,,Corporate Services,Management Consultancy,4303,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230803,BURS06,900,REDACTED UNDER DP ACT,295706,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,05/02/2013,DDRC30217131,54,910,REDACTED UNDER DP ACT,6269,,Place Services,Professional Fees,4306,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230804,BURS06,500,REDACTED UNDER DP ACT,295707,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230805,BURS06,500,REDACTED UNDER DP ACT,295708,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30152346,REDACTED UNDER DP ACT,2034,REDACTED UNDER DP ACT,291131,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,08/02/2013,LEGAL30547847,AD 24/07/12,1803.1,REDACTED UNDER DP ACT,301365,,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30151289,REDACTED UNDER DP ACT,1158.36,REDACTED UNDER DP ACT,232753,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230806,BURS06,500,REDACTED UNDER DP ACT,295709,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232050,DSTTG-Feb295438,500,REDACTED UNDER DP ACT,295438,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,13/02/2013,CFADDAY30026565,REDACTED UNDER DP ACT,765.56,REDACTED UNDER DP ACT,238591,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,13/02/2013,CFADDAY30026566,REDACTED UNDER DP ACT,1028.16,REDACTED UNDER DP ACT,238591,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,20/02/2013,CFADDAY30026951,REDACTED UNDER DP ACT,765.56,REDACTED UNDER DP ACT,238591,,People Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,28/02/2013,LLCAXEVA30553451,1,510,REDACTED UNDER DP ACT,301354,,People Services,Training inc Travel Costs,1802,INDV
+18,Devon County Council,05/02/2013,LEGAL30547830,32762,620,REDACTED UNDER DP ACT,22839,691715121,Corporate Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,05/02/2013,LEGAL30547830,32762,3100,REDACTED UNDER DP ACT,22839,691715121,Place Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,18/02/2013,LEGAL30547918,30368,650,REDACTED UNDER DP ACT,22839,691715121,Place Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,13/02/2013,CFCHIL1730109856,REDACTED UNDER DP ACT,653,REDACTED UNDER DP ACT,290897,,People Services,Section 17 Payments (3rd),5710,INDV
+18,Devon County Council,25/02/2013,CYPSWLOC30213111,REDACTED UNDER DP ACT,1560,REDACTED UNDER DP ACT,251826,,People Services,Section 17 Payments (3rd),5710,INDV
+18,Devon County Council,15/02/2013,LLCBARNS30553550,17,600,REDACTED UNDER DP ACT,283184,,People Services,Professional Fees,4306,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232051,DSTTG-Feb295430,500,REDACTED UNDER DP ACT,295430,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230807,BURS06,900,REDACTED UNDER DP ACT,295710,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,05/02/2013,CFBOUT30100958,REDACTED UNDER DP ACT,869.18,REDACTED UNDER DP ACT,209780,,People Services,Weekly Allowances,5712,INDV
+18,Devon County Council,26/02/2013,CFBOUT30102293,REDACTED UNDER DP ACT,1044.96,REDACTED UNDER DP ACT,209780,,People Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,28/02/2013,CYPSWLOC30213304,34 (DCC),589.8,REDACTED UNDER DP ACT,302028,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30150459,REDACTED UNDER DP ACT,526.6,REDACTED UNDER DP ACT,102654,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232052,DSTTG-Feb295431,500,REDACTED UNDER DP ACT,295431,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,07/02/2013,CYPEELOC30184128,REDACTED UNDER DP ACT,1017.3,REDACTED UNDER DP ACT,301362,,People Services,Section 17 Payments (3rd),5710,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232053,DSTTG-Feb295432,900,REDACTED UNDER DP ACT,295432,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,08/02/2013,CYPSWLOC30212526,CS102/3115,500,REDACTED UNDER DP ACT,251574,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,14/02/2013,LLCTIVER30560444,04/13,840,REDACTED UNDER DP ACT,227193,,People Services,Management Consultancy,4303,INDV
+18,Devon County Council,14/02/2013,LLCTIVER30560443,021,1500,REDACTED UNDER DP ACT,241921,892501223,People Services,Management Consultancy,4303,INDV
+18,Devon County Council,07/02/2013,HIGHWAYS30506230,DC2012/13-51,574.34,REDACTED UNDER DP ACT,263456,,Place Services,Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,21/02/2013,HIGHWAYS30507272,DC2012/13-53,1841.18,REDACTED UNDER DP ACT,263456,,Place Services,Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,15/02/2013,LLCTORRI30561321,OCT/NOV 12,695.1,REDACTED UNDER DP ACT,80391,,People Services,Professional Fees,4306,INDV
+18,Devon County Council,15/02/2013,LLCTORRI30561322,DEC/JAN 13,755.6,REDACTED UNDER DP ACT,80391,,People Services,Professional Fees,4306,INDV
+18,Devon County Council,20/02/2013,FACM30436492,REIMBURSEMENT,2350,REDACTED UNDER DP ACT,51804,326706459,Corporate Services,Other Building Maintenance,2251,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230808,BURS06,500,REDACTED UNDER DP ACT,295711,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232054,DSTTG-Feb295433,2700,REDACTED UNDER DP ACT,295433,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,13/02/2013,LEGAL30547876,35123,1250,REDACTED UNDER DP ACT,182208,,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,22/02/2013,LEGAL30547986,35154,1150,REDACTED UNDER DP ACT,182208,,People Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232055,DSTTG-Feb295435,500,REDACTED UNDER DP ACT,295435,,People Services,Discretionary Awards,6101,INDV
+18,Devon County Council,08/02/2013,LEGAL30547854,167753 JAN 13,680,REDACTED UNDER DP ACT,271358,416746050,Corporate Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,08/02/2013,LEGAL30547854,167753 JAN 13,3400,REDACTED UNDER DP ACT,271358,416746050,Place Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,08/02/2013,DPSCITT30230809,BURS06,900,REDACTED UNDER DP ACT,295712,,People Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30150895,REDACTED UNDER DP ACT,603.48,REDACTED UNDER DP ACT,195025,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30151152,REDACTED UNDER DP ACT,515.88,REDACTED UNDER DP ACT,222171,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30150413,REDACTED UNDER DP ACT,1848,REDACTED UNDER DP ACT,68455,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,20/02/2013,CFSUPP30172023,REDACTED UNDER DP ACT,634.08,REDACTED UNDER DP ACT,131080,,People Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,06/02/2013,CFDIRPAY30150754,REDACTED UNDER DP ACT,566.16,REDACTED UNDER DP ACT,176688,,People Services,Direct Payments,6401,INDV
+18,Devon County Council,27/02/2013,EDUC30243985,DEC & JAN 12/3,750,REDACTED UNDER DP ACT,188750,,People Services,Professional Fees,4306,INDV
+18,Devon County Council,05/02/2013,CFBOUT30100943,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,People Services,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,12/02/2013,CFBOUT30101390,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,People Services,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,19/02/2013,CFBOUT30101839,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,People Services,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,26/02/2013,CFBOUT30102279,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,People Services,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,08/02/2013,CYPSWLOC30212484,CS102/0292,500,REDACTED UNDER DP ACT,279255,,People Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,07/02/2013,FINSSCW30458301,DCC01.13,1175.43,REDACTED UNDER DP ACT,178050,,People Services,Management Consultancy,4303,INDV
+18,Devon County Council,01/02/2013,DSSCITT30232056,DSTTG-Feb295434,900,REDACTED UNDER DP ACT,295434,,People Services,Discretionary Awards,6101,INDV
 18,Devon County Council,13/02/2013,RECSERV30603816,1588,720.79,24 HOUR CARE LTD,274488,,Corporate Services,External Agency Staff,4321,LTD
 18,Devon County Council,13/02/2013,RECSERV30603822,1603,1158.51,24 HOUR CARE LTD,274488,,Corporate Services,External Agency Staff,4321,LTD
 18,Devon County Council,13/02/2013,RECSERV30603823,1596,1193.45,24 HOUR CARE LTD,274488,,Corporate Services,External Agency Staff,4321,LTD
@@ -3710,9 +3710,9 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,20/02/2013,CYPSWLOC30213046,CAR20035,704.54,CARES (UK) LTD,109886,698507282,People Services,Incidental costs Fostered Children (3rd),5715,LTD
 18,Devon County Council,20/02/2013,CYPSWLOC30213047,CAR19908,494.66,CARES (UK) LTD,109886,698507282,People Services,Incidental costs Fostered Children (3rd),5715,LTD
 18,Devon County Council,06/02/2013,GMHFM30485992,14085,1274.11,CARRIER CONTROLS,178672,,Corporate Services,Other Building Maintenance,2251,LTD
-18,Devon County Council,28/02/2013,CYPSWLOC30213101,130080,960,CATCH-POINT CONSULTANCY LTD,220033,,People Services,Section 17 Payments (3rd),5710,LTD
-18,Devon County Council,28/02/2013,CYPSWLOC30213240,121710,2400,CATCH-POINT CONSULTANCY LTD,220033,,People Services,Section 17 Payments (3rd),5710,LTD
-18,Devon County Council,28/02/2013,CYPSWLOC17336366,CREDIT NOTE 2,-2400,CATCH-POINT CONSULTANCY LTD,220033,,People Services,Section 17 Payments (3rd),5710,LTD
+18,Devon County Council,28/02/2013,CYPSWLOC30213101,REDACTED UNDER DP ACT,960,CATCH-POINT CONSULTANCY LTD,220033,,People Services,Section 17 Payments (3rd),5710,LTD
+18,Devon County Council,28/02/2013,CYPSWLOC30213240,REDACTED UNDER DP ACT,2400,CATCH-POINT CONSULTANCY LTD,220033,,People Services,Section 17 Payments (3rd),5710,LTD
+18,Devon County Council,28/02/2013,CYPSWLOC17336366,REDACTED UNDER DP ACT,-2400,CATCH-POINT CONSULTANCY LTD,220033,,People Services,Section 17 Payments (3rd),5710,LTD
 18,Devon County Council,06/02/2013,FINTBAD30469696,1076,1605.32,CAVENDISH HEALTHCARE LTD,280027,929397961,People Services,Equipment - Private (3rd),5741,LTD
 18,Devon County Council,06/02/2013,FINTBAD30469697,1077,1226.25,CAVENDISH HEALTHCARE LTD,280027,929397961,People Services,Equipment - Private (3rd),5741,LTD
 18,Devon County Council,06/02/2013,FINTBAD30469699,1078,1640.59,CAVENDISH HEALTHCARE LTD,280027,929397961,People Services,Equipment - Private (3rd),5741,LTD
@@ -3847,8 +3847,8 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,21/02/2013,ACLCENT30003449,3,1184,ELITE TRAINING SOUTH WEST LTD,294225,,Place Services,Other Fees & Charges (Expenditure),4311,LTD
 18,Devon County Council,11/02/2013,EXTFUND30433462,DEV311,1584,ENGLISH LACROSSE ASSOCIATION LTD,301363,519355141,Place Services,Contributions to other estabs (3rd),5601,LTD
 18,Devon County Council,06/02/2013,FACM30436367,INV59914,420,EVAC + CHAIR INTERNATIONAL LTD,168482,927258012,Corporate Services,Establishments Vehicles Costs (inc maint,3002,LTD
-18,Devon County Council,20/02/2013,CYPEELOC30184194,BABATUNDE FEB,650,EVELEIGHS DEVON LTD,264187,,People Services,Section 17 Payments (3rd),5710,LTD
-18,Devon County Council,27/02/2013,CYPEELOC30184286,IJEH 1/3/13,650,EVELEIGHS DEVON LTD,264187,,People Services,Section 17 Payments (3rd),5710,LTD
+18,Devon County Council,20/02/2013,CYPEELOC30184194,REDACTED UNDER DP ACT,650,EVELEIGHS DEVON LTD,264187,,People Services,Section 17 Payments (3rd),5710,LTD
+18,Devon County Council,27/02/2013,CYPEELOC30184286,REDACTED UNDER DP ACT,650,EVELEIGHS DEVON LTD,264187,,People Services,Section 17 Payments (3rd),5710,LTD
 18,Devon County Council,27/02/2013,LLCCRED30556285,BC00002714,800,EXETER GOLF & COUNTRY CLUB LTD,20627,141085693,People Services,Hospitality & Other Expenses,4703,LTD
 18,Devon County Council,14/02/2013,EDUC30243926,3427489,618.75,EXETER RUGBY CLUB LTD,34972,,Corporate Services,Venue Hire,2322,LTD
 18,Devon County Council,26/02/2013,EARLYRS30235332,25/02/13 RC,6000,EXWICK ARK LTD THE,174565,,People Services,Payments to Vol Providers (3rd),5501,LTD
@@ -5042,7 +5042,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,27/02/2013,LIBHQ30551479,40151565,614.09,TOSHIBA TEC UK IMAGING SYSTEMS,75617,765582101,Place Services,Printing & Design,4201,LTD
 18,Devon County Council,26/02/2013,FINTBAD30469941,TC0030,5000,TOTNES CARING LTD,52103,,People Services,Care Spot - Private (3rd),5701,LTD
 18,Devon County Council,26/02/2013,NPSWI30565964,0108,20580.09,TOTUS ENGINEERING LTD,273943,100127587,Corporate Services,Building Mtce Works - programmed,2102,LTD
-18,Devon County Council,21/02/2013,CYPSWLOC30213048,0000022157,925,TRACESMART LTD,215812,736830813,People Services,Section 17 Payments (3rd),5710,LTD
+18,Devon County Council,21/02/2013,CYPSWLOC30213048,REDACTED UNDER DP ACT,925,TRACESMART LTD,215812,736830813,People Services,Section 17 Payments (3rd),5710,LTD
 18,Devon County Council,07/02/2013,FINTBAD30469588,3IN/10211663,6203.2,TUNSTALL HEALTHCARE UK LTD,201801,,People Services,Equipment - Private (3rd),5741,LTD
 18,Devon County Council,04/02/2013,WASTE30650285,SFINV-A2266,1250,U6 MEDIA,299368,,Place Services,Miscellaneous expenditure,4901,LTD
 18,Devon County Council,08/02/2013,YOUTHNTH30657055,2060,1800,ULTIMATE ADVENTURE CENTRE LTD,289488,105287332,People Services,Grants Paid,4802,LTD
@@ -5330,7 +5330,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,27/02/2013,WASTE30650462,40028904,3770,EAST DEVON DIST COUNCIL(RATES),8165,142218990,Place Services,Contributions to Local Auth (3rd),5203,WGA
 18,Devon County Council,08/02/2013,DPSCITT30230768,SCHALL1201,1973.29,ELBURTON PRIMARY SCHOOL,34137,144675845,People Services,Curriculum Support (Schools),4376,WGA
 18,Devon County Council,28/02/2013,WASTE30650391,ECC Q3 12/13,157995.91,EXETER C C(RECYCLING CREDITS),247535,,Place Services,Contributions to Local Auth (3rd),5203,WGA
-18,Devon County Council,15/02/2013,CYPSWLOC30212897,50001663-0094,1707.76,EXETER CITY COUNCIL(RATES&C/TAX),9724,142335594,People Services,Section 17 Payments (3rd),5710,WGA
+18,Devon County Council,15/02/2013,CYPSWLOC30212897,REDACTED UNDER DP ACT,1707.76,EXETER CITY COUNCIL(RATES&C/TAX),9724,142335594,People Services,Section 17 Payments (3rd),5710,WGA
 18,Devon County Council,01/02/2013,EARLYRS30235183,40609470,2245.35,EXETER CITY COUNCIL(RATES&C/TAX),9724,142335594,People Services,Rents & other landlord charges payable,2321,WGA
 18,Devon County Council,25/02/2013,FNEXMHLD30473490,40668945,500,EXETER CITY COUNCIL(RATES&C/TAX),9724,142335594,People Services,Contributions to Private Contractors (3r,5751,WGA
 18,Devon County Council,20/02/2013,CFSUPP30171914,REDACTED UNDER DP ACT,2106,EXETER CITY COUNCL (FINANCE),4272,,People Services,Accomodation Based Services (3rd),5707,WGA

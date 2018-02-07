@@ -185,13 +185,13 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,03/10/2011,DPSCITT20022077,253,14000,WEST OF ENGLAND SCHL(SUBSIDIARY),262248,977025791,Children & Younger Persons,Rents & other landlord charges payable,2321,EDUC
 18,Devon County Council,03/10/2011,DPSCITT17308401,CR253,-1465.92,WEST OF ENGLAND SCHL(SUBSIDIARY),262248,977025791,Children & Younger Persons,Rents & other landlord charges payable,2321,EDUC
 18,Devon County Council,03/10/2011,EXCHEQ20102461,3001,3436.77,HUNTINGTON HOUSE,212907,412208306,Children & Younger Persons,Educational / Residential Visits,4331,HOTL
-18,Devon County Council,03/10/2011,LDP20272858,DSTTG OCT,666.66,CHALKLEY,282403,,Children & Younger Persons,Discretionary Awards,6101,INDV
-18,Devon County Council,03/10/2011,EXCHEQ20102310,49/RATCLIFFE,3221.75,DOIDGE,212324,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,03/10/2011,LDP20272867,DSTTG OCT,666.66,MCDONNELL,282404,,Children & Younger Persons,Discretionary Awards,6101,INDV
-18,Devon County Council,03/10/2011,LDP20272876,DSTTG OCT,666.66,MCFARLAND,282405,,Children & Younger Persons,Discretionary Awards,6101,INDV
-18,Devon County Council,03/10/2011,LDP20272885,DSTTG OCT,666.66,MILLS,282406,,Children & Younger Persons,Discretionary Awards,6101,INDV
-18,Devon County Council,03/10/2011,LDP20272894,DSTTG OCT,666.66,POOLE,282407,,Children & Younger Persons,Discretionary Awards,6101,INDV
-18,Devon County Council,03/10/2011,CFADDAY19827088,REDACTED UNDER DP ACT,765.56,ROSEWALL & WILLIAMS,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,03/10/2011,LDP20272858,DSTTG OCT,666.66,REDACTED UNDER DP ACT,282403,,Children & Younger Persons,Discretionary Awards,6101,INDV
+18,Devon County Council,03/10/2011,EXCHEQ20102310,49/RATCLIFFE,3221.75,REDACTED UNDER DP ACT,212324,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,03/10/2011,LDP20272867,DSTTG OCT,666.66,REDACTED UNDER DP ACT,282404,,Children & Younger Persons,Discretionary Awards,6101,INDV
+18,Devon County Council,03/10/2011,LDP20272876,DSTTG OCT,666.66,REDACTED UNDER DP ACT,282405,,Children & Younger Persons,Discretionary Awards,6101,INDV
+18,Devon County Council,03/10/2011,LDP20272885,DSTTG OCT,666.66,REDACTED UNDER DP ACT,282406,,Children & Younger Persons,Discretionary Awards,6101,INDV
+18,Devon County Council,03/10/2011,LDP20272894,DSTTG OCT,666.66,REDACTED UNDER DP ACT,282407,,Children & Younger Persons,Discretionary Awards,6101,INDV
+18,Devon County Council,03/10/2011,CFADDAY19827088,REDACTED UNDER DP ACT,765.56,REDACTED UNDER DP ACT,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
 18,Devon County Council,03/10/2011,EXCHEQ20101930,9146862I,603.2,BOOKPOINT LTD,19344,532582940,Children & Younger Persons,Books & Publications,4006,LTD
 18,Devon County Council,03/10/2011,EXCHEQ20093000,50523391/1,598.44,BRITISH GAS BUSINESS (ELEC),114029,684966762,Children & Younger Persons,Electricity,2302,LTD
 18,Devon County Council,03/10/2011,EXCHEQ20097128,50510494/1,509.68,BRITISH GAS BUSINESS (ELEC),114029,684966762,Children & Younger Persons,Electricity,2302,LTD
@@ -338,9 +338,9 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,04/10/2011,CYPCENT19965973,22,25000,PILTON COMMUNITY COLL ACADEMY,279835,,Children & Younger Persons,Professional Fees,4306,EDUC
 18,Devon County Council,04/10/2011,EDUC17309107,CLASS11/2181629,-5351,PILTON COMMUNITY COLL ACADEMY,279835,,Children & Younger Persons,Detailed & Exceptional Arrangements,9052,EDUC
 18,Devon County Council,04/10/2011,CFCLEAV19908522,REDACTED UNDER DP ACT,1298.7,RED HOUSE HOTEL THE,103407,140817877,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
-18,Devon County Council,04/10/2011,FINSUPP20236853,LTD 007,0,BECK,118050,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
-18,Devon County Council,04/10/2011,CFBOUT19887391,REDACTED UNDER DP ACT,965.88,GARBUTT,181182,,Children & Younger Persons,Weekly Allowances,5712,INDV
-18,Devon County Council,04/10/2011,CFBOUT19887423,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,04/10/2011,FINSUPP20236853,LTD 007,0,REDACTED UNDER DP ACT,118050,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
+18,Devon County Council,04/10/2011,CFBOUT19887391,REDACTED UNDER DP ACT,965.88,REDACTED UNDER DP ACT,181182,,Children & Younger Persons,Weekly Allowances,5712,INDV
+18,Devon County Council,04/10/2011,CFBOUT19887423,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
 18,Devon County Council,04/10/2011,FINEXEAD20216518,20453823,704.84,3663  (IVYBRIDGE),16295,643994692,Adult & Community Services,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,04/10/2011,EXCHEQ20103019,55193,645.11,A + D-SW SUPPLIES,176219,,Children & Younger Persons,Cleaning materials (inc pools),2603,LTD
 18,Devon County Council,04/10/2011,NPSWI20297891,2378,1389.18,A J CONTRACTORS (DEVON) LTD,23596,540466358,Children & Younger Persons,Balance B/F,0001,LTD
@@ -1161,18 +1161,18 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,05/10/2011,EXCHEQ20103334,10356,1369.75,TEACHING APPOINTMENTS,216404,891679857,Children & Younger Persons,Supply Teachers / non contract hours - P,1020,FACT
 18,Devon County Council,05/10/2011,CFADDAY19827154,REDACTED UNDER DP ACT,706.56,GROVE THE,196703,,Adult & Community Services,Individualised Support - Private (3rd),5706,HOTL
 18,Devon County Council,05/10/2011,CFADDAY19827155,REDACTED UNDER DP ACT,706.56,GROVE THE,196703,,Adult & Community Services,Individualised Support - Private (3rd),5706,HOTL
-18,Devon County Council,05/10/2011,CFSUPP19956414,REDACTED UNDER DP ACT,1041.68,BAXTER,123276,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,05/10/2011,CFSUPP19956386,REDACTED UNDER DP ACT,13038.36,BECK,118050,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
-18,Devon County Council,05/10/2011,CFADDAY19827138,REDACTED UNDER DP ACT,2044.59,BIBBINGS,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,05/10/2011,CFSUPP19956403,REDACTED UNDER DP ACT,2025.8,BROWN,120559,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
-18,Devon County Council,05/10/2011,FINNDAD20227363,1167,960,DEAN,168479,,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,05/10/2011,LDP20272956,JULY 2011,1225,DEANE,197075,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,05/10/2011,CFADRES19864394,REDACTED UNDER DP ACT,5368.96,HIBBERD,90051,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,05/10/2011,CFSUPP19956389,REDACTED UNDER DP ACT,694.4,HOWLETT,118066,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,05/10/2011,CFSUPP19956412,REDACTED UNDER DP ACT,4166.72,LEWIS,120578,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,05/10/2011,CYPEELOC19969326,25,2878.28,MARKS,251640,,Children & Younger Persons,Training inc Travel Costs,1802,INDV
-18,Devon County Council,05/10/2011,EXCHEQ20103564,TIV/11-001,1010,ROCKET,276605,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,05/10/2011,CFSUPP19956425,REDACTED UNDER DP ACT,667.44,WELLMAN,131080,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,05/10/2011,CFSUPP19956414,REDACTED UNDER DP ACT,1041.68,REDACTED UNDER DP ACT,123276,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,05/10/2011,CFSUPP19956386,REDACTED UNDER DP ACT,13038.36,REDACTED UNDER DP ACT,118050,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
+18,Devon County Council,05/10/2011,CFADDAY19827138,REDACTED UNDER DP ACT,2044.59,REDACTED UNDER DP ACT,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,05/10/2011,CFSUPP19956403,REDACTED UNDER DP ACT,2025.8,REDACTED UNDER DP ACT,120559,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
+18,Devon County Council,05/10/2011,FINNDAD20227363,1167,960,REDACTED UNDER DP ACT,168479,,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,05/10/2011,LDP20272956,JULY 2011,1225,REDACTED UNDER DP ACT,197075,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,05/10/2011,CFADRES19864394,REDACTED UNDER DP ACT,5368.96,REDACTED UNDER DP ACT,90051,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,05/10/2011,CFSUPP19956389,REDACTED UNDER DP ACT,694.4,REDACTED UNDER DP ACT,118066,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,05/10/2011,CFSUPP19956412,REDACTED UNDER DP ACT,4166.72,REDACTED UNDER DP ACT,120578,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,05/10/2011,CYPEELOC19969326,25,2878.28,REDACTED UNDER DP ACT,251640,,Children & Younger Persons,Training inc Travel Costs,1802,INDV
+18,Devon County Council,05/10/2011,EXCHEQ20103564,TIV/11-001,1010,REDACTED UNDER DP ACT,276605,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,05/10/2011,CFSUPP19956425,REDACTED UNDER DP ACT,667.44,REDACTED UNDER DP ACT,131080,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
 18,Devon County Council,05/10/2011,CFSUPP19956289,REDACTED UNDER DP ACT,721.08,ABBEYFIELD SIDMOUTH SOCIETY,35683,,Adult & Community Services,Accomodation Based Services (3rd),5707,LTD
 18,Devon County Council,05/10/2011,FINEAAD20213214,2349807,653.76,ALLIED HEALTHCARE GROUP LTD,91726,488771383,Adult & Community Services,External Agency Staff,4321,LTD
 18,Devon County Council,05/10/2011,CFSUPP19956416,REDACTED UNDER DP ACT,971.76,ATLANTIC SUPPORT(SUPPPEOPLE ONLY,123298,,Adult & Community Services,Accomodation Based Services (3rd),5707,LTD
@@ -1443,10 +1443,10 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,06/10/2011,CYPSWLOC19989378,SHCL/003885,2000,HERTS CARE & EDUCATION GROUP,240562,,Children & Younger Persons,Residential Care - Private (3rd),5731,FACT
 18,Devon County Council,06/10/2011,CYPSWLOC19989379,SHCL/003884,15500,HERTS CARE & EDUCATION GROUP,240562,,Children & Younger Persons,Residential Care - Private (3rd),5731,FACT
 18,Devon County Council,06/10/2011,FINSSCW20233308,10915,5743.2,PYRAMID PRESENTATIONS,283258,787014416,Adult & Community Services,Conference & Seminar Fees,4702,FACT
-18,Devon County Council,06/10/2011,EXCHEQ20104043,1803,579.38,BALSDON,71279,367229041,Children & Younger Persons,Other Building Maintenance,2251,INDV
-18,Devon County Council,06/10/2011,LEGAL20281206,32197,1400,FLEXMAN,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,06/10/2011,EXCHEQ20103907,96,587.9,IVES,108279,,Children & Younger Persons,Grounds Maintenance Equipment & Consumab,2702,INDV
-18,Devon County Council,06/10/2011,CYPIHRES19975187,001 CS/TP 2011,1990,SCHNEIDER,251826,,Children & Younger Persons,Section 17 Payments (3rd),5710,INDV
+18,Devon County Council,06/10/2011,EXCHEQ20104043,1803,579.38,REDACTED UNDER DP ACT,71279,367229041,Children & Younger Persons,Other Building Maintenance,2251,INDV
+18,Devon County Council,06/10/2011,LEGAL20281206,32197,1400,REDACTED UNDER DP ACT,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,06/10/2011,EXCHEQ20103907,96,587.9,REDACTED UNDER DP ACT,108279,,Children & Younger Persons,Grounds Maintenance Equipment & Consumab,2702,INDV
+18,Devon County Council,06/10/2011,CYPIHRES19975187,REDACTED UNDER DP ACT,1990,REDACTED UNDER DP ACT,251826,,Children & Younger Persons,Section 17 Payments (3rd),5710,INDV
 18,Devon County Council,06/10/2011,FINMDAD20220306,1118,1450.41,24 HOUR CARE LTD,274488,,Adult & Community Services,External Agency Staff,4321,LTD
 18,Devon County Council,06/10/2011,EXCHEQ20104062,STOK30.09.11,1119.6,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,06/10/2011,EXCHEQ20103737,WOODLAND121A,1950,ADVENTURE INTERNATIONAL,264186,501136702,Children & Younger Persons,Educational / Residential Visits,4331,LTD
@@ -1527,12 +1527,12 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,07/10/2011,CSET19964814,4952,3016.44,WEST OF ENGLAND SCH (FEES ACCNT),5243,,Children & Younger Persons,Independent Special School Fees,5733,EDUC
 18,Devon County Council,07/10/2011,EARLYRS20025925,DL/TP,1489.2,CHAGFORD MONTESSORI NURSERY,37953,,Children & Younger Persons,Course / Exam Fees & Registration,4312,EY
 18,Devon County Council,07/10/2011,CYPNMLOC19981367,7,633.6,ST JOHN PRE-SCHOOL,102545,,Children & Younger Persons,Care Other - Private (3rd),5705,EY
-18,Devon County Council,07/10/2011,LEGAL20281211,28252,900,BELL,283018,245137572,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,07/10/2011,LEGAL20281184,91588,1250,CASSIDY,255706,805675615,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,07/10/2011,LEGAL20281210,32568,800,FARQUHARSON,250626,577830892,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,07/10/2011,LEGAL20281214,32698,600,HAYWARD,202750,456142848,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,07/10/2011,EXCHEQ20102577,ILFCOLLEGE,3000.56,KEAL,247457,,Children & Younger Persons,Scraps Interface Error Suspense,EX29,INDV
-18,Devon County Council,07/10/2011,LEGAL20281209,32545,600,VAHIB,182208,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,07/10/2011,LEGAL20281211,28252,900,REDACTED UNDER DP ACT,283018,245137572,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,07/10/2011,LEGAL20281184,91588,1250,REDACTED UNDER DP ACT,255706,805675615,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,07/10/2011,LEGAL20281210,32568,800,REDACTED UNDER DP ACT,250626,577830892,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,07/10/2011,LEGAL20281214,32698,600,REDACTED UNDER DP ACT,202750,456142848,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,07/10/2011,EXCHEQ20102577,ILFCOLLEGE,3000.56,REDACTED UNDER DP ACT,247457,,Children & Younger Persons,Scraps Interface Error Suspense,EX29,INDV
+18,Devon County Council,07/10/2011,LEGAL20281209,32545,600,REDACTED UNDER DP ACT,182208,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
 18,Devon County Council,07/10/2011,EXCHEQ20104511,21996,740,A B COACHES LTD,4161,,Children & Younger Persons,Hire of Vehicles (Non TCS),3501,LTD
 18,Devon County Council,07/10/2011,EARLYRS20025914,843,1200,ACACIA TRAINING & DEVELOPMENT LT,175183,586323128,Children & Younger Persons,Course / Exam Fees & Registration,4312,LTD
 18,Devon County Council,07/10/2011,EARLYRS20025915,842,1650,ACACIA TRAINING & DEVELOPMENT LT,175183,586323128,Children & Younger Persons,Course / Exam Fees & Registration,4312,LTD
@@ -1553,7 +1553,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,07/10/2011,EXCHEQ20104627,104061445063778,814.66,LEWISLIVE LTD,150960,628225639,Children & Younger Persons,Training inc Travel Costs,1802,LTD
 18,Devon County Council,07/10/2011,RESTRAT20371576,R1003,7851.8,METCALFE RESOURCES LTD,245843,898677037,Children & Younger Persons,Professional Fees,4306,LTD
 18,Devon County Council,07/10/2011,EXCHEQ20104631,57395164,3046.92,PEARSON EDUCATION LTD,76576,278537121,Children & Younger Persons,Books & Publications,4006,LTD
-18,Devon County Council,07/10/2011,CYPEELOC19969228,1620/5120,3340.28,PSYCHOLOGY ASSOCIATES LTD,147932,912873418,Children & Younger Persons,Section 17 Payments (3rd),5710,LTD
+18,Devon County Council,07/10/2011,CYPEELOC19969228,REDACTED UNDER DP ACT,3340.28,PSYCHOLOGY ASSOCIATES LTD,147932,912873418,Children & Younger Persons,Section 17 Payments (3rd),5710,LTD
 18,Devon County Council,07/10/2011,EXCHEQ20104679,132859,510,RAM INTERNATIONAL LTD,188005,720550275,Children & Younger Persons,Miscellaneous expenditure,4901,LTD
 18,Devon County Council,07/10/2011,EXCHEQ20104683,CA1001A,800,REALLY USEFUL GROUP LTD THE,96772,577097495,Children & Younger Persons,Other Fees & Charges (Expenditure),4311,LTD
 18,Devon County Council,07/10/2011,EXCHEQ20104358,86612053,685.75,RICOH UK LTD,7150,524161280,Children & Younger Persons,Printing & Design,4201,LTD
@@ -1827,10 +1827,10 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,10/10/2011,FINSSCW20233309,11014,5728.8,PYRAMID PRESENTATIONS,283258,787014416,Adult & Community Services,Conference & Seminar Fees,4702,FACT
 18,Devon County Council,10/10/2011,EXTFUND20206780,7570,993.85,REDROK UK LTD,181146,860420158,Children & Younger Persons,Equipment,4001,FACT
 18,Devon County Council,10/10/2011,CFADDAY19827389,REDACTED UNDER DP ACT,588.8,GROVE THE,196703,,Adult & Community Services,Individualised Support - Private (3rd),5706,HOTL
-18,Devon County Council,10/10/2011,CFADDAY19827365,REDACTED UNDER DP ACT,648.37,BAXTER,123276,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,10/10/2011,EXCHEQ20101465,12122,726,EDUPRINT,250961,901603567,Children & Younger Persons,Printing & Design,4201,INDV
-18,Devon County Council,10/10/2011,LEGAL20281223,32587,975,FARQUHARSON,250626,577830892,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,10/10/2011,LEGAL20281213,32689,875,HORTON,260953,441208976,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,10/10/2011,CFADDAY19827365,REDACTED UNDER DP ACT,648.37,REDACTED UNDER DP ACT,123276,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,10/10/2011,EXCHEQ20101465,12122,726,REDACTED UNDER DP ACT,250961,901603567,Children & Younger Persons,Printing & Design,4201,INDV
+18,Devon County Council,10/10/2011,LEGAL20281223,32587,975,REDACTED UNDER DP ACT,250626,577830892,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,10/10/2011,LEGAL20281213,32689,875,REDACTED UNDER DP ACT,260953,441208976,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
 18,Devon County Council,10/10/2011,EXCHEQ20101598,20452440,548.87,3663  (IVYBRIDGE),16295,643994692,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,10/10/2011,FINNDAD20227477,98391,418.34,ALLSOP & PITTS LTD,20192,140896456,Adult & Community Services,Minor Improvements,2261,LTD
 18,Devon County Council,10/10/2011,EXCHEQ20105260,25927,550,ALWAYS CLEANSING LTD,4085,540464070,Children & Younger Persons,Cleaning Services,2601,LTD
@@ -1989,13 +1989,13 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,11/10/2011,EARLYRS20025939,811,5844.44,CORNWOOD & LUTTON UNDER FIVES,41798,,Children & Younger Persons,Training inc Travel Costs,1802,EY
 18,Devon County Council,11/10/2011,CYPNMLOC19981366,6,561.92,ST JOHN PRE-SCHOOL,102545,,Children & Younger Persons,Care Other - Private (3rd),5705,EY
 18,Devon County Council,11/10/2011,CFCLEAV19908910,REDACTED UNDER DP ACT,500.5,CAMELOT HOTEL,279030,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
-18,Devon County Council,11/10/2011,FNSWMHLD20250162,061011,1429.48,BABER,102526,291498323,Adult & Community Services,Rents & other landlord charges payable,2321,INDV
-18,Devon County Council,11/10/2011,CYPSWLOC19989520,CS102/2148,1100,CAPLIN,214879,,Children & Younger Persons,Retainer Fee (3rd),5721,INDV
-18,Devon County Council,11/10/2011,FINNDAD20227499,BP101011,1185,CLAYPOLE,267144,,Adult & Community Services,Minor Improvements,2261,INDV
-18,Devon County Council,11/10/2011,CFBOUT19887814,REDACTED UNDER DP ACT,919.26,GARBUTT,181182,,Children & Younger Persons,Weekly Allowances,5712,INDV
-18,Devon County Council,11/10/2011,EXCHEQ20096742,DPS1807,875,MACGREGOR ,282475,,Children & Younger Persons,Materials & Consumables,4003,INDV
-18,Devon County Council,11/10/2011,LDP20273036,2011-6,1702.89,TAYLOR,268644,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,11/10/2011,CFBOUT19887848,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,11/10/2011,FNSWMHLD20250162,061011,1429.48,REDACTED UNDER DP ACT,102526,291498323,Adult & Community Services,Rents & other landlord charges payable,2321,INDV
+18,Devon County Council,11/10/2011,CYPSWLOC19989520,CS102/2148,1100,REDACTED UNDER DP ACT,214879,,Children & Younger Persons,Retainer Fee (3rd),5721,INDV
+18,Devon County Council,11/10/2011,FINNDAD20227499,BP101011,1185,REDACTED UNDER DP ACT,267144,,Adult & Community Services,Minor Improvements,2261,INDV
+18,Devon County Council,11/10/2011,CFBOUT19887814,REDACTED UNDER DP ACT,919.26,REDACTED UNDER DP ACT,181182,,Children & Younger Persons,Weekly Allowances,5712,INDV
+18,Devon County Council,11/10/2011,EXCHEQ20096742,DPS1807,875,REDACTED UNDER DP ACT,282475,,Children & Younger Persons,Materials & Consumables,4003,INDV
+18,Devon County Council,11/10/2011,LDP20273036,2011-6,1702.89,REDACTED UNDER DP ACT,268644,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,11/10/2011,CFBOUT19887848,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
 18,Devon County Council,11/10/2011,FINEXEAD20216578,20458555,539.4,3663  (IVYBRIDGE),16295,643994692,Adult & Community Services,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,11/10/2011,EARLYRS20025847,6508,628,ADVANCED MEDIA ENGINEERING LTD,187192,,Children & Younger Persons,Course / Exam Fees & Registration,4312,LTD
 18,Devon County Council,11/10/2011,FINTBAD20241630,14924,505,D M A STAIRLIFTS LTD,283425,453700956,Adult & Community Services,Care staff inc NNEB - Pay,1032,LTD
@@ -2236,8 +2236,8 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,12/10/2011,EXCHEQ20106355,10363,919.75,TEACHING APPOINTMENTS,216404,891679857,Children & Younger Persons,Supply Teachers / non contract hours - P,1020,FACT
 18,Devon County Council,12/10/2011,CYPCENT19966005,INV00900,849.78,BARNSTAPLE HOTEL,71210,144357862,Children & Younger Persons,Venue Hire,2322,HOTL
 18,Devon County Council,12/10/2011,LDP20273081,193145,1298.5,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
-18,Devon County Council,12/10/2011,CFADDAY19827657,REDACTED UNDER DP ACT,1028.16,ROSEWALL & WILLIAMS,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,12/10/2011,RESTRAT20371579,071011,3406.54,WILLIAMS,183081,,Children & Younger Persons,Non contract staff paid by claim - Pay,1071,INDV
+18,Devon County Council,12/10/2011,CFADDAY19827657,REDACTED UNDER DP ACT,1028.16,REDACTED UNDER DP ACT,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,12/10/2011,RESTRAT20371579,071011,3406.54,REDACTED UNDER DP ACT,183081,,Children & Younger Persons,Non contract staff paid by claim - Pay,1071,INDV
 18,Devon County Council,12/10/2011,FINMDAD20220307,1120,1813.29,24 HOUR CARE LTD,274488,,Adult & Community Services,External Agency Staff,4321,LTD
 18,Devon County Council,12/10/2011,EXCHEQ20106098,55580,439.95,A + D-SW SUPPLIES,176219,,Children & Younger Persons,Cleaning Services,2601,LTD
 18,Devon County Council,12/10/2011,FINSSCW20233237,3510,1885.4,A M CARE,169807,831850435,Adult & Community Services,Equipment - Private (3rd),5741,LTD
@@ -2400,8 +2400,8 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,13/10/2011,EXCHEQ20107194,15290566,579.58,EBUYER (UK) LTD,133761,836592300,Children & Younger Persons,IT Hardware - Scanners Printers MFD's,4511,FACT
 18,Devon County Council,13/10/2011,FINNDAD20227447,41989,1962,K K CONTROLS & EQUIPMENT LTD,23297,381518839,Adult & Community Services,Minor Improvements,2261,FACT
 18,Devon County Council,13/10/2011,LDP20273206,437132,646.22,PREMIER INN BUSINESS INNUNT,116242,,Children & Younger Persons,Travel Expenses,3801,HOTL
-18,Devon County Council,13/10/2011,EXCHEQ20106858,270 MAINT,702.5,EVANS,151946,,Children & Younger Persons,IT Hardware - Scanners Printers MFD's,4511,INDV
-18,Devon County Council,13/10/2011,FINMH20222700,9.10.11,840,RATTUE,207065,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,13/10/2011,EXCHEQ20106858,270 MAINT,702.5,REDACTED UNDER DP ACT,151946,,Children & Younger Persons,IT Hardware - Scanners Printers MFD's,4511,INDV
+18,Devon County Council,13/10/2011,FINMH20222700,9.10.11,840,REDACTED UNDER DP ACT,207065,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
 18,Devon County Council,13/10/2011,EXCHEQ20107318,6910/SEPT,1375.31,BAKER M J FOODSERVICE LIMITED,144252,723643639,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,13/10/2011,EXCHEQ20107065,110072,1810,BAYTEK VOICE & DATA LTD,283352,104728628,Children & Younger Persons,IT Hardware - Scanners Printers MFD's,4511,LTD
 18,Devon County Council,13/10/2011,EXCHEQ20107189,524C14503,449.4,BIFFA WASTE SERVICES LTD,20272,537911627,Children & Younger Persons,Refuse Collection inc Skip Hire,2602,LTD
@@ -2482,12 +2482,12 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,14/10/2011,EARLYRS20025966,812,8000,DAISY PRE SCHOOL,40313,,Children & Younger Persons,Training inc Travel Costs,1802,EY
 18,Devon County Council,14/10/2011,EARLYRS20025967,813,3000,RAINBOW NURSERY TOTNES,45850,,Children & Younger Persons,Training inc Travel Costs,1802,EY
 18,Devon County Council,14/10/2011,CYPSWLOC19989566,GILBERT 031011,816.67,EDWARDIAN THE,66853,585521718,Children & Younger Persons,Cl-Relevant Child-Other Costs (3rd),5773,HOTL
-18,Devon County Council,14/10/2011,FINSSCW20233368,2054,500,BEXON,213462,,Adult & Community Services,Professional Fees,4306,INDV
-18,Devon County Council,14/10/2011,EXCHEQ20107535,11/12/23,2083.33,DREW,235944,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,14/10/2011,LEGAL20281216,32673,1100,GODFREY,261593,560758621,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,14/10/2011,LEGAL20281217,30637,550,SMITH,261229,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,14/10/2011,LEGAL20281225,271745,3600,STERLING,283247,734042659,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,14/10/2011,EXCHEQ20108127,PAUL 07/11/09/1,1667.5,WILLIAMS,183081,,Adult & Community Services,Management Consultancy,4303,INDV
+18,Devon County Council,14/10/2011,FINSSCW20233368,2054,500,REDACTED UNDER DP ACT,213462,,Adult & Community Services,Professional Fees,4306,INDV
+18,Devon County Council,14/10/2011,EXCHEQ20107535,11/12/23,2083.33,REDACTED UNDER DP ACT,235944,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,14/10/2011,LEGAL20281216,32673,1100,REDACTED UNDER DP ACT,261593,560758621,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,14/10/2011,LEGAL20281217,30637,550,REDACTED UNDER DP ACT,261229,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,14/10/2011,LEGAL20281225,271745,3600,REDACTED UNDER DP ACT,283247,734042659,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,14/10/2011,EXCHEQ20108127,PAUL 07/11/09/1,1667.5,REDACTED UNDER DP ACT,183081,,Adult & Community Services,Management Consultancy,4303,INDV
 18,Devon County Council,14/10/2011,EXCHEQ20107476,IN00081518,512,AMPM OFFICE EQUIPMENT LTD,61038,682028634,Children & Younger Persons,Equipment,4001,LTD
 18,Devon County Council,14/10/2011,FINMDAD20220254,00008788,929.46,APPLE APPOINTMENTS LTD,72784,787070110,Adult & Community Services,External Agency Staff,4321,LTD
 18,Devon County Council,14/10/2011,FINMDAD20220305,00008781,823.28,APPLE APPOINTMENTS LTD,72784,787070110,Adult & Community Services,External Agency Staff,4321,LTD
@@ -2744,18 +2744,18 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,17/10/2011,CFADDOM19845945,REDACTED UNDER DP ACT,1884.04,UNITED CARE CONCEPTS,251075,,Adult & Community Services,Care Spot - Private (3rd),5701,FACT
 18,Devon County Council,17/10/2011,LDP20273152,00883,910.25,DEVON HOTEL,20541,,Children & Younger Persons,Venue Hire,2322,HOTL
 18,Devon County Council,17/10/2011,CFADDAY19827739,REDACTED UNDER DP ACT,942.08,GROVE THE,196703,,Adult & Community Services,Individualised Support - Private (3rd),5706,HOTL
-18,Devon County Council,17/10/2011,LEGAL20281232,94543,525,COOK,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,17/10/2011,LEGAL20281233,92126,600,COOK,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,17/10/2011,LDP20273191,071011,600,GREGSON,274825,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,17/10/2011,LLCEXMOU20291535,090040,4000,HOWARD,253487,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,17/10/2011,CFADDAY19827735,REDACTED UNDER DP ACT,576.24,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,17/10/2011,CFADDAY19827736,REDACTED UNDER DP ACT,920,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,17/10/2011,LDP20273220,7,791.2,PIKE,279587,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,17/10/2011,LDP20273041,0105,1404.8,STUCHBERY-ULLAH,236267,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,17/10/2011,LDP20273043,0107,2003.2,STUCHBERY-ULLAH,236267,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,17/10/2011,EXCHEQ20109023,178644,5272.77,TUCKER,253837,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
-18,Devon County Council,17/10/2011,CFADDAY19827734,REDACTED UNDER DP ACT,3150.72,WELLMAN,131080,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,17/10/2011,EXCHEQ20108347,01/10/11,950,WILLIAMS,173244,,Children & Younger Persons,Minor Improvements,2261,INDV
+18,Devon County Council,17/10/2011,LEGAL20281232,94543,525,REDACTED UNDER DP ACT,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,17/10/2011,LEGAL20281233,92126,600,REDACTED UNDER DP ACT,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,17/10/2011,LDP20273191,071011,600,REDACTED UNDER DP ACT,274825,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,17/10/2011,LLCEXMOU20291535,090040,4000,REDACTED UNDER DP ACT,253487,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,17/10/2011,CFADDAY19827735,REDACTED UNDER DP ACT,576.24,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,17/10/2011,CFADDAY19827736,REDACTED UNDER DP ACT,920,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,17/10/2011,LDP20273220,7,791.2,REDACTED UNDER DP ACT,279587,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,17/10/2011,LDP20273041,0105,1404.8,REDACTED UNDER DP ACT,236267,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,17/10/2011,LDP20273043,0107,2003.2,REDACTED UNDER DP ACT,236267,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,17/10/2011,EXCHEQ20109023,178644,5272.77,REDACTED UNDER DP ACT,253837,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
+18,Devon County Council,17/10/2011,CFADDAY19827734,REDACTED UNDER DP ACT,3150.72,REDACTED UNDER DP ACT,131080,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,17/10/2011,EXCHEQ20108347,01/10/11,950,REDACTED UNDER DP ACT,173244,,Children & Younger Persons,Minor Improvements,2261,INDV
 18,Devon County Council,17/10/2011,EXCHEQ20104880,78204,1025.65,1ST OFFICE EQUIPMENT LTD,166676,841708723,Children & Younger Persons,Printing & Design,4201,LTD
 18,Devon County Council,17/10/2011,EXCHEQ20105709,78015,1116.3,1ST OFFICE EQUIPMENT LTD,166676,841708723,Children & Younger Persons,Printing & Design,4201,LTD
 18,Devon County Council,17/10/2011,EXCHEQ20106395,20465041,835.44,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
@@ -2955,8 +2955,8 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,18/10/2011,CYPNMLOC19981486,INV0001482,8232,DAME HANNAH ROGERS TRUST,8152,,Children & Younger Persons,Residential Respite Care - Private (3rd),5732,EDUC
 18,Devon County Council,18/10/2011,CYPSWLOC19989554,SHCL/003967,2000,HERTS CARE & EDUCATION GROUP,240562,,Children & Younger Persons,Residential Care - Private (3rd),5731,FACT
 18,Devon County Council,18/10/2011,LDP20273212,193419,2747,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
-18,Devon County Council,18/10/2011,CFBOUT19888241,REDACTED UNDER DP ACT,691.74,GARBUTT,181182,,Children & Younger Persons,Weekly Allowances,5712,INDV
-18,Devon County Council,18/10/2011,CFBOUT19888276,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,18/10/2011,CFBOUT19888241,REDACTED UNDER DP ACT,691.74,REDACTED UNDER DP ACT,181182,,Children & Younger Persons,Weekly Allowances,5712,INDV
+18,Devon County Council,18/10/2011,CFBOUT19888276,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
 18,Devon County Council,18/10/2011,FINSWAD20238203,20468700,633.39,3663 (SCARISBRICK),6550,643994692,Adult & Community Services,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,18/10/2011,FINNDAD20227556,560861,651.96,ARJO LTD,51133,800643761,Adult & Community Services,Other Building Maintenance,2251,LTD
 18,Devon County Council,18/10/2011,EXCHEQ20109408,51033330/1,858.57,BRITISH GAS BUSINESS (ELEC),114029,684966762,Children & Younger Persons,Electricity,2302,LTD
@@ -3751,24 +3751,24 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,19/10/2011,CFADDOM19845999,REDACTED UNDER DP ACT,1799.28,QUALITY CARE AGENCY,150367,,Adult & Community Services,Care Spot - Private (3rd),5701,FACT
 18,Devon County Council,19/10/2011,CFADDOM19846002,REDACTED UNDER DP ACT,599.76,QUALITY CARE AGENCY,150367,,Adult & Community Services,Care Spot - Private (3rd),5701,FACT
 18,Devon County Council,19/10/2011,EXCHEQ20109959,10370,1815.55,TEACHING APPOINTMENTS,216404,891679857,Children & Younger Persons,Supply Teachers / non contract hours - P,1020,FACT
-18,Devon County Council,19/10/2011,CFADDAY19827866,REDACTED UNDER DP ACT,1116.6,BIBBINGS,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,LEGAL20281286,94541,1250,COOK,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827960,REDACTED UNDER DP ACT,578.8,GREENAWAY,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827967,REDACTED UNDER DP ACT,607.74,GREENAWAY,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,CFADRES19865069,REDACTED UNDER DP ACT,6571.1,HIBBERD,90051,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,19/10/2011,CSET19964822,ALSEP11,860,LONGBOTTOM,265628,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,19/10/2011,LDP20273221,11/10/93,1449.89,MITCHELL,211190,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827872,REDACTED UNDER DP ACT,560,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827873,REDACTED UNDER DP ACT,984,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827874,REDACTED UNDER DP ACT,900,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827875,REDACTED UNDER DP ACT,500,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827876,REDACTED UNDER DP ACT,1320,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827877,REDACTED UNDER DP ACT,1028.16,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827880,REDACTED UNDER DP ACT,1200,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,CFADDAY19827881,REDACTED UNDER DP ACT,1200,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,19/10/2011,EXCHEQ20109894,2011,600,PATEL,253601,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
-18,Devon County Council,19/10/2011,LDP20273125,000339B,779.2,ROSS,230444,784011443,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,19/10/2011,LDP20273128,000339D,895.8,ROSS,230444,784011443,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827866,REDACTED UNDER DP ACT,1116.6,REDACTED UNDER DP ACT,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,LEGAL20281286,94541,1250,REDACTED UNDER DP ACT,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827960,REDACTED UNDER DP ACT,578.8,REDACTED UNDER DP ACT,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827967,REDACTED UNDER DP ACT,607.74,REDACTED UNDER DP ACT,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,CFADRES19865069,REDACTED UNDER DP ACT,6571.1,REDACTED UNDER DP ACT,90051,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,19/10/2011,CSET19964822,ALSEP11,860,REDACTED UNDER DP ACT,265628,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,19/10/2011,LDP20273221,11/10/93,1449.89,REDACTED UNDER DP ACT,211190,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827872,REDACTED UNDER DP ACT,560,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827873,REDACTED UNDER DP ACT,984,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827874,REDACTED UNDER DP ACT,900,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827875,REDACTED UNDER DP ACT,500,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827876,REDACTED UNDER DP ACT,1320,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827877,REDACTED UNDER DP ACT,1028.16,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827880,REDACTED UNDER DP ACT,1200,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,CFADDAY19827881,REDACTED UNDER DP ACT,1200,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,19/10/2011,EXCHEQ20109894,2011,600,REDACTED UNDER DP ACT,253601,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
+18,Devon County Council,19/10/2011,LDP20273125,000339B,779.2,REDACTED UNDER DP ACT,230444,784011443,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,19/10/2011,LDP20273128,000339D,895.8,REDACTED UNDER DP ACT,230444,784011443,Children & Younger Persons,Professional Fees,4306,INDV
 18,Devon County Council,19/10/2011,FINMDAD20220340,1122,1166.8,24 HOUR CARE LTD,274488,,Adult & Community Services,External Agency Staff,4321,LTD
 18,Devon County Council,19/10/2011,FINSSCW20233318,3515,1523.53,A M CARE,169807,831850435,Adult & Community Services,Equipment - Private (3rd),5741,LTD
 18,Devon County Council,19/10/2011,FINSSCW20233435,3495,1949.85,A M CARE,169807,831850435,Adult & Community Services,Equipment - Private (3rd),5741,LTD
@@ -3990,15 +3990,15 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,20/10/2011,EDUC17309105,CLASS11/2181611,-5351,TEIGNMOUTH COM COLLEGE(ACADEMY),274302,,Children & Younger Persons,Detailed & Exceptional Arrangements,9052,EDUC
 18,Devon County Council,20/10/2011,CSET19964835,CDAUT11,845.2,LITTLE SAINTS PRE-SCHOOL,176907,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,20/10/2011,CHECS19959534,ED01/042,1646.47,MUSBURY MOLES PRE SCHOOL,40617,,Chief Executives,Grants Paid,4802,EY
-18,Devon County Council,20/10/2011,CYPEELOC19969510,DEV 67,1480,BETTS,214086,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,20/10/2011,LEGAL20281265,94197,600,COOK,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,20/10/2011,LEGAL20281266,91588,1500,COOK,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,20/10/2011,LDP20273039,010,2300,FETHERSTON,279588,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,20/10/2011,EXCHEQ20110729,BFPS-JD-001,500,FISK,260652,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,20/10/2011,LEGAL20281264,31303,1050,HAYWARD,202750,456142848,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,20/10/2011,CHECS19959516,2-11,843.44,LAKER,107888,,Chief Executives,Stationery,4203,INDV
-18,Devon County Council,20/10/2011,LEGAL20281244,EX10C00039,1971.5,LANGHORN,283570,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,20/10/2011,EXCHEQ20110347,4,732.24,WALKER ,280638,,Children & Younger Persons,Teachers contracted hours - Pay,1010,INDV
+18,Devon County Council,20/10/2011,CYPEELOC19969510,DEV 67,1480,REDACTED UNDER DP ACT,214086,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,20/10/2011,LEGAL20281265,94197,600,REDACTED UNDER DP ACT,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,20/10/2011,LEGAL20281266,91588,1500,REDACTED UNDER DP ACT,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,20/10/2011,LDP20273039,010,2300,REDACTED UNDER DP ACT,279588,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,20/10/2011,EXCHEQ20110729,BFPS-JD-001,500,REDACTED UNDER DP ACT,260652,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,20/10/2011,LEGAL20281264,31303,1050,REDACTED UNDER DP ACT,202750,456142848,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,20/10/2011,CHECS19959516,2-11,843.44,REDACTED UNDER DP ACT,107888,,Chief Executives,Stationery,4203,INDV
+18,Devon County Council,20/10/2011,LEGAL20281244,EX10C00039,1971.5,REDACTED UNDER DP ACT,283570,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,20/10/2011,EXCHEQ20110347,4,732.24,REDACTED UNDER DP ACT,280638,,Children & Younger Persons,Teachers contracted hours - Pay,1010,INDV
 18,Devon County Council,20/10/2011,NPSWI20298071,4871,468.1,BAGWELLS LTD,42621,786825962,Children & Younger Persons,Balance B/F,0001,LTD
 18,Devon County Council,20/10/2011,EXCHEQ20110350,ILFCOLLEGE,2548.88,BAKO WESTERN LTD,237212,141860284,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,20/10/2011,EXCHEQ20111199,5108061/1,1912.65,BRITISH GAS BUSINESS (ELEC),114029,684966762,Children & Younger Persons,Electricity,2302,LTD
@@ -4137,13 +4137,13 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,21/10/2011,EDUC17309112,INSURANCEA,-10740,WITHYCOMBE RALEIGH C OF E P SCHL,72983,,Children & Younger Persons,Insurances,4204,EDUC
 18,Devon County Council,21/10/2011,CSET19964849,HBAUT11,760.68,BROADCLYST PRE SCHOOL,39157,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,21/10/2011,EXCHEQ20111343,INV00885,485.54,DEVON HOTEL,20541,,Children & Younger Persons,Hospitality & Other Expenses,4703,HOTL
-18,Devon County Council,21/10/2011,CYPNMLOC19981398,F.A.-02/10/11,835,AL'OMAIR,242879,,Children & Younger Persons,Care Other - Private (3rd),5705,INDV
-18,Devon County Council,21/10/2011,CYPEELOC19969516,1,450,CURRAM,283808,974159682,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,21/10/2011,FINSUPP20236874,EXETER AUG 11,1917,DARE,178415,,Adult & Community Services,Professional Fees,4306,INDV
-18,Devon County Council,21/10/2011,FINSUPP20236875,EXETER SEP 11,1917,DARE,178415,,Adult & Community Services,Professional Fees,4306,INDV
-18,Devon County Council,21/10/2011,LDP20273183,SEPT 2011,980,DEANE,197075,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,21/10/2011,EXCHEQ20111277,267,1435,EVANS,151946,,Children & Younger Persons,Materials & Consumables,4003,INDV
-18,Devon County Council,21/10/2011,LEGAL20281267,32774,750,FLEXMAN,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,21/10/2011,CYPNMLOC19981398,F.A.-02/10/11,835,REDACTED UNDER DP ACT,242879,,Children & Younger Persons,Care Other - Private (3rd),5705,INDV
+18,Devon County Council,21/10/2011,CYPEELOC19969516,1,450,REDACTED UNDER DP ACT,283808,974159682,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,21/10/2011,FINSUPP20236874,EXETER AUG 11,1917,REDACTED UNDER DP ACT,178415,,Adult & Community Services,Professional Fees,4306,INDV
+18,Devon County Council,21/10/2011,FINSUPP20236875,EXETER SEP 11,1917,REDACTED UNDER DP ACT,178415,,Adult & Community Services,Professional Fees,4306,INDV
+18,Devon County Council,21/10/2011,LDP20273183,SEPT 2011,980,REDACTED UNDER DP ACT,197075,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,21/10/2011,EXCHEQ20111277,267,1435,REDACTED UNDER DP ACT,151946,,Children & Younger Persons,Materials & Consumables,4003,INDV
+18,Devon County Council,21/10/2011,LEGAL20281267,32774,750,REDACTED UNDER DP ACT,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
 18,Devon County Council,21/10/2011,FINNDAD20227569,20466254,541.25,3663 (SCARISBRICK),6550,643994692,Adult & Community Services,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,21/10/2011,EXCHEQ20111472,53302,900,A T COMPUTERS LTD,106180,640983424,Children & Younger Persons,IT Hardware - Scanners Printers MFD's,4511,LTD
 18,Devon County Council,21/10/2011,CYPSWLOC19989681,R31INV/00006891,3518.85,ACTION FOR CHILDREN,225663,589629566,Children & Younger Persons,Independent Fostering (3rd),5714,LTD
@@ -4462,8 +4462,8 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,24/10/2011,EXCHEQ20111795,1096_MWS_041011,486.06,CITRUS DIGITAL LTD,253539,947347195,Children & Younger Persons,Other Fees & Charges (Expenditure),4311,FACT
 18,Devon County Council,24/10/2011,EXCHEQ20111141,189,455,DART TELECOM,280534,106132072,Children & Younger Persons,Telephones (Excl Mobiles & Smart Phones),4502,FACT
 18,Devon County Council,24/10/2011,FINEAAD20213331,162,418,DART TELECOM,280534,106132072,Adult & Community Services,Telephones (Excl Mobiles & Smart Phones),4502,FACT
-18,Devon County Council,24/10/2011,LDP20273216,2011/12,784.8,BYROM,275691,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,24/10/2011,FINSUPP20236870,AUG & SEP 11,1050,WOLF-LIGHT,188750,,Adult & Community Services,Professional Fees,4306,INDV
+18,Devon County Council,24/10/2011,LDP20273216,2011/12,784.8,REDACTED UNDER DP ACT,275691,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,24/10/2011,FINSUPP20236870,AUG & SEP 11,1050,REDACTED UNDER DP ACT,188750,,Adult & Community Services,Professional Fees,4306,INDV
 18,Devon County Council,24/10/2011,EXCHEQ20109641,8496 7606,460,A1 EXTRACTION LTD,38329,730195453,Children & Younger Persons,Scraps Interface Error Suspense,EX29,LTD
 18,Devon County Council,24/10/2011,EARLYRS20025962,846,1200,ACACIA TRAINING & DEVELOPMENT LT,175183,586323128,Children & Younger Persons,Course / Exam Fees & Registration,4312,LTD
 18,Devon County Council,24/10/2011,EARLYRS20025963,847,1200,ACACIA TRAINING & DEVELOPMENT LT,175183,586323128,Children & Younger Persons,Course / Exam Fees & Registration,4312,LTD
@@ -4726,18 +4726,18 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,25/10/2011,CSET19964836,AJAUT11,760.68,MORETONHAMPSTEAD PLAYGROUP,43383,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,25/10/2011,LDP20273302,00900,1145.01,DEVON HOTEL,20541,,Children & Younger Persons,Venue Hire,2322,HOTL
 18,Devon County Council,25/10/2011,CFCLEAV19909296,REDACTED UNDER DP ACT,2112,MANOR HOTEL THE,255940,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
-18,Devon County Council,25/10/2011,EXCHEQ20113088,18/10/11,1500,BIG BANG MUSIC WORKSHOPS,283909,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,25/10/2011,EXCHEQ20113268,001,650,BUSCOMBE,283797,,Children & Younger Persons,Learning Resources exc. IT Equipment,4401,INDV
-18,Devon County Council,25/10/2011,EXCHEQ20113657,50/RATCLIFFE,2217.25,DOIDGE,212324,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,25/10/2011,FINSUPP20236877,DVA1,1500,FATIMAH,276018,,Adult & Community Services,Professional Fees,4306,INDV
-18,Devon County Council,25/10/2011,CFBOUT19888669,REDACTED UNDER DP ACT,691.74,GARBUTT,181182,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,25/10/2011,CFBOUT19888830,REDACTED UNDER DP ACT,532.88,MCNAMARA,278783,,Children & Younger Persons,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,25/10/2011,CFBOUT19888675,REDACTED UNDER DP ACT,595.4,PARKER,184455,,Children & Younger Persons,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,25/10/2011,EXCHEQ20112779,REGIO/SP,666.39,PENDLE,131195,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,25/10/2011,EXCHEQ20113602,29527A,1550,PROUSE,21196,142806578,Children & Younger Persons,Minor Improvements,2261,INDV
-18,Devon County Council,25/10/2011,EXCHEQ20113751,10/2011,1260,STOPHER-WALKER,215436,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,25/10/2011,CFBOUT19888704,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,25/10/2011,CFCLEAV19909266,REDACTED UNDER DP ACT,500,WOOD,228102,,Children & Younger Persons,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,25/10/2011,EXCHEQ20113088,18/10/11,1500,REDACTED UNDER DP ACT,283909,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,25/10/2011,EXCHEQ20113268,001,650,REDACTED UNDER DP ACT,283797,,Children & Younger Persons,Learning Resources exc. IT Equipment,4401,INDV
+18,Devon County Council,25/10/2011,EXCHEQ20113657,50/RATCLIFFE,2217.25,REDACTED UNDER DP ACT,212324,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,25/10/2011,FINSUPP20236877,DVA1,1500,REDACTED UNDER DP ACT,276018,,Adult & Community Services,Professional Fees,4306,INDV
+18,Devon County Council,25/10/2011,CFBOUT19888669,REDACTED UNDER DP ACT,691.74,REDACTED UNDER DP ACT,181182,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,25/10/2011,CFBOUT19888830,REDACTED UNDER DP ACT,532.88,REDACTED UNDER DP ACT,278783,,Children & Younger Persons,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,25/10/2011,CFBOUT19888675,REDACTED UNDER DP ACT,595.4,REDACTED UNDER DP ACT,184455,,Children & Younger Persons,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,25/10/2011,EXCHEQ20112779,REGIO/SP,666.39,REDACTED UNDER DP ACT,131195,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,25/10/2011,EXCHEQ20113602,29527A,1550,REDACTED UNDER DP ACT,21196,142806578,Children & Younger Persons,Minor Improvements,2261,INDV
+18,Devon County Council,25/10/2011,EXCHEQ20113751,10/2011,1260,REDACTED UNDER DP ACT,215436,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,25/10/2011,CFBOUT19888704,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,25/10/2011,CFCLEAV19909266,REDACTED UNDER DP ACT,500,REDACTED UNDER DP ACT,228102,,Children & Younger Persons,Cl-Supported Accom-Rel Child (3rd),5771,INDV
 18,Devon County Council,25/10/2011,EXCHEQ20106012,862178,472.31,A K W MEDI-CARE LTD,224756,001047446,Children & Younger Persons,Minor Improvements,2261,LTD
 18,Devon County Council,25/10/2011,EXCHEQ20112921,8011726,468.07,ALTODIGITAL NETWORKS LTD,274829,696601112,Children & Younger Persons,Printing & Design,4201,LTD
 18,Devon County Council,25/10/2011,CHECS19959561,51061279/1,447.34,BRITISH GAS BUSINESS (ELEC),114029,684966762,Chief Executives,Electricity,2302,LTD
@@ -4988,9 +4988,9 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,26/10/2011,CYPSWLOC19989784,SHES/004306,992,HERTS CARE & EDUCATION GROUP,240562,,Children & Younger Persons,Residential Care - Private (3rd),5731,FACT
 18,Devon County Council,26/10/2011,CYPSWLOC19989786,SHES/004397,7900,HERTS CARE & EDUCATION GROUP,240562,,Children & Younger Persons,Residential Care - Private (3rd),5731,FACT
 18,Devon County Council,26/10/2011,EXCHEQ20113793,10371,2267.45,TEACHING APPOINTMENTS,216404,891679857,Children & Younger Persons,Supply Teachers / non contract hours - P,1020,FACT
-18,Devon County Council,26/10/2011,CFADDAY19828180,REDACTED UNDER DP ACT,2044.59,BIBBINGS,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,26/10/2011,FINNDAD20227800,1184,820,DEAN,168479,,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,26/10/2011,CFADDAY19828181,REDACTED UNDER DP ACT,920,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,26/10/2011,CFADDAY19828180,REDACTED UNDER DP ACT,2044.59,REDACTED UNDER DP ACT,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,26/10/2011,FINNDAD20227800,1184,820,REDACTED UNDER DP ACT,168479,,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,26/10/2011,CFADDAY19828181,REDACTED UNDER DP ACT,920,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
 18,Devon County Council,26/10/2011,FINMH20222768,124415,10281.6,ACTION 4 HOUSING LTD,280166,,Adult & Community Services,Care Spot - Private (3rd),5701,LTD
 18,Devon County Council,26/10/2011,EXCHEQ20113799,110073,858,BAYTEK VOICE & DATA LTD,283352,104728628,Children & Younger Persons,IT Hardware - Scanners Printers MFD's,4511,LTD
 18,Devon County Council,26/10/2011,CYPSWLOC19989587,47548/9601,24191.16,CARE UK MENTAL HLTH PARTNERSHIPS,231357,,Children & Younger Persons,Residential Care - Private (3rd),5731,LTD
@@ -5110,7 +5110,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,28/10/2011,RESTRAT20371751,CASEY HALL FARL,500,THORNBURY PRIMARY SCHOOL,52000,144675845,Children & Younger Persons,Miscellaneous expenditure,4901,EDUC
 18,Devon County Council,31/10/2011,EARLYRS20025986,0031/11,2851.41,ACDHELP.COM LTD,255658,,Children & Younger Persons,Course / Exam Fees & Registration,4312,BUSN
 18,Devon County Council,31/10/2011,FINTBAD20241789,375,890,T R H CONSTRUCTION,279238,,Adult & Community Services,Adaptations - Private (3rd),5709,BUSN
-18,Devon County Council,31/10/2011,LEGAL20281365,66790,2375,SHARLAND,260706,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,31/10/2011,LEGAL20281365,66790,2375,REDACTED UNDER DP ACT,260706,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
 18,Devon County Council,31/10/2011,CFADDOM19846581,REDACTED UNDER DP ACT,1032.5,HOMECARE 2000 LTD (TORQUAY),111805,,Adult & Community Services,Care Spot - Private (3rd),5701,LTD
 18,Devon County Council,31/10/2011,LEGAL20281366,1667/4728,871.08,PSYCHOLOGY ASSOCIATES LTD,147932,912873418,Children & Younger Persons,Legal Fees & Disbursements,4314,LTD
 18,Devon County Council,,,,,,,,,,,
@@ -5118,1878 +5118,1878 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,,,,,,,,,,,
 18,Devon County Council,,,,,,,,,,,
 18,Devon County Council,,,,,,,,,,,
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-18,Devon County Council
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+18,Devon County Council,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

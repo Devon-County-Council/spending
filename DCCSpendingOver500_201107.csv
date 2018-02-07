@@ -396,17 +396,17 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,01/07/2011,CYPSWLOC19987801,SHCL/003657,17492.99,HERTS CARE & EDUCATION GROUP,240562,,Children & Younger Persons,Residential Care - Private (3rd),5731,FACT
 18,Devon County Council,01/07/2011,CYPSWLOC19987802,SHCL/003646,17492.99,HERTS CARE & EDUCATION GROUP,240562,,Children & Younger Persons,Residential Care - Private (3rd),5731,FACT
 18,Devon County Council,01/07/2011,LDP20271446,187835,463.75,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
-18,Devon County Council,01/07/2011,LEGAL20280695,66117,2750,BOURNE,278918,564359908,Chief Executives,Professional Fees,4306,INDV
-18,Devon County Council,01/07/2011,EARLYRS20024602,EYP0000018464,687.16,BOWEN,234712,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
-18,Devon County Council,01/07/2011,EARLYRS20024615,EYP0000018477,934.08,BROGAN,168673,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
-18,Devon County Council,01/07/2011,EARLYRS20024673,EYP0000018538,5230.18,CULLEN,204695,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
-18,Devon County Council,01/07/2011,LDP20271406,02,819.2,EARLAM,279586,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,01/07/2011,EARLYRS20024706,EYP0000018574,500.28,HOOPER,179399,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
-18,Devon County Council,01/07/2011,EARLYRS20024797,EYP0000018669,521.8,OBUDO,267236,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
-18,Devon County Council,01/07/2011,EARLYRS20024688,EYP0000018554,2206.75,TUPMAN,207929,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
-18,Devon County Council,01/07/2011,EXCHEQ20067551,4,518.7,TURNER,270105,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,01/07/2011,EXCHEQ20067642,42,600,TURRELL,209512,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
-18,Devon County Council,01/07/2011,EARLYRS20024745,EYP0000018613,2063.4,WELSH,159962,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
+18,Devon County Council,01/07/2011,LEGAL20280695,66117,2750,REDACTED UNDER DP ACT,278918,564359908,Chief Executives,Professional Fees,4306,INDV
+18,Devon County Council,01/07/2011,EARLYRS20024602,EYP0000018464,687.16,REDACTED UNDER DP ACT,234712,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
+18,Devon County Council,01/07/2011,EARLYRS20024615,EYP0000018477,934.08,REDACTED UNDER DP ACT,168673,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
+18,Devon County Council,01/07/2011,EARLYRS20024673,EYP0000018538,5230.18,REDACTED UNDER DP ACT,204695,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
+18,Devon County Council,01/07/2011,LDP20271406,02,819.2,REDACTED UNDER DP ACT,279586,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,01/07/2011,EARLYRS20024706,EYP0000018574,500.28,REDACTED UNDER DP ACT,179399,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
+18,Devon County Council,01/07/2011,EARLYRS20024797,EYP0000018669,521.8,REDACTED UNDER DP ACT,267236,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
+18,Devon County Council,01/07/2011,EARLYRS20024688,EYP0000018554,2206.75,REDACTED UNDER DP ACT,207929,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
+18,Devon County Council,01/07/2011,EXCHEQ20067551,4,518.7,REDACTED UNDER DP ACT,270105,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,01/07/2011,EXCHEQ20067642,42,600,REDACTED UNDER DP ACT,209512,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
+18,Devon County Council,01/07/2011,EARLYRS20024745,EYP0000018613,2063.4,REDACTED UNDER DP ACT,159962,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,INDV
 18,Devon County Council,01/07/2011,FINMDAD20219442,20393921,514.65,3663  (IVYBRIDGE),16295,643994692,Adult & Community Services,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,01/07/2011,FINNDAD20225120,20393247,510.33,3663 (SCARISBRICK),6550,643994692,Adult & Community Services,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,01/07/2011,EARLYRS20024571,EYP0000018433,14161.44,ACORN KINDERGARTEN,34525,,Children & Younger Persons,Payments to Vol Providers (3rd),5501,LTD
@@ -731,17 +731,17 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,04/07/2011,EXCHEQ20067998,CIT/IJS2306,607.39,CITRUS DIGITAL LTD,253539,947347195,Children & Younger Persons,Printing & Design,4201,FACT
 18,Devon County Council,04/07/2011,EXCHEQ20068632,INV00860,2185,PARK HOTEL THE,21121,,Children & Younger Persons,Materials & Consumables,4003,HOTL
 18,Devon County Council,04/07/2011,EXCHEQ20068221,PROMPACKAGE,2450,THISTLE HOTEL (EXETER),91560,243284176,Children & Younger Persons,Miscellaneous expenditure,4901,HOTL
-18,Devon County Council,04/07/2011,FINSSCW20232522,2043,500,BEXON,213462,,Adult & Community Services,Management Consultancy,4303,INDV
-18,Devon County Council,04/07/2011,FINSSCW20232523,2045,500,BEXON,213462,,Adult & Community Services,Management Consultancy,4303,INDV
-18,Devon County Council,04/07/2011,LDP20271465,011/03,873.25,BURGESS,184054,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,04/07/2011,LEGAL20280707,000049/JUNE2011,776.8,CORNWELL,275116,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,04/07/2011,FINMH20222148,SP 06/11,10000,DAVIES,250805,945734592,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,04/07/2011,CFADDAY19823084,REDACTED UNDER DP ACT,1302.3,GREENAWAY,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,04/07/2011,CFADDAY19823087,REDACTED UNDER DP ACT,578.8,GREENAWAY,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,04/07/2011,CFADDAY19823094,REDACTED UNDER DP ACT,607.74,GREENAWAY,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,04/07/2011,LEGAL20280702,31721,2565,HORTON,260953,441208976,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,04/07/2011,LEGAL20280704,91588,2200,SHIELD,214691,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,04/07/2011,LEGAL20280703,30230,1500,TRUMPER,268060,768680867,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,04/07/2011,FINSSCW20232522,2043,500,REDACTED UNDER DP ACT,213462,,Adult & Community Services,Management Consultancy,4303,INDV
+18,Devon County Council,04/07/2011,FINSSCW20232523,2045,500,REDACTED UNDER DP ACT,213462,,Adult & Community Services,Management Consultancy,4303,INDV
+18,Devon County Council,04/07/2011,LDP20271465,011/03,873.25,REDACTED UNDER DP ACT,184054,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,04/07/2011,LEGAL20280707,000049/JUNE2011,776.8,REDACTED UNDER DP ACT,275116,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,04/07/2011,FINMH20222148,SP 06/11,10000,REDACTED UNDER DP ACT,250805,945734592,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,04/07/2011,CFADDAY19823084,REDACTED UNDER DP ACT,1302.3,REDACTED UNDER DP ACT,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,04/07/2011,CFADDAY19823087,REDACTED UNDER DP ACT,578.8,REDACTED UNDER DP ACT,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,04/07/2011,CFADDAY19823094,REDACTED UNDER DP ACT,607.74,REDACTED UNDER DP ACT,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,04/07/2011,LEGAL20280702,31721,2565,REDACTED UNDER DP ACT,260953,441208976,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,04/07/2011,LEGAL20280704,91588,2200,REDACTED UNDER DP ACT,214691,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,04/07/2011,LEGAL20280703,30230,1500,REDACTED UNDER DP ACT,268060,768680867,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
 18,Devon County Council,04/07/2011,EXCHEQ20067422,20396925,493.84,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,04/07/2011,EXCHEQ20068771,2249,1498.2,A J CONTRACTORS (DEVON) LTD,23596,540466358,Children & Younger Persons,Other Building Maintenance,2251,LTD
 18,Devon County Council,04/07/2011,CFADDOM19839755,REDACTED UNDER DP ACT,16355.59,ALLIED HEALTHCARE GROUP LTD,91726,488771383,Adult & Community Services,Care Block - Private (3rd),5702,LTD
@@ -962,18 +962,18 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,05/07/2011,CFCLEAV19905298,REDACTED UNDER DP ACT,3213,GREAT WESTERN HOTEL,22999,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
 18,Devon County Council,05/07/2011,CFCLEAV19905497,REDACTED UNDER DP ACT,1320,KEYBERRY HOTEL,273609,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
 18,Devon County Council,05/07/2011,CFCLEAV19905331,REDACTED UNDER DP ACT,660,RED HOUSE HOTEL THE,103407,140817877,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
-18,Devon County Council,05/07/2011,LEGAL20280682,90582 -17/06/11,2825,COOK,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,05/07/2011,LEGAL20280683,91300,1000,COOK,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,05/07/2011,CFBOUT19881861,REDACTED UNDER DP ACT,617.96,GANDER,177730,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,05/07/2011,CFBOUT19881868,REDACTED UNDER DP ACT,1053.37,GARBUTT,181182,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,05/07/2011,CFCLEAV19905350,REDACTED UNDER DP ACT,684.42,HILL ,164302,,Children & Younger Persons,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,05/07/2011,DDRC20000896,JAO/DDC/242,612.5,OTTAWAY,7587,,"Environment, Economy & Culture",Professional Fees,4306,INDV
-18,Devon County Council,05/07/2011,LDP20271513,3,1236,PIKE,279587,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,05/07/2011,WASTE20451048,S11/V/13,580,SHERRY  & SHERRY,256347,712900858,"Environment, Economy & Culture",Professional Fees,4306,INDV
-18,Devon County Council,05/07/2011,CYPEELOC19968162,FR S/C RENT 02,1687.5,SPENCE,102775,,Children & Younger Persons,Rents & other landlord charges payable,2321,INDV
-18,Devon County Council,05/07/2011,CFCLEAV19905337,REDACTED UNDER DP ACT,560,STONE,135015,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,INDV
-18,Devon County Council,05/07/2011,EXCHEQ20067911,50,650,WAUGH,279805,,Adult & Community Services,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,05/07/2011,CFBOUT19881902,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,05/07/2011,LEGAL20280682,90582 -17/06/11,2825,REDACTED UNDER DP ACT,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,05/07/2011,LEGAL20280683,91300,1000,REDACTED UNDER DP ACT,104720,524171374,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,05/07/2011,CFBOUT19881861,REDACTED UNDER DP ACT,617.96,REDACTED UNDER DP ACT,177730,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,05/07/2011,CFBOUT19881868,REDACTED UNDER DP ACT,1053.37,REDACTED UNDER DP ACT,181182,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,05/07/2011,CFCLEAV19905350,REDACTED UNDER DP ACT,684.42,REDACTED UNDER DP ACT,164302,,Children & Younger Persons,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,05/07/2011,DDRC20000896,JAO/DDC/242,612.5,REDACTED UNDER DP ACT,7587,,"Environment, Economy & Culture",Professional Fees,4306,INDV
+18,Devon County Council,05/07/2011,LDP20271513,3,1236,REDACTED UNDER DP ACT,279587,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,05/07/2011,WASTE20451048,S11/V/13,580,REDACTED UNDER DP ACT,256347,712900858,"Environment, Economy & Culture",Professional Fees,4306,INDV
+18,Devon County Council,05/07/2011,CYPEELOC19968162,FR S/C RENT 02,1687.5,REDACTED UNDER DP ACT,102775,,Children & Younger Persons,Rents & other landlord charges payable,2321,INDV
+18,Devon County Council,05/07/2011,CFCLEAV19905337,REDACTED UNDER DP ACT,560,REDACTED UNDER DP ACT,135015,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,INDV
+18,Devon County Council,05/07/2011,EXCHEQ20067911,50,650,REDACTED UNDER DP ACT,279805,,Adult & Community Services,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,05/07/2011,CFBOUT19881902,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
 18,Devon County Council,05/07/2011,HQ20262266,854,9200,ALTCOM LTD,270583,668485576,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,LTD
 18,Devon County Council,05/07/2011,EXCHEQ20068875,IN00080463,562.5,AMPM OFFICE EQUIPMENT LTD,61038,682028634,Children & Younger Persons,Stationery,4203,LTD
 18,Devon County Council,05/07/2011,FINNDAD20225398,548866,984.2,ARJO LTD,51133,800643761,Adult & Community Services,Other Building Maintenance,2251,LTD
@@ -1159,14 +1159,14 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,06/07/2011,EXCHEQ20069719,10308,1189.75,TEACHING APPOINTMENTS,216404,891679857,Children & Younger Persons,Supply Teachers / non contract hours - P,1020,FACT
 18,Devon County Council,06/07/2011,CYPSWLOC19987954,CS102/1049,3217.5,CAMELOT HOTEL,279030,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
 18,Devon County Council,06/07/2011,EXCHEQ20069564,001,2301.15,DEVON HOTEL,20541,,Children & Younger Persons,Miscellaneous expenditure,4901,HOTL
-18,Devon County Council,06/07/2011,EXCHEQ20069467,11/12/11,2083.33,DREW,235944,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,06/07/2011,FINTBAD20240695,J95/11,477.68,HARRIS,191498,844620530,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,06/07/2011,LLCBEACO20288434,06-06,750,MASTERS,273747,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,06/07/2011,DDRC20000900,2436,540,MITCHELL,4654,,"Environment, Economy & Culture",Professional Fees,4306,INDV
-18,Devon County Council,06/07/2011,DDRC20000886,35,1014,POPE,6269,,"Environment, Economy & Culture",Professional Fees,4306,INDV
-18,Devon County Council,06/07/2011,CFADDAY19823177,REDACTED UNDER DP ACT,765.56,ROSEWALL  & WILLIAMS,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,06/07/2011,CFADDAY19823178,REDACTED UNDER DP ACT,765.56,ROSEWALL  & WILLIAMS,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,06/07/2011,EXCHEQ20069395,44,800,WARREN,73999,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,06/07/2011,EXCHEQ20069467,11/12/11,2083.33,REDACTED UNDER DP ACT,235944,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,06/07/2011,FINTBAD20240695,J95/11,477.68,REDACTED UNDER DP ACT,191498,844620530,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,06/07/2011,LLCBEACO20288434,06-06,750,REDACTED UNDER DP ACT,273747,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,06/07/2011,DDRC20000900,2436,540,REDACTED UNDER DP ACT,4654,,"Environment, Economy & Culture",Professional Fees,4306,INDV
+18,Devon County Council,06/07/2011,DDRC20000886,35,1014,REDACTED UNDER DP ACT,6269,,"Environment, Economy & Culture",Professional Fees,4306,INDV
+18,Devon County Council,06/07/2011,CFADDAY19823177,REDACTED UNDER DP ACT,765.56,REDACTED UNDER DP ACT,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,06/07/2011,CFADDAY19823178,REDACTED UNDER DP ACT,765.56,REDACTED UNDER DP ACT,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,06/07/2011,EXCHEQ20069395,44,800,REDACTED UNDER DP ACT,73999,,Children & Younger Persons,Management Consultancy,4303,INDV
 18,Devon County Council,06/07/2011,NPSWI20296829,2252,827,A J CONTRACTORS (DEVON) LTD,23596,540466358,Children & Younger Persons,Balance B/F,0001,LTD
 18,Devon County Council,06/07/2011,CYPEELOC19968143,R3INV/00006256,644,ACTION FOR CHILDREN,225663,589629566,Children & Younger Persons,Contributions to Local Auth (3rd),5203,LTD
 18,Devon County Council,06/07/2011,LIBHQ20283643,MAINT12091,27196.25,AXIELL LTD,20565,610506978,Adult & Community Services,IT Hardware - Scanners Printers MFD's,4511,LTD
@@ -1303,8 +1303,8 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,07/07/2011,CSET19964640,MMSUM11,533.7,CHAGFORD MONTESSORI NURSERY,37953,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,07/07/2011,CSET19964639,VARSUM11,2205.96,LITTLE SWANS PRE-SCHOOL,66857,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,07/07/2011,EXCHEQ20070595,TIVERTONHSCHOOL,753.33,DEER PARK COUNTRY HOTEL,24723,142816966,Children & Younger Persons,Hospitality & Other Expenses,4703,HOTL
-18,Devon County Council,07/07/2011,FINNDAD20225519,1110,980,DEAN,168479,,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,07/07/2011,RESTRAT20370891,30JUNE2011,885.64,FURLONG,49412,,Children & Younger Persons,Non contract staff paid by claim - Pay,1071,INDV
+18,Devon County Council,07/07/2011,FINNDAD20225519,1110,980,REDACTED UNDER DP ACT,168479,,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,07/07/2011,RESTRAT20370891,30JUNE2011,885.64,REDACTED UNDER DP ACT,49412,,Children & Younger Persons,Non contract staff paid by claim - Pay,1071,INDV
 18,Devon County Council,07/07/2011,EXCHEQ20070575,HCC,520,T T WINDOWS,280047,,Children & Younger Persons,Other Building Maintenance,2251,BUSN
 18,Devon County Council,07/07/2011,EXCHEQ20070385,51282,595,A + D-SW SUPPLIES,176219,,Children & Younger Persons,Cleaning materials (inc pools),2603,LTD
 18,Devon County Council,07/07/2011,HQ20262276,6212,4396,ADVANCED MEDIA ENGINEERING LTD,187192,,"Environment, Economy & Culture",Training inc Travel Costs,1802,LTD
@@ -1425,7 +1425,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,08/07/2011,CSET19964656,BBSUM11,693.81,SIDMOUTH PRE-SCHOOL PLAYGROUP,123378,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,08/07/2011,CSET19964675,JKSUM11,521.84,UPPOTTERY PRE SCHOOL,26951,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,08/07/2011,EMERGNCY20037713,INV00417,1011.3,ROYAL HOTEL (BIDEFORD),19690,144357862,Chief Executives,Catering Services inc Pupil Meals,4101,HOTL
-18,Devon County Council,08/07/2011,EXCHEQ20070805,508317,830.82,AUSTIN,85213,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
+18,Devon County Council,08/07/2011,EXCHEQ20070805,508317,830.82,REDACTED UNDER DP ACT,85213,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
 18,Devon County Council,08/07/2011,FINNDAD20225283,20398251,505.13,3663 (SCARISBRICK),6550,643994692,Adult & Community Services,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,08/07/2011,CYPNMLOC19979759,KDR - 21,13750,3-DIMENSIONS CARE LTD,255016,,Children & Younger Persons,Residential Care - Private (3rd),5731,LTD
 18,Devon County Council,08/07/2011,CYPSWLOC19987814,CY17,17921.98,3-DIMENSIONS CARE LTD,255016,,Children & Younger Persons,Residential Care - Private (3rd),5731,LTD
@@ -1436,7 +1436,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,08/07/2011,FINNDAD20225388,8451,465.5,APPLE APPOINTMENTS LTD,72784,787070110,Adult & Community Services,Agency staff - Pay,1701,LTD
 18,Devon County Council,08/07/2011,EXCHEQ20070723,48918083/1,639.84,BRITISH GAS BUSINESS (ELEC),114029,684966762,Children & Younger Persons,Electricity,2302,LTD
 18,Devon County Council,08/07/2011,NPSWI20296917,109280,1165,CANNINGS & SON LTD I J,14467,,Children & Younger Persons,Expenditure Control Account,EX22,LTD
-18,Devon County Council,08/07/2011,CYPIHRES19974299,111670,960,CATCH-POINT CONSULTANCY LTD,220033,,Children & Younger Persons,Section 17 Payments (3rd),5710,LTD
+18,Devon County Council,08/07/2011,CYPIHRES19974299,REDACTED UNDER DP ACT,960,CATCH-POINT CONSULTANCY LTD,220033,,Children & Younger Persons,Section 17 Payments (3rd),5710,LTD
 18,Devon County Council,08/07/2011,REAST20336385,OP/1010274,426,CENTREWIRE LIMITED,15429,348235449,"Environment, Economy & Culture",Equipment,4001,LTD
 18,Devon County Council,08/07/2011,FINSSCW20232506,MAY 11,540.29,COLYTON PHARMACY LTD,70889,515892427,Adult & Community Services,Equipment - Private (3rd),5741,LTD
 18,Devon County Council,08/07/2011,EXCHEQ20070814,DVN00000037,724.33,DEVON NORSE LTD,273895,785421021,Children & Younger Persons,Cleaning Services,2601,LTD
@@ -1745,14 +1745,14 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,11/07/2011,CFADDOM19840165,REDACTED UNDER DP ACT,1884.04,UNITED CARE CONCEPTS,251075,,Adult & Community Services,Care Spot - Private (3rd),5701,FACT
 18,Devon County Council,11/07/2011,CFADDAY19823244,REDACTED UNDER DP ACT,942.08,GROVE THE,196703,,Adult & Community Services,Individualised Support - Private (3rd),5706,HOTL
 18,Devon County Council,11/07/2011,CFADDAY19823245,REDACTED UNDER DP ACT,588.8,GROVE THE,196703,,Adult & Community Services,Individualised Support - Private (3rd),5706,HOTL
-18,Devon County Council,11/07/2011,LEGAL20280711,31906,1500,FLEXMAN,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,11/07/2011,LDP20271435,000009,1168.07,GRAHAM,263794,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,11/07/2011,LDP20271531,504/11,951.06,HEDGES,279889,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,11/07/2011,LLCEXMOU20291470,090035,2100,HOWARD,253487,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,11/07/2011,LLCEXMOU20291471,090036,2000,HOWARD,253487,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,11/07/2011,HQ20262147,FEES JUNE,775,SIMMONDS,238896,,"Environment, Economy & Culture",Other Fees & Charges (Expenditure),4311,INDV
-18,Devon County Council,11/07/2011,LDP20271409,UIN1,760,TONG,279578,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,11/07/2011,CYPNMLOC19979870,270,1980,TOOGOOD,237571,,Children & Younger Persons,Course / Exam Fees & Registration,4312,INDV
+18,Devon County Council,11/07/2011,LEGAL20280711,31906,1500,REDACTED UNDER DP ACT,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,11/07/2011,LDP20271435,000009,1168.07,REDACTED UNDER DP ACT,263794,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,11/07/2011,LDP20271531,504/11,951.06,REDACTED UNDER DP ACT,279889,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,11/07/2011,LLCEXMOU20291470,090035,2100,REDACTED UNDER DP ACT,253487,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,11/07/2011,LLCEXMOU20291471,090036,2000,REDACTED UNDER DP ACT,253487,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,11/07/2011,HQ20262147,FEES JUNE,775,REDACTED UNDER DP ACT,238896,,"Environment, Economy & Culture",Other Fees & Charges (Expenditure),4311,INDV
+18,Devon County Council,11/07/2011,LDP20271409,UIN1,760,REDACTED UNDER DP ACT,279578,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,11/07/2011,CYPNMLOC19979870,270,1980,REDACTED UNDER DP ACT,237571,,Children & Younger Persons,Course / Exam Fees & Registration,4312,INDV
 18,Devon County Council,11/07/2011,EXCHEQ20065794,20398385/ZD3424,667.44,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,11/07/2011,EXCHEQ20069994,20406757,477.19,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Materials & Consumables,4003,LTD
 18,Devon County Council,11/07/2011,EXCHEQ20066722,51145,465.69,A + D-SW SUPPLIES,176219,,Children & Younger Persons,Cleaning materials (inc pools),2603,LTD
@@ -1991,12 +1991,12 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,12/07/2011,CSET19964665,DLSUM11,569.28,ROBOROUGH PRE SCHOOL,81270,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,12/07/2011,CFCLEAV19905551,REDACTED UNDER DP ACT,1262,GREAT WESTERN HOTEL,22999,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
 18,Devon County Council,12/07/2011,EXCHEQ20072596,INV00871,2439.5,PARK HOTEL THE,21121,,Children & Younger Persons,Miscellaneous expenditure,4901,HOTL
-18,Devon County Council,12/07/2011,CFBOUT19882284,REDACTED UNDER DP ACT,617.96,GANDER,177730,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,12/07/2011,CFBOUT19882292,REDACTED UNDER DP ACT,625.05,GARBUTT,181182,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,12/07/2011,LEGAL20280751,203,1322.75,ROXBURGH,86978,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,12/07/2011,CFBOUT19882364,REDACTED UNDER DP ACT,739.86,STOYLE,226533,,Children & Younger Persons,Travel Expenses,3801,INDV
-18,Devon County Council,12/07/2011,LDP20271713,2011-3,1605.19,TAYLOR,268644,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,12/07/2011,CFBOUT19882325,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,12/07/2011,CFBOUT19882284,REDACTED UNDER DP ACT,617.96,REDACTED UNDER DP ACT,177730,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,12/07/2011,CFBOUT19882292,REDACTED UNDER DP ACT,625.05,REDACTED UNDER DP ACT,181182,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,12/07/2011,LEGAL20280751,203,1322.75,REDACTED UNDER DP ACT,86978,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,12/07/2011,CFBOUT19882364,REDACTED UNDER DP ACT,739.86,REDACTED UNDER DP ACT,226533,,Children & Younger Persons,Travel Expenses,3801,INDV
+18,Devon County Council,12/07/2011,LDP20271713,2011-3,1605.19,REDACTED UNDER DP ACT,268644,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,12/07/2011,CFBOUT19882325,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
 18,Devon County Council,12/07/2011,LDP20271609,20406345,489.6,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,12/07/2011,FINSSCW20232507,3440,1141.82,A M CARE,169807,831850435,Adult & Community Services,Equipment - Private (3rd),5741,LTD
 18,Devon County Council,12/07/2011,EXCHEQ20072191,PARK111D,11021,ADVENTURE INTERNATIONAL,264186,501136702,Children & Younger Persons,Educational / Residential Visits,4331,LTD
@@ -2906,25 +2906,25 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,13/07/2011,CAPCYP19815832,H006344,1708.33,LANGSTONE CLIFF HOTEL,20906,,Children & Younger Persons,Venue Hire,2322,HOTL
 18,Devon County Council,13/07/2011,DIRSUPP20007470,188917,1069.5,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
 18,Devon County Council,13/07/2011,LDP20271622,188272,803.83,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
-18,Devon County Council,13/07/2011,EXCHEQ20073288,1360,1775.12,AYRE,69390,891332714,Children & Younger Persons,Minor Improvements,2261,INDV
-18,Devon County Council,13/07/2011,FNSWMHLD20249878,060711,1429.48,BABER,102526,291498323,Adult & Community Services,Rents & other landlord charges payable,2321,INDV
-18,Devon County Council,13/07/2011,CFADDAY19823409,REDACTED UNDER DP ACT,607.84,BAXTER,123276,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,13/07/2011,CFSUPP19955780,REDACTED UNDER DP ACT,1041.68,BAXTER,123276,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,13/07/2011,CFSUPP19955752,REDACTED UNDER DP ACT,13038.36,BECK,118050,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
-18,Devon County Council,13/07/2011,CFADDAY19823410,REDACTED UNDER DP ACT,1116.6,BIBBINGS,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,13/07/2011,CFADDAY19823411,REDACTED UNDER DP ACT,2555.73,BIBBINGS,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,13/07/2011,CFSUPP19955768,REDACTED UNDER DP ACT,2025.8,BROWN,120559,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
-18,Devon County Council,13/07/2011,LDP20271572,3,830,FETHERSTON,279588,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,13/07/2011,CFADDAY19823478,REDACTED UNDER DP ACT,578.8,GREENAWAY,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,13/07/2011,CFADDAY19823485,REDACTED UNDER DP ACT,607.74,GREENAWAY,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,13/07/2011,CFSUPP19955731,REDACTED UNDER DP ACT,2720.04,HAYWOOD,117854,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,13/07/2011,CFADRES19860355,REDACTED UNDER DP ACT,4517.99,HIBBERD,90051,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,13/07/2011,CFSUPP19955755,REDACTED UNDER DP ACT,694.4,HOWLETT,118066,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,13/07/2011,CFSUPP19955777,REDACTED UNDER DP ACT,4629.76,LEWIS,120578,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
-18,Devon County Council,13/07/2011,HQ20262349,110601/SW,1050,LUCKHURST,262754,,"Environment, Economy & Culture",Management Consultancy,4303,INDV
-18,Devon County Council,13/07/2011,CYPCENT19965725,120711,4592.84,OSBORNE,280170,,Children & Younger Persons,Hospitality & Other Expenses,4703,INDV
-18,Devon County Council,13/07/2011,WASTE20451131,PJT7876,850,TILSLEY,280201,,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,13/07/2011,CFSUPP19955791,REDACTED UNDER DP ACT,667.44,WELLMAN,131080,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,13/07/2011,EXCHEQ20073288,1360,1775.12,REDACTED UNDER DP ACT,69390,891332714,Children & Younger Persons,Minor Improvements,2261,INDV
+18,Devon County Council,13/07/2011,FNSWMHLD20249878,060711,1429.48,REDACTED UNDER DP ACT,102526,291498323,Adult & Community Services,Rents & other landlord charges payable,2321,INDV
+18,Devon County Council,13/07/2011,CFADDAY19823409,REDACTED UNDER DP ACT,607.84,REDACTED UNDER DP ACT,123276,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,13/07/2011,CFSUPP19955780,REDACTED UNDER DP ACT,1041.68,REDACTED UNDER DP ACT,123276,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,13/07/2011,CFSUPP19955752,REDACTED UNDER DP ACT,13038.36,REDACTED UNDER DP ACT,118050,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
+18,Devon County Council,13/07/2011,CFADDAY19823410,REDACTED UNDER DP ACT,1116.6,REDACTED UNDER DP ACT,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,13/07/2011,CFADDAY19823411,REDACTED UNDER DP ACT,2555.73,REDACTED UNDER DP ACT,135593,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,13/07/2011,CFSUPP19955768,REDACTED UNDER DP ACT,2025.8,REDACTED UNDER DP ACT,120559,,Adult & Community Services,Floating Support Service (3rd),5708,INDV
+18,Devon County Council,13/07/2011,LDP20271572,3,830,REDACTED UNDER DP ACT,279588,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,13/07/2011,CFADDAY19823478,REDACTED UNDER DP ACT,578.8,REDACTED UNDER DP ACT,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,13/07/2011,CFADDAY19823485,REDACTED UNDER DP ACT,607.74,REDACTED UNDER DP ACT,196903,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,13/07/2011,CFSUPP19955731,REDACTED UNDER DP ACT,2720.04,REDACTED UNDER DP ACT,117854,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,13/07/2011,CFADRES19860355,REDACTED UNDER DP ACT,4517.99,REDACTED UNDER DP ACT,90051,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,13/07/2011,CFSUPP19955755,REDACTED UNDER DP ACT,694.4,REDACTED UNDER DP ACT,118066,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,13/07/2011,CFSUPP19955777,REDACTED UNDER DP ACT,4629.76,REDACTED UNDER DP ACT,120578,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
+18,Devon County Council,13/07/2011,HQ20262349,110601/SW,1050,REDACTED UNDER DP ACT,262754,,"Environment, Economy & Culture",Management Consultancy,4303,INDV
+18,Devon County Council,13/07/2011,CYPCENT19965725,120711,4592.84,REDACTED UNDER DP ACT,280170,,Children & Younger Persons,Hospitality & Other Expenses,4703,INDV
+18,Devon County Council,13/07/2011,WASTE20451131,PJT7876,850,REDACTED UNDER DP ACT,280201,,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,13/07/2011,CFSUPP19955791,REDACTED UNDER DP ACT,667.44,REDACTED UNDER DP ACT,131080,,Adult & Community Services,Accomodation Based Services (3rd),5707,INDV
 18,Devon County Council,13/07/2011,FINMDAD20219545,1085,519.98,24 HOUR CARE LTD,274488,,Adult & Community Services,Non-Budgeted Temp/Agency Staff,4321,LTD
 18,Devon County Council,13/07/2011,CFSUPP19955655,REDACTED UNDER DP ACT,859.03,ABBEYFIELD SIDMOUTH SOCIETY,35683,,Adult & Community Services,Accomodation Based Services (3rd),5707,LTD
 18,Devon County Council,13/07/2011,CFSUPP19955826,REDACTED UNDER DP ACT,522.32,ABBEYFIELD SOC LTD,184329,,Adult & Community Services,Accomodation Based Services (3rd),5707,LTD
@@ -3159,7 +3159,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,13/07/2011,CFSUPP19955643,REDACTED UNDER DP ACT,2106,EXETER CITY COUNCL (FINANCE),4272,,Adult & Community Services,Accomodation Based Services (3rd),5707,WGA
 18,Devon County Council,13/07/2011,CFSUPP19955644,REDACTED UNDER DP ACT,8995.21,EXETER CITY COUNCL (FINANCE),4272,,Adult & Community Services,Accomodation Based Services (3rd),5707,WGA
 18,Devon County Council,13/07/2011,CYPEELOC19968238,PARKING 6/7/11,1299.99,EXETER CITY COUNCL (FINANCE),4272,,Children & Younger Persons,Travel Expenses,3801,WGA
-18,Devon County Council,13/07/2011,CYPEELOC19968240,50001600-0069..,521.85,EXETER CITY COUNCL (FINANCE),4272,,Children & Younger Persons,Section 17 Payments (3rd),5710,WGA
+18,Devon County Council,13/07/2011,CYPEELOC19968240,REDACTED UNDER DP ACT,521.85,EXETER CITY COUNCL (FINANCE),4272,,Children & Younger Persons,Section 17 Payments (3rd),5710,WGA
 18,Devon County Council,13/07/2011,WASTE20451073,40239348,2053.65,EXETER CITY COUNCL (FINANCE),4272,,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,WGA
 18,Devon County Council,13/07/2011,WASTE20451074,40239330,2020.35,EXETER CITY COUNCL (FINANCE),4272,,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,WGA
 18,Devon County Council,13/07/2011,CFADRES19860196,REDACTED UNDER DP ACT,1005.12,FIFE COUNCIL,42557,,Adult & Community Services,Care Spot - Private (3rd),5701,WGA
@@ -3257,12 +3257,12 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,14/07/2011,CSET19964698,MPSUM11,782.76,ST JOHN PRE-SCHOOL,102545,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,14/07/2011,CAPCYP19815844,6979,1470,BEDFORD HOTEL (TAVISTOCK),83949,527032570,Children & Younger Persons,Venue Hire,2322,HOTL
 18,Devon County Council,14/07/2011,LDP20271810,188388,680.17,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
-18,Devon County Council,14/07/2011,RESTRAT20370930,354,992.2,BAYNES,208383,,Children & Younger Persons,Training inc Travel Costs,1802,INDV
-18,Devon County Council,14/07/2011,LDP20271761,LDP0002,1198.8,DYMOND,279081,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,14/07/2011,LDP20271807,4,1186.4,PIKE,279587,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,14/07/2011,FINSSCW20232628,300611,4000,SMITH,250248,,Adult & Community Services,Management Consultancy,4303,INDV
-18,Devon County Council,14/07/2011,FINSSCW20232629,150611,4250,SMITH,250248,,Adult & Community Services,Management Consultancy,4303,INDV
-18,Devon County Council,14/07/2011,LDP20271450,110617,1108.34,SMITH,255341,,Children & Younger Persons,Other Fees & Charges (Expenditure),4311,INDV
+18,Devon County Council,14/07/2011,RESTRAT20370930,354,992.2,REDACTED UNDER DP ACT,208383,,Children & Younger Persons,Training inc Travel Costs,1802,INDV
+18,Devon County Council,14/07/2011,LDP20271761,LDP0002,1198.8,REDACTED UNDER DP ACT,279081,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,14/07/2011,LDP20271807,4,1186.4,REDACTED UNDER DP ACT,279587,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,14/07/2011,FINSSCW20232628,300611,4000,REDACTED UNDER DP ACT,250248,,Adult & Community Services,Management Consultancy,4303,INDV
+18,Devon County Council,14/07/2011,FINSSCW20232629,150611,4250,REDACTED UNDER DP ACT,250248,,Adult & Community Services,Management Consultancy,4303,INDV
+18,Devon County Council,14/07/2011,LDP20271450,110617,1108.34,REDACTED UNDER DP ACT,255341,,Children & Younger Persons,Other Fees & Charges (Expenditure),4311,INDV
 18,Devon County Council,14/07/2011,EXCHEQ20074225,10297083/JUNE,518.08,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,14/07/2011,FINSWAD20237574,20405922,564.92,3663 (SCARISBRICK),6550,643994692,Adult & Community Services,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,14/07/2011,LDP20271742,20410677,476.42,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
@@ -3421,15 +3421,15 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,15/07/2011,CSET19964672,SGSUM11,665.52,LITTLE ACORN PRE-SCHOOL,44356,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,15/07/2011,LDP20271627,29050,11918.24,E S W SOLUTIONS LTD,239408,699427077,Children & Younger Persons,Equipment,4001,FACT
 18,Devon County Council,15/07/2011,LDP20271501,11853,550,EVENT HIRE SOLUTIONS,195090,890130442,Children & Younger Persons,Miscellaneous expenditure,4901,FACT
-18,Devon County Council,15/07/2011,LLCDAWLI20291188,462,4488.44,CARR,209153,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,15/07/2011,LEGAL20280727,31906,1500,FLEXMAN,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,15/07/2011,LEGAL20280728,32255,700,FLEXMAN,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,15/07/2011,LEGAL20280740,32159,1800,INGHAM,207067,524284846,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,15/07/2011,EXCHEQ20075120,DISTURBANCE EXP,3500,MATENDA,280301,,Children & Younger Persons,Other Employee Expenses,1801,INDV
-18,Devon County Council,15/07/2011,CYPNMLOC19980073,R.CARMICHAEL,1200,MCGUFFIE,219331,,Children & Younger Persons,Direct Payments,6401,INDV
-18,Devon County Council,15/07/2011,LDP20271559,000336,1148.8,ROSS,230444,784011443,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,15/07/2011,LDP20271800,000337,1525.6,ROSS,230444,784011443,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,15/07/2011,HQ20262352,006,538.9,SIMMONDS,238896,,"Environment, Economy & Culture",Equipment,4001,INDV
+18,Devon County Council,15/07/2011,LLCDAWLI20291188,462,4488.44,REDACTED UNDER DP ACT,209153,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,15/07/2011,LEGAL20280727,31906,1500,REDACTED UNDER DP ACT,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,15/07/2011,LEGAL20280728,32255,700,REDACTED UNDER DP ACT,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,15/07/2011,LEGAL20280740,32159,1800,REDACTED UNDER DP ACT,207067,524284846,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,15/07/2011,EXCHEQ20075120,DISTURBANCE EXP,3500,REDACTED UNDER DP ACT,280301,,Children & Younger Persons,Other Employee Expenses,1801,INDV
+18,Devon County Council,15/07/2011,CYPNMLOC19980073,R.CARMICHAEL,1200,REDACTED UNDER DP ACT,219331,,Children & Younger Persons,Direct Payments,6401,INDV
+18,Devon County Council,15/07/2011,LDP20271559,000336,1148.8,REDACTED UNDER DP ACT,230444,784011443,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,15/07/2011,LDP20271800,000337,1525.6,REDACTED UNDER DP ACT,230444,784011443,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,15/07/2011,HQ20262352,006,538.9,REDACTED UNDER DP ACT,238896,,"Environment, Economy & Culture",Equipment,4001,INDV
 18,Devon County Council,15/07/2011,EARLYRS20025034,816,500,ACACIA TRAINING & DEVELOPMENT LT,175183,586323128,Children & Younger Persons,Course / Exam Fees & Registration,4312,LTD
 18,Devon County Council,15/07/2011,FINMDAD20219547,G2273551,1261.06,ALLIED HEALTHCARE GROUP LTD,91726,488771383,Adult & Community Services,Non-Budgeted Temp/Agency Staff,4321,LTD
 18,Devon County Council,15/07/2011,FINTBAD20240758,G2261250-DN-2,5233.92,ALLIED HEALTHCARE GROUP LTD,91726,488771383,Adult & Community Services,Care Block - Private (3rd),5702,LTD
@@ -3544,7 +3544,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,15/07/2011,FINMH20222183,67032980,4367.34,DEVON PARTNERSHP TST(NB-NOT PCT!,57820,654400557,Adult & Community Services,Care staff inc NNEB - Pay,1032,WGA
 18,Devon County Council,15/07/2011,FINMH20222200,67032969,3817.85,DEVON PARTNERSHP TST(NB-NOT PCT!,57820,654400557,Adult & Community Services,Contributions to other estabs (3rd),5601,WGA
 18,Devon County Council,15/07/2011,EXCHEQ20074753,20570805A,1384.07,EAST DEVON DIST COUN (S O ACC),8710,142218990,Children & Younger Persons,Rates,2341,WGA
-18,Devon County Council,15/07/2011,CYPEELOC19119388,50001148-0474,610.88,EXETER CITY COUNCL (FINANCE),4272,,Children & Younger Persons,Section 17 Payments (3rd),5710,WGA
+18,Devon County Council,15/07/2011,CYPEELOC19119388,REDACTED UNDER DP ACT,610.88,EXETER CITY COUNCL (FINANCE),4272,,Children & Younger Persons,Section 17 Payments (3rd),5710,WGA
 18,Devon County Council,15/07/2011,LLCBIDEF20289387,056,740,BIDEFORD BLUES & APPLEDORE JFC,65556,,Children & Younger Persons,Clubs and Other Expenditure,4332,YTH
 18,Devon County Council,15/07/2011,YOUTHMID20460275,LYN 2011/12,908,BIDEFORD YOUTH PIPE BAND,79539,,Children & Younger Persons,Grants Paid,4802,YTH
 18,Devon County Council,18/07/2011,CFADDOM19840423,REDACTED UNDER DP ACT,1056.44,BURDON GRANGE,203246,,Adult & Community Services,Care Spot - Private (3rd),5701,B
@@ -3888,19 +3888,19 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,18/07/2011,EXCHEQ20075524,INV00889,2522.5,PARK HOTEL THE,21121,,Children & Younger Persons,Educational / Residential Visits,4331,HOTL
 18,Devon County Council,18/07/2011,LDP20271480,32532,561.92,SEVEN STARS HOTEL,182396,141200045,Children & Younger Persons,Hospitality & Other Expenses,4703,HOTL
 18,Devon County Council,18/07/2011,EXCHEQ20075822,320140,562.5,WOOLACOMBE BAY HOTEL,71843,,Children & Younger Persons,Clubs and Other Expenditure,4332,HOTL
-18,Devon County Council,18/07/2011,EXCHEQ20076099,ILFCOLLEGE,900,ARTICULTURE,22400,,Children & Younger Persons,Materials & Consumables,4003,INDV
-18,Devon County Council,18/07/2011,LEGAL20280765,23648 -30/06/11,525,BERKLEY,86220,585796468,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,18/07/2011,CYPEELOC19968311,DEV65,3640,BETTS,214086,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,18/07/2011,FINSSCW20232633,2046,500,BEXON,213462,,Adult & Community Services,Management Consultancy,4303,INDV
-18,Devon County Council,18/07/2011,LLCDAWLI20291187,461,5678.94,CARR,209153,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,18/07/2011,EARLYRS20025047,150711IT,670,FLETCHER,275667,,Children & Younger Persons,Training inc Travel Costs,1802,INDV
-18,Devon County Council,18/07/2011,FINSSCW20232660,MR GODSMARK,3187.01,GODSMARK,280371,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,18/07/2011,EXCHEQ20076307,DISTURBANCE EXP,3500,MOORE,280299,,Children & Younger Persons,Other Employee Expenses,1801,INDV
-18,Devon County Council,18/07/2011,FNMDMHLD20248137,INSURANCE,907.05,RODD,94764,,Adult & Community Services,Rents & other landlord charges payable,2321,INDV
-18,Devon County Council,18/07/2011,LDP20271849,LDP/EHE - 4,527.57,TOPLEY,187976,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,18/07/2011,CFADDAY19823649,REDACTED UNDER DP ACT,1050.24,WELLMAN,131080,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,18/07/2011,CFADDAY19823650,REDACTED UNDER DP ACT,1050.24,WELLMAN,131080,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,18/07/2011,EXCHEQ20075703,RIDING22JULY'11,575,WILKINSON,38325,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
+18,Devon County Council,18/07/2011,EXCHEQ20076099,ILFCOLLEGE,900,REDACTED UNDER DP ACT,22400,,Children & Younger Persons,Materials & Consumables,4003,INDV
+18,Devon County Council,18/07/2011,LEGAL20280765,23648 -30/06/11,525,REDACTED UNDER DP ACT,86220,585796468,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,18/07/2011,CYPEELOC19968311,DEV65,3640,REDACTED UNDER DP ACT,214086,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,18/07/2011,FINSSCW20232633,2046,500,REDACTED UNDER DP ACT,213462,,Adult & Community Services,Management Consultancy,4303,INDV
+18,Devon County Council,18/07/2011,LLCDAWLI20291187,461,5678.94,REDACTED UNDER DP ACT,209153,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,18/07/2011,EARLYRS20025047,150711IT,670,REDACTED UNDER DP ACT,275667,,Children & Younger Persons,Training inc Travel Costs,1802,INDV
+18,Devon County Council,18/07/2011,FINSSCW20232660,MR GODSMARK,3187.01,REDACTED UNDER DP ACT,280371,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,18/07/2011,EXCHEQ20076307,DISTURBANCE EXP,3500,REDACTED UNDER DP ACT,280299,,Children & Younger Persons,Other Employee Expenses,1801,INDV
+18,Devon County Council,18/07/2011,FNMDMHLD20248137,INSURANCE,907.05,REDACTED UNDER DP ACT,94764,,Adult & Community Services,Rents & other landlord charges payable,2321,INDV
+18,Devon County Council,18/07/2011,LDP20271849,LDP/EHE - 4,527.57,REDACTED UNDER DP ACT,187976,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,18/07/2011,CFADDAY19823649,REDACTED UNDER DP ACT,1050.24,REDACTED UNDER DP ACT,131080,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,18/07/2011,CFADDAY19823650,REDACTED UNDER DP ACT,1050.24,REDACTED UNDER DP ACT,131080,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,18/07/2011,EXCHEQ20075703,RIDING22JULY'11,575,REDACTED UNDER DP ACT,38325,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
 18,Devon County Council,18/07/2011,EXCHEQ20070923,75237,1034.84,1ST OFFICE EQUIPMENT LTD,166676,841708723,Children & Younger Persons,Printing & Design,4201,LTD
 18,Devon County Council,18/07/2011,EXCHEQ20075382,74496,496.85,1ST OFFICE EQUIPMENT LTD,166676,841708723,Children & Younger Persons,Printing & Design,4201,LTD
 18,Devon County Council,18/07/2011,EXCHEQ20075384,75141,474.37,1ST OFFICE EQUIPMENT LTD,166676,841708723,Children & Younger Persons,Materials & Consumables,4003,LTD
@@ -4307,11 +4307,11 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,19/07/2011,CFCLEAV19905805,REDACTED UNDER DP ACT,2891,GREAT WESTERN HOTEL,22999,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
 18,Devon County Council,19/07/2011,LLCHONIT20290301,76020,1897.42,ILSINGTON COUNTRY HOUSE HOTEL,106328,540449553,Children & Younger Persons,Venue Hire,2322,HOTL
 18,Devon County Council,19/07/2011,LDP20271860,188593,649.25,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
-18,Devon County Council,19/07/2011,FINMH20222209,JUN11,577.5,ADLER,185922,,Adult & Community Services,Standby Payments,1720,INDV
-18,Devon County Council,19/07/2011,CFBOUT19882711,REDACTED UNDER DP ACT,666.11,GANDER,177730,,Children & Younger Persons,Travel Expenses,3801,INDV
-18,Devon County Council,19/07/2011,LDP20271819,0031,1350,MURRAY,191287,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,19/07/2011,CFCLEAV19905845,REDACTED UNDER DP ACT,560,STONE,135015,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,INDV
-18,Devon County Council,19/07/2011,CFBOUT19882751,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,19/07/2011,FINMH20222209,JUN11,577.5,REDACTED UNDER DP ACT,185922,,Adult & Community Services,Standby Payments,1720,INDV
+18,Devon County Council,19/07/2011,CFBOUT19882711,REDACTED UNDER DP ACT,666.11,REDACTED UNDER DP ACT,177730,,Children & Younger Persons,Travel Expenses,3801,INDV
+18,Devon County Council,19/07/2011,LDP20271819,0031,1350,REDACTED UNDER DP ACT,191287,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,19/07/2011,CFCLEAV19905845,REDACTED UNDER DP ACT,560,REDACTED UNDER DP ACT,135015,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,INDV
+18,Devon County Council,19/07/2011,CFBOUT19882751,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
 18,Devon County Council,19/07/2011,EXCHEQ20076623,10413,1159.8,ABSENCE PROTECTION LTD,244040,,Children & Younger Persons,Teacher supply cover insurance,1831,LTD
 18,Devon County Council,19/07/2011,GALAXY20251961,2000617032,813.44,AUDIOGO LTD,122925,991257687,Adult & Community Services,Books & Publications,4006,LTD
 18,Devon County Council,19/07/2011,FINMDAD20219560,163718/9,593.02,BAKER M J FOODSERVICE LIMITED,144252,723643639,Adult & Community Services,Provisions / Food Purchases,4102,LTD
@@ -4652,12 +4652,12 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,20/07/2011,CSET19964706,OPSUM11,533.7,STOCKLAND & YARCOMBE PRE SCHOOL,57810,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,20/07/2011,CSET19964699,BASUM11,569.28,WOODFORD RASCALS NURSERY,280233,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,20/07/2011,LDP20271863,188733,845.5,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
-18,Devon County Council,20/07/2011,CYPNMLOC19979883,F.A. JUN-2011,900,AL'OMAIR,242879,,Children & Younger Persons,Care Other - Private (3rd),5705,INDV
-18,Devon County Council,20/07/2011,LEGAL20280755,31919,650,FLEXMAN,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,20/07/2011,RNORTH20375594,08/07/11,1000,HEIMANN,242789,,"Environment, Economy & Culture",Professional Fees,4306,INDV
-18,Devon County Council,20/07/2011,CFADDAY19823823,REDACTED UNDER DP ACT,984,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,20/07/2011,CFADDAY19823824,REDACTED UNDER DP ACT,900,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,20/07/2011,CFADDAY19823825,REDACTED UNDER DP ACT,500,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,20/07/2011,CYPNMLOC19979883,F.A. JUN-2011,900,REDACTED UNDER DP ACT,242879,,Children & Younger Persons,Care Other - Private (3rd),5705,INDV
+18,Devon County Council,20/07/2011,LEGAL20280755,31919,650,REDACTED UNDER DP ACT,212730,835764302,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,20/07/2011,RNORTH20375594,08/07/11,1000,REDACTED UNDER DP ACT,242789,,"Environment, Economy & Culture",Professional Fees,4306,INDV
+18,Devon County Council,20/07/2011,CFADDAY19823823,REDACTED UNDER DP ACT,984,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,20/07/2011,CFADDAY19823824,REDACTED UNDER DP ACT,900,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,20/07/2011,CFADDAY19823825,REDACTED UNDER DP ACT,500,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
 18,Devon County Council,20/07/2011,EXCHEQ20077217,75371,514.8,1ST OFFICE EQUIPMENT LTD,166676,841708723,Children & Younger Persons,Materials & Consumables,4003,LTD
 18,Devon County Council,20/07/2011,WASTE20451123,A8550818100,859.5,A T S EUROMASTER,110718,786754958,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,LTD
 18,Devon County Council,20/07/2011,EARLYRS20025035,819,500,ACACIA TRAINING & DEVELOPMENT LT,175183,586323128,Children & Younger Persons,Course / Exam Fees & Registration,4312,LTD
@@ -4826,7 +4826,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,21/07/2011,EXCHEQ20078305,30853,3150,DARTLINE COACHES,11216,456125651,Children & Younger Persons,Hire of Vehicles (Non TCS),3501,BUSN
 18,Devon County Council,21/07/2011,EXCHEQ20078306,30854,1500,DARTLINE COACHES,11216,456125651,Children & Younger Persons,Hire of Vehicles (Non TCS),3501,BUSN
 18,Devon County Council,21/07/2011,EXCHEQ20078307,30855,1140,DARTLINE COACHES,11216,456125651,Children & Younger Persons,Hire of Vehicles (Non TCS),3501,BUSN
-18,Devon County Council,21/07/2011,CYPNMLOC19980133,2633,635.2,DEAFINITE INTERPRETERS LTD,217741,,Children & Younger Persons,Section 17 Payments (3rd),5710,BUSN
+18,Devon County Council,21/07/2011,CYPNMLOC19980133,REDACTED UNDER DP ACT,635.2,DEAFINITE INTERPRETERS LTD,217741,,Children & Younger Persons,Section 17 Payments (3rd),5710,BUSN
 18,Devon County Council,21/07/2011,CYPIHRES19974362,3355939,585.28,DENNIS FOODSERVICE PHILIP,90328,,Children & Younger Persons,Provisions / Food Purchases,4102,BUSN
 18,Devon County Council,21/07/2011,EXCHEQ20077998,16593,745,DESIGN-A-STITCH,23675,525095451,Children & Younger Persons,Other Fees & Charges (Expenditure),4311,BUSN
 18,Devon County Council,21/07/2011,EXCHEQ20077828,1940,814,DEVON SHIRT DESIGNS,5609,320774571,Children & Younger Persons,Materials & Consumables,4003,BUSN
@@ -4907,10 +4907,10 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,21/07/2011,CYPNMLOC19979913,08664,15084.73,ST CHRISTOPHERS SCHOOL,108885,,Children & Younger Persons,Residential Care - Private (3rd),5731,EDUC
 18,Devon County Council,21/07/2011,CSET19964693,VARSUM11,1494.36,BUSY OTTERS PGRP,42193,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,21/07/2011,LDP20271813,188872,598.17,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
-18,Devon County Council,21/07/2011,EXCHEQ20078311,12007,702,EDUPRINT,250961,901603567,Children & Younger Persons,Printing & Design,4201,INDV
-18,Devon County Council,21/07/2011,EXCHEQ20078501,LS004,700,GLOVER,265207,,Children & Younger Persons,Other Building Maintenance,2251,INDV
-18,Devon County Council,21/07/2011,EXCHEQ20078418,HCC,901.93,STEVENS,257133,,Children & Younger Persons,Travel Expenses,3801,INDV
-18,Devon County Council,21/07/2011,DIRSUPP20007494,NUT JUL 11,1876,WELLS,260502,,Children & Younger Persons,Other Fees & Charges (Expenditure),4311,INDV
+18,Devon County Council,21/07/2011,EXCHEQ20078311,12007,702,REDACTED UNDER DP ACT,250961,901603567,Children & Younger Persons,Printing & Design,4201,INDV
+18,Devon County Council,21/07/2011,EXCHEQ20078501,LS004,700,REDACTED UNDER DP ACT,265207,,Children & Younger Persons,Other Building Maintenance,2251,INDV
+18,Devon County Council,21/07/2011,EXCHEQ20078418,HCC,901.93,REDACTED UNDER DP ACT,257133,,Children & Younger Persons,Travel Expenses,3801,INDV
+18,Devon County Council,21/07/2011,DIRSUPP20007494,NUT JUL 11,1876,REDACTED UNDER DP ACT,260502,,Children & Younger Persons,Other Fees & Charges (Expenditure),4311,INDV
 18,Devon County Council,21/07/2011,EXCHEQ20077691,STOK30.06,856.2,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,21/07/2011,EXCHEQ20077722,49329933/1,909.13,BRITISH GAS BUSINESS (ELEC),114029,684966762,Children & Younger Persons,Electricity,2302,LTD
 18,Devon County Council,21/07/2011,EXCHEQ20078190,49334114/1,669.96,BRITISH GAS BUSINESS (ELEC),114029,684966762,Children & Younger Persons,Electricity,2302,LTD
@@ -5092,12 +5092,12 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,22/07/2011,CSET19964684,ZMSUM11,533.7,RUPERTS UNDER 5S PLAYGROUP,58773,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,22/07/2011,LDP20271846,INV00881,538,BUCKERELL LODGE,13685,510607880,Children & Younger Persons,Venue Hire,2322,HOTL
 18,Devon County Council,22/07/2011,EXCHEQ20079438,32589,468.04,ROYAL SEVEN STARS HOTEL,88580,141200045,Children & Younger Persons,Materials & Consumables,4003,HOTL
-18,Devon County Council,22/07/2011,LEGAL20280744,32367,500,BRADNOCK,22253,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,22/07/2011,EXCHEQ20078610,260,715,EVANS,151946,,Children & Younger Persons,Materials & Consumables,4003,INDV
-18,Devon County Council,22/07/2011,EXCHEQ20079156,67,2500,LUXTON,51486,,Children & Younger Persons,Other Building Maintenance,2251,INDV
-18,Devon County Council,22/07/2011,LEGAL20280745,30343,1000,MANN,20978,699081679,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,22/07/2011,FINMH20222271,MAY 11,595,STAVERT,226639,,Adult & Community Services,Standby Payments,1720,INDV
-18,Devon County Council,22/07/2011,ACLCENT19802410,369,5131.8,WILLIS,95438,,Adult & Community Services,Other Fees & Charges (Expenditure),4311,INDV
+18,Devon County Council,22/07/2011,LEGAL20280744,32367,500,REDACTED UNDER DP ACT,22253,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,22/07/2011,EXCHEQ20078610,260,715,REDACTED UNDER DP ACT,151946,,Children & Younger Persons,Materials & Consumables,4003,INDV
+18,Devon County Council,22/07/2011,EXCHEQ20079156,67,2500,REDACTED UNDER DP ACT,51486,,Children & Younger Persons,Other Building Maintenance,2251,INDV
+18,Devon County Council,22/07/2011,LEGAL20280745,30343,1000,REDACTED UNDER DP ACT,20978,699081679,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,22/07/2011,FINMH20222271,MAY 11,595,REDACTED UNDER DP ACT,226639,,Adult & Community Services,Standby Payments,1720,INDV
+18,Devon County Council,22/07/2011,ACLCENT19802410,369,5131.8,REDACTED UNDER DP ACT,95438,,Adult & Community Services,Other Fees & Charges (Expenditure),4311,INDV
 18,Devon County Council,22/07/2011,EXCHEQ20079291,51947,604.34,A + D-SW SUPPLIES,176219,,Children & Younger Persons,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,22/07/2011,FINMDAD20219644,G2278793,985.91,ALLIED HEALTHCARE GROUP LTD,91726,488771383,Adult & Community Services,Agency staff - Pay,1701,LTD
 18,Devon County Council,22/07/2011,EXCHEQ20079229,2669,555,AMEECA LTD,241644,895033702,Children & Younger Persons,IT Hardware - Scanners Printers MFD's,4511,LTD
@@ -5568,19 +5568,19 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,25/07/2011,CFADDOM19841126,REDACTED UNDER DP ACT,1884.04,UNITED CARE CONCEPTS,251075,,Adult & Community Services,Care Spot - Private (3rd),5701,FACT
 18,Devon County Council,25/07/2011,CFADDAY19823946,REDACTED UNDER DP ACT,942.08,GROVE THE,196703,,Adult & Community Services,Individualised Support - Private (3rd),5706,HOTL
 18,Devon County Council,25/07/2011,EXCHEQ20072911,188819,606.25,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Miscellaneous expenditure,4901,HOTL
-18,Devon County Council,25/07/2011,EXCHEQ20080783,SIDCOLL28/06/11,1240,ASTBURY,280314,,Children & Younger Persons,Printing & Design,4201,INDV
-18,Devon County Council,25/07/2011,LDP20271848,10,688.17,BRAY,271437,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,25/07/2011,CYPCENT19965738,TD  20/7/11,4135.1,DAY,208985,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,25/07/2011,FINTBAD20240851,J100/11,824.49,HARRIS,191498,844620530,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
-18,Devon County Council,25/07/2011,LDP20271898,TSD2011003,750,KNAPP,280316,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,25/07/2011,LDP20271899,TSD2011004,900,KNAPP,280316,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,25/07/2011,CFADDAY19823930,REDACTED UNDER DP ACT,576.24,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,25/07/2011,CFADDAY19823931,REDACTED UNDER DP ACT,920,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,25/07/2011,LLCTORRI20294704,APRIL/MAY2011,905.4,TAMLYN,80391,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,25/07/2011,LLCTORRI20294705,JUNE 2011,1330.56,TAMLYN,80391,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,25/07/2011,LLCTORRI20294706,JULY 2011,697.8,TAMLYN,80391,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,25/07/2011,EXCHEQ20079767,44,720,TURRELL,209512,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
-18,Devon County Council,25/07/2011,EXCHEQ20081277,TREE INVESTIGAT,2482.33,WILLIAMS,183081,,Adult & Community Services,Management Consultancy,4303,INDV
+18,Devon County Council,25/07/2011,EXCHEQ20080783,SIDCOLL28/06/11,1240,REDACTED UNDER DP ACT,280314,,Children & Younger Persons,Printing & Design,4201,INDV
+18,Devon County Council,25/07/2011,LDP20271848,10,688.17,REDACTED UNDER DP ACT,271437,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,25/07/2011,CYPCENT19965738,TD  20/7/11,4135.1,REDACTED UNDER DP ACT,208985,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,25/07/2011,FINTBAD20240851,J100/11,824.49,REDACTED UNDER DP ACT,191498,844620530,Adult & Community Services,Adaptations - Private (3rd),5709,INDV
+18,Devon County Council,25/07/2011,LDP20271898,TSD2011003,750,REDACTED UNDER DP ACT,280316,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,25/07/2011,LDP20271899,TSD2011004,900,REDACTED UNDER DP ACT,280316,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,25/07/2011,CFADDAY19823930,REDACTED UNDER DP ACT,576.24,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,25/07/2011,CFADDAY19823931,REDACTED UNDER DP ACT,920,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,25/07/2011,LLCTORRI20294704,APRIL/MAY2011,905.4,REDACTED UNDER DP ACT,80391,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,25/07/2011,LLCTORRI20294705,JUNE 2011,1330.56,REDACTED UNDER DP ACT,80391,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,25/07/2011,LLCTORRI20294706,JULY 2011,697.8,REDACTED UNDER DP ACT,80391,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,25/07/2011,EXCHEQ20079767,44,720,REDACTED UNDER DP ACT,209512,,Children & Younger Persons,Educational / Residential Visits,4331,INDV
+18,Devon County Council,25/07/2011,EXCHEQ20081277,TREE INVESTIGAT,2482.33,REDACTED UNDER DP ACT,183081,,Adult & Community Services,Management Consultancy,4303,INDV
 18,Devon County Council,25/07/2011,EXCHEQ20076529,20411404,688.88,3663 (SCARISBRICK),6550,643994692,Children & Younger Persons,Materials & Consumables,4003,LTD
 18,Devon County Council,25/07/2011,EXCHEQ20079513,52362,420.5,A + D-SW SUPPLIES,176219,,Children & Younger Persons,Cleaning materials (inc pools),2603,LTD
 18,Devon County Council,25/07/2011,EARLYRS20025031,823,1650,ACACIA TRAINING & DEVELOPMENT LT,175183,586323128,Children & Younger Persons,Course / Exam Fees & Registration,4312,LTD
@@ -5861,16 +5861,16 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,26/07/2011,CFCLEAV19906056,REDACTED UNDER DP ACT,4035,GREAT WESTERN HOTEL,22999,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
 18,Devon County Council,26/07/2011,CFCLEAV19906177,REDACTED UNDER DP ACT,1350,MANOR HOTEL THE,255940,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
 18,Devon County Council,26/07/2011,CFCLEAV19906088,REDACTED UNDER DP ACT,1585,RED HOUSE HOTEL THE,103407,140817877,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,HOTL
-18,Devon County Council,26/07/2011,EXCHEQ20079460,"11,10",2000,BOXER,229752,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,26/07/2011,CYPEELOC19968444,RYAN GILMOUR,500,DENNIS,266217,,Children & Younger Persons,Intra Directorate Transactions,7901,INDV
-18,Devon County Council,26/07/2011,CFBOUT19883138,REDACTED UNDER DP ACT,617.96,GANDER,177730,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,26/07/2011,LLCBIDEF20289398,0152,3861.43,HARRIS,248288,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,26/07/2011,CFBOUT19883168,REDACTED UNDER DP ACT,627.91,KNIGHT,195297,,Children & Younger Persons,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,26/07/2011,CFBOUT19883165,REDACTED UNDER DP ACT,746.13,KNOWLES,194330,,Children & Younger Persons,Weekly Allowances,5712,INDV
-18,Devon County Council,26/07/2011,LDP20271992,11/07/91,4034.27,MITCHELL,211190,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,26/07/2011,EXCHEQ20080488,4/7/11,2040,PARKER,275240,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,26/07/2011,CFBOUT19883221,REDACTED UNDER DP ACT,669.24,STOYLE,226533,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,26/07/2011,CFBOUT19883179,REDACTED UNDER DP ACT,520.52,WONNACOTT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,26/07/2011,EXCHEQ20079460,"11,10",2000,REDACTED UNDER DP ACT,229752,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,26/07/2011,CYPEELOC19968444,RYAN GILMOUR,500,REDACTED UNDER DP ACT,266217,,Children & Younger Persons,Intra Directorate Transactions,7901,INDV
+18,Devon County Council,26/07/2011,CFBOUT19883138,REDACTED UNDER DP ACT,617.96,REDACTED UNDER DP ACT,177730,,Children & Younger Persons,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,26/07/2011,LLCBIDEF20289398,0152,3861.43,REDACTED UNDER DP ACT,248288,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,26/07/2011,CFBOUT19883168,REDACTED UNDER DP ACT,627.91,REDACTED UNDER DP ACT,195297,,Children & Younger Persons,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,26/07/2011,CFBOUT19883165,REDACTED UNDER DP ACT,746.13,REDACTED UNDER DP ACT,194330,,Children & Younger Persons,Weekly Allowances,5712,INDV
+18,Devon County Council,26/07/2011,LDP20271992,11/07/91,4034.27,REDACTED UNDER DP ACT,211190,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,26/07/2011,EXCHEQ20080488,4/7/11,2040,REDACTED UNDER DP ACT,275240,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,26/07/2011,CFBOUT19883221,REDACTED UNDER DP ACT,669.24,REDACTED UNDER DP ACT,226533,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,26/07/2011,CFBOUT19883179,REDACTED UNDER DP ACT,520.52,REDACTED UNDER DP ACT,198910,,Children & Younger Persons,Family Care Worker (3rd),5718,INDV
 18,Devon County Council,26/07/2011,FINEXEAD20215990,20409418,540.16,3663  (IVYBRIDGE),16295,643994692,Adult & Community Services,Provisions / Food Purchases,4102,LTD
 18,Devon County Council,26/07/2011,FINNDAD20225753,548867,1046.6,ARJO LTD,51133,800643761,Adult & Community Services,Other Building Maintenance,2251,LTD
 18,Devon County Council,26/07/2011,FINMDAD20219600,167761,559.37,BAKER M J FOODSERVICE LIMITED,144252,723643639,Adult & Community Services,Provisions / Food Purchases,4102,LTD
@@ -6689,32 +6689,32 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,27/07/2011,EXCHEQ20082176,10324,769.75,TEACHING APPOINTMENTS,216404,891679857,Children & Younger Persons,Supply Teachers / non contract hours - P,1020,FACT
 18,Devon County Council,27/07/2011,EXCHEQ20082177,10334,467.85,TEACHING APPOINTMENTS,216404,891679857,Children & Younger Persons,Supply Teachers / non contract hours - P,1020,FACT
 18,Devon County Council,27/07/2011,LDP20271988,189055,714.32,TIVERTON HOTEL LTD (AFTR 1/1,188311,,Children & Younger Persons,Venue Hire,2322,HOTL
-18,Devon County Council,27/07/2011,HQ20262236,DCC 110301,1576.23,BASS,272026,,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,27/07/2011,CYPEELOC19968314,DEV66,1120,BETTS,214086,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,27/07/2011,EXCHEQ20081928,48/RATCLIFFE,2511.25,DOIDGE,212324,,Children & Younger Persons,Management Consultancy,4303,INDV
-18,Devon County Council,27/07/2011,LDP20272030,03,793.2,EARLAM,279586,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,27/07/2011,CFADRES19861021,REDACTED UNDER DP ACT,8009.42,HIBBERD,90051,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,27/07/2011,EXCHEQ20082300,STJAMES,3954,HILL,280770,,Children & Younger Persons,Teachers out of hours payments claims,1110,INDV
-18,Devon County Council,27/07/2011,LEGAL20280786,31721,16150,HORTON,260953,441208976,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,27/07/2011,LEGAL20280799,31379,700,INGHAM,207067,524284846,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,27/07/2011,DDRC20000957,113,608,LYON,5123,,"Environment, Economy & Culture",Professional Fees,4306,INDV
-18,Devon County Council,27/07/2011,CYPEELOC19968307,23,2536.3,MARKS,251640,,Children & Younger Persons,Training inc Travel Costs,1802,INDV
-18,Devon County Council,27/07/2011,CFADDAY19824089,REDACTED UNDER DP ACT,920,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/07/2011,CFADDAY19824090,REDACTED UNDER DP ACT,560,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/07/2011,CFADDAY19824091,REDACTED UNDER DP ACT,1320,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/07/2011,CFADDAY19824092,REDACTED UNDER DP ACT,1028.16,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/07/2011,CFADDAY19824094,REDACTED UNDER DP ACT,1200,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/07/2011,CFADDAY19824095,REDACTED UNDER DP ACT,1200,OKE,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/07/2011,EXCHEQ20082280,1039,526.24,OWEN,123646,,Children & Younger Persons,Materials & Consumables,4003,INDV
-18,Devon County Council,27/07/2011,CFADDAY19824166,REDACTED UNDER DP ACT,765.56,ROSEWALL  & WILLIAMS,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,27/07/2011,LDP20272033,0099,1748,STUCHBERY-ULLAH,236267,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,27/07/2011,LDP20272034,0100,2356,STUCHBERY-ULLAH,236267,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,27/07/2011,LDP20272035,0101,2936,STUCHBERY-ULLAH,236267,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,27/07/2011,LDP20272036,0102,1731.2,STUCHBERY-ULLAH,236267,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,27/07/2011,LEGAL20280800,31379,550,VAHIB,182208,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,27/07/2011,HQ20262584,32225,750,WATSON,230609,864125134,"Environment, Economy & Culture",Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,27/07/2011,LDP20272007,LDP,600,WHEWELL,280681,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,27/07/2011,CYPEELOC19968484,REYNOLDS SAM,600,WOOTTON,249848,,Children & Younger Persons,Section 17 Payments (3rd),5710,INDV
+18,Devon County Council,27/07/2011,HQ20262236,DCC 110301,1576.23,REDACTED UNDER DP ACT,272026,,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,27/07/2011,CYPEELOC19968314,DEV66,1120,REDACTED UNDER DP ACT,214086,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,27/07/2011,EXCHEQ20081928,48/RATCLIFFE,2511.25,REDACTED UNDER DP ACT,212324,,Children & Younger Persons,Management Consultancy,4303,INDV
+18,Devon County Council,27/07/2011,LDP20272030,03,793.2,REDACTED UNDER DP ACT,279586,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,27/07/2011,CFADRES19861021,REDACTED UNDER DP ACT,8009.42,REDACTED UNDER DP ACT,90051,,Adult & Community Services,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,27/07/2011,EXCHEQ20082300,STJAMES,3954,REDACTED UNDER DP ACT,280770,,Children & Younger Persons,Teachers out of hours payments claims,1110,INDV
+18,Devon County Council,27/07/2011,LEGAL20280786,31721,16150,REDACTED UNDER DP ACT,260953,441208976,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,27/07/2011,LEGAL20280799,31379,700,REDACTED UNDER DP ACT,207067,524284846,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,27/07/2011,DDRC20000957,113,608,REDACTED UNDER DP ACT,5123,,"Environment, Economy & Culture",Professional Fees,4306,INDV
+18,Devon County Council,27/07/2011,CYPEELOC19968307,23,2536.3,REDACTED UNDER DP ACT,251640,,Children & Younger Persons,Training inc Travel Costs,1802,INDV
+18,Devon County Council,27/07/2011,CFADDAY19824089,REDACTED UNDER DP ACT,920,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/07/2011,CFADDAY19824090,REDACTED UNDER DP ACT,560,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/07/2011,CFADDAY19824091,REDACTED UNDER DP ACT,1320,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/07/2011,CFADDAY19824092,REDACTED UNDER DP ACT,1028.16,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/07/2011,CFADDAY19824094,REDACTED UNDER DP ACT,1200,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/07/2011,CFADDAY19824095,REDACTED UNDER DP ACT,1200,REDACTED UNDER DP ACT,137894,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/07/2011,EXCHEQ20082280,1039,526.24,REDACTED UNDER DP ACT,123646,,Children & Younger Persons,Materials & Consumables,4003,INDV
+18,Devon County Council,27/07/2011,CFADDAY19824166,REDACTED UNDER DP ACT,765.56,REDACTED UNDER DP ACT,238591,,Adult & Community Services,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,27/07/2011,LDP20272033,0099,1748,REDACTED UNDER DP ACT,236267,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,27/07/2011,LDP20272034,0100,2356,REDACTED UNDER DP ACT,236267,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,27/07/2011,LDP20272035,0101,2936,REDACTED UNDER DP ACT,236267,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,27/07/2011,LDP20272036,0102,1731.2,REDACTED UNDER DP ACT,236267,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,27/07/2011,LEGAL20280800,31379,550,REDACTED UNDER DP ACT,182208,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,27/07/2011,HQ20262584,32225,750,REDACTED UNDER DP ACT,230609,864125134,"Environment, Economy & Culture",Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,27/07/2011,LDP20272007,LDP,600,REDACTED UNDER DP ACT,280681,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,27/07/2011,CYPEELOC19968484,REDACTED UNDER DP ACT,600,REDACTED UNDER DP ACT,249848,,Children & Younger Persons,Section 17 Payments (3rd),5710,INDV
 18,Devon County Council,27/07/2011,FINMDAD20219679,1089,912.74,24 HOUR CARE LTD,274488,,Adult & Community Services,Agency staff - Pay,1701,LTD
 18,Devon County Council,27/07/2011,FINSSCW20232622,3453,1408.9,A M CARE,169807,831850435,Adult & Community Services,Equipment - Private (3rd),5741,LTD
 18,Devon County Council,27/07/2011,CFADRES19861240,REDACTED UNDER DP ACT,17714.94,AVENS CARE HOMES LTD,159705,,Adult & Community Services,Care Spot - Private (3rd),5701,LTD
@@ -6927,12 +6927,12 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,28/07/2011,CSET19964703,VARSUM11,2134.8,COLERIDGE PRE-SCHOOL PLAYGROUP,66810,,Children & Younger Persons,Independent School Fees,6001,EY
 18,Devon County Council,28/07/2011,EARLYRS20025093,804,5866.67,ERMINGTON PRE-SCHOOL UNIT,66816,,Children & Younger Persons,Training inc Travel Costs,1802,EY
 18,Devon County Council,28/07/2011,EARLYRS20025098,200711KN,2000,KINGS NYMPTON PRE SCHOOL GROUP,47838,,Children & Younger Persons,Grants Paid,4802,EY
-18,Devon County Council,28/07/2011,LDP20271998,0144,695.14,BOMBER,278774,,Children & Younger Persons,Professional Fees,4306,INDV
-18,Devon County Council,28/07/2011,HQ20262555,3046,1075.91,CLARK,261951,,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,28/07/2011,CYPEELOC19967243,UNIT 4 AUG RENT,500,HOWE,226685,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
-18,Devon County Council,28/07/2011,CYPNMLOC19980239,LS.02.09.11,787.75,PERRY,248963,,Children & Younger Persons,Care Other - Private (3rd),5705,INDV
-18,Devon County Council,28/07/2011,LEGAL20280819,32374,1200,VAHIB,182208,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,28/07/2011,LDP20271656,12,1000,WATSON,268470,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,28/07/2011,LDP20271998,0144,695.14,REDACTED UNDER DP ACT,278774,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,28/07/2011,HQ20262555,3046,1075.91,REDACTED UNDER DP ACT,261951,,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,28/07/2011,CYPEELOC19967243,UNIT 4 AUG RENT,500,REDACTED UNDER DP ACT,226685,,Children & Younger Persons,Miscellaneous expenditure,4901,INDV
+18,Devon County Council,28/07/2011,CYPNMLOC19980239,LS.02.09.11,787.75,REDACTED UNDER DP ACT,248963,,Children & Younger Persons,Care Other - Private (3rd),5705,INDV
+18,Devon County Council,28/07/2011,LEGAL20280819,32374,1200,REDACTED UNDER DP ACT,182208,,Children & Younger Persons,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,28/07/2011,LDP20271656,12,1000,REDACTED UNDER DP ACT,268470,,Children & Younger Persons,Professional Fees,4306,INDV
 18,Devon County Council,28/07/2011,YOUTHTGB20461976,50668,457.85,A + D-SW SUPPLIES,176219,,Children & Younger Persons,Materials & Consumables,4003,LTD
 18,Devon County Council,28/07/2011,EXCHEQ20082722,49335930/1,480.55,BRITISH GAS BUSINESS (ELEC),114029,684966762,Adult & Community Services,Electricity,2302,LTD
 18,Devon County Council,28/07/2011,FINSSCW20232757,92,492.38,CREDITON & DIST C TRANSPORT CO L,6684,,Adult & Community Services,Equipment - Private (3rd),5741,LTD
@@ -6979,7 +6979,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,28/07/2011,HQ20262557,110702,939.87,EVERITT R J,23215,692772002,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,SOLE
 18,Devon County Council,28/07/2011,RSOUTH20397323,586C,1726.4,PHILLIPS,172282,869913073,"Environment, Economy & Culture",Other Contractors (not Main / Term),4302,SOLE
 18,Devon County Council,28/07/2011,LEGAL20280834,A12828,5769.5,ACCOUNTANT GENERAL OF THE SENIOR,280816,,"Environment, Economy & Culture",Venue Hire,2322,WGA
-18,Devon County Council,28/07/2011,CYPSWLOC19988207,50001546-0295,4759.5,EXETER CITY COUNCL (FINANCE),4272,,Children & Younger Persons,Section 17 Payments (3rd),5710,WGA
+18,Devon County Council,28/07/2011,CYPSWLOC19988207,REDACTED UNDER DP ACT,4759.5,EXETER CITY COUNCL (FINANCE),4272,,Children & Younger Persons,Section 17 Payments (3rd),5710,WGA
 18,Devon County Council,28/07/2011,CYPSWLOC19988291,50001499-0087,630,EXETER CITY COUNCL (FINANCE),4272,,Children & Younger Persons,Cl-Unsupported Accom-Rel Child (3rd),5772,WGA
 18,Devon County Council,28/07/2011,FNEXMHLD20245417,80504078795,1812,PLYMOUTH CITY COUNCIL(GENERAL AC,101612,144675845,Adult & Community Services,Care Respite - Private (3rd),5703,WGA
 18,Devon County Council,28/07/2011,EXTFUND20206712,8163739,4814,TORBAY COUNCIL (FINANCE),6411,142208211,Children & Younger Persons,Direct Payments,6401,WGA
@@ -6990,6 +6990,6 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,29/07/2011,LDP20271816,LHEC082,560,HAYES LISA/EDUCATIONAL CONSULTNT,233105,,Children & Younger Persons,Professional Fees,4306,BUSN
 18,Devon County Council,29/07/2011,RESTRAT20371092,ROBB/00500,535,SOLUTION FOCUSED PRACTICE,271855,,Children & Younger Persons,Training inc Travel Costs,1802,BUSN
 18,Devon County Council,29/07/2011,EXCHEQ20083182,94,960,WHOLELIFE PROJECT,234604,,Children & Younger Persons,Educational / Residential Visits,4331,BUSN
-18,Devon County Council,29/07/2011,LDP20271811,11.07.11,1007.6,THOMAS,247386,,Children & Younger Persons,Professional Fees,4306,INDV
+18,Devon County Council,29/07/2011,LDP20271811,11.07.11,1007.6,REDACTED UNDER DP ACT,247386,,Children & Younger Persons,Professional Fees,4306,INDV
 18,Devon County Council,29/07/2011,LDP20272049,15592,696,HIGHER CONCEPT SOFTWARE LTD,191357,,Children & Younger Persons,IT Hardware - Scanners Printers MFD's,4511,LTD
 18,Devon County Council,29/07/2011,HQ20262667,FERRY-JUL11,657.15,GREGOR,5751,,"Environment, Economy & Culture",Pub Trans Development & Contributions (3,5502,SOLE

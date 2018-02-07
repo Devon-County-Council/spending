@@ -3214,7 +3214,7 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,02/05/2017,CFADDAY33421415,REDACTED UNDER DP ACT,596.13,PRITCHARD JANE,304476,,Adult Care & Health,Individualised Support - Private (3rd),5706,EY
 18,Devon County Council,22/05/2017,CFADDAY33422884,REDACTED UNDER DP ACT,667.5,PRITCHARD JANE,304476,,Adult Care & Health,Individualised Support - Private (3rd),5706,EY
 18,Devon County Council,03/05/2017,CFADDAY33421573,REDACTED UNDER DP ACT,612,PRITCHARD JANE,304476,,Adult Care & Health,Individualised Support - Private (3rd),5706,EY
-18,Devon County Council,03/05/2017,CAPEELOC32729057,REDACTED UNDER DP ACT,910,PRITCHARD JANE,304476,,Children's Services,Section 17 Payments (3rd),5710,EY
+18,Devon County Council,03/05/2017,CAPEELOC32729057,REDACTED UNDER DP ACT,910,REDACTED UNDER DP ACT,304476,,Children's Services,Section 17 Payments (3rd),5710,EY
 18,Devon County Council,25/05/2017,ICS33874564,2125,1671.5,PRITCHARD JANE,304476,,Children's Services,Community based care,5705,EY
 18,Devon County Council,25/05/2017,ICS33874562,2105,594.15,PRITCHARD JANE,304476,,Children's Services,Community based care,5705,EY
 18,Devon County Council,25/05/2017,ICS33874558,2134,921.6,PRITCHARD JANE,304476,,Children's Services,Residential shortbreaks,5732,EY
@@ -3258,328 +3258,328 @@ Body,Name of Body,Date,Transaction Number,Invoice Number,Amount,Supplier Name,Su
 18,Devon County Council,04/05/2017,EXCHEQ33662668,ZHG 4273,525,MID DEVON COACHES,4121,141727774,Children's Services,Hire of Vehicles (Non TCS),3501,FACT
 18,Devon County Council,18/05/2017,P2P40037066,219608,633.4,UNITED CARE CONCEPTS,251075,,Children's Services,Residential shortbreaks,5732,FACT
 18,Devon County Council,16/05/2017,EXCHEQ33667855,QG-69018,5096,MEININGER HOTEL LONDON HYDE PARK,203498,888054875,Children's Services,Educational / Residential Visits,4331,HOTL
-18,Devon County Council,03/05/2017,CFBOUT33531040,REDACTED UNDER DP ACT,556.43,ADAIR,223885,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531194,REDACTED UNDER DP ACT,506.52,ALLAWAY,306605,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531753,REDACTED UNDER DP ACT,506.52,ALLAWAY,306605,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532320,REDACTED UNDER DP ACT,506.52,ALLAWAY,306605,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533464,REDACTED UNDER DP ACT,506.52,ALLAWAY,306605,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532891,REDACTED UNDER DP ACT,506.52,ALLAWAY,306605,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33580655,REDACTED UNDER DP ACT,1456,BAILEY,340899,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533045,REDACTED UNDER DP ACT,1007.94,BAKER,334195,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532473,REDACTED UNDER DP ACT,1007.94,BAKER,334195,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533617,REDACTED UNDER DP ACT,1007.94,BAKER,334195,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531907,REDACTED UNDER DP ACT,1655.88,BAKER,334195,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531347,REDACTED UNDER DP ACT,1334.57,BAKER,334195,,Children's Services,Retainer Fee (3rd),5721,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532486,REDACTED UNDER DP ACT,1235.95,BANNISTER,336253,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531920,REDACTED UNDER DP ACT,606.48,BANNISTER,336253,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533058,REDACTED UNDER DP ACT,606.48,BANNISTER,336253,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533631,REDACTED UNDER DP ACT,665.53,BANNISTER,336253,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531362,REDACTED UNDER DP ACT,771.57,BANNISTER,336253,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33580068,REDACTED UNDER DP ACT,626.16,BARNES,335859,,Children's Services,Direct Payments,6401,INDV
-18,Devon County Council,26/05/2017,P2P40037994,44241040517,1017.5,BARRACLOUGH,169880,742080752,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531380,REDACTED UNDER DP ACT,950.04,BARRETT,339748,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532505,REDACTED UNDER DP ACT,950.04,BARRETT,339748,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533076,REDACTED UNDER DP ACT,950.04,BARRETT,339748,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533650,REDACTED UNDER DP ACT,950.04,BARRETT,339748,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531938,REDACTED UNDER DP ACT,1098.54,BARRETT,339748,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533612,REDACTED UNDER DP ACT,927.01,BEGLEY,333850,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,08/05/2017,CFADDAY33421665,REDACTED UNDER DP ACT,2148.05,BIBBINGS,135593,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533605,REDACTED UNDER DP ACT,586.6,BURFORD,332449,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531336,REDACTED UNDER DP ACT,625.75,BURFORD,332449,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533033,REDACTED UNDER DP ACT,586.6,BURFORD,332449,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532462,REDACTED UNDER DP ACT,729.89,BURFORD,332449,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531895,REDACTED UNDER DP ACT,586.6,BURFORD,332449,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,12/05/2017,EXCHEQ33666304,170103,550,CAIN,338419,,Children's Services,Other professional Services Schools,4377,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532521,REDACTED UNDER DP ACT,650.49,CARR,343481,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532304,REDACTED UNDER DP ACT,637.77,CARR,302398,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531737,REDACTED UNDER DP ACT,1214.5,CARR,302398,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533448,REDACTED UNDER DP ACT,538.58,CARR,302398,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532875,REDACTED UNDER DP ACT,688.33,CARR,302398,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,23/05/2017,P2P40038990,165758INVFJC339,5296,CASSIDY,255706,805675615,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,18/05/2017,P2P40036809,684,914.12,CLARK,261951,,Highways & Capital Development & Waste Management,Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,31/05/2017,P2P40038146,686,602.6,CLARK,261951,,Highways & Capital Development & Waste Management,Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33579193,REDACTED UNDER DP ACT,4665.48,CLARKE,321829,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,09/05/2017,P2P40037112,SCC2,4700,CLARKE,341922,891053620,Children's Services,Legal Advice (Schools),4375,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533390,REDACTED UNDER DP ACT,1030,COLLINS,280456,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532817,REDACTED UNDER DP ACT,3972.86,COLLINS,280456,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531896,REDACTED UNDER DP ACT,601.6,COOMBES,332476,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533606,REDACTED UNDER DP ACT,2887.92,COOMBES,332476,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533034,REDACTED UNDER DP ACT,563.16,COOMBES,332476,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,19/05/2017,P2P40037766,588,3298.75,CROOKES,82795,717524142,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,16/05/2017,CFCLEAV33567840,REDACTED UNDER DP ACT,673,CROOKS,316452,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531344,REDACTED UNDER DP ACT,528.49,DAVIS,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532470,REDACTED UNDER DP ACT,528.49,DAVIS,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533614,REDACTED UNDER DP ACT,528.49,DAVIS,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531904,REDACTED UNDER DP ACT,528.49,DAVIS,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533042,REDACTED UNDER DP ACT,528.49,DAVIS,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531155,REDACTED UNDER DP ACT,626.36,DAVIS,293923,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531715,REDACTED UNDER DP ACT,626.36,DAVIS,293923,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532282,REDACTED UNDER DP ACT,1301.76,DAVIS,293923,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533426,REDACTED UNDER DP ACT,626.36,DAVIS,293923,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532853,REDACTED UNDER DP ACT,626.36,DAVIS,293923,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,02/05/2017,SCPCHILD33909013,A2422064,600,DEANE,267572,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531587,REDACTED UNDER DP ACT,795.07,DELBOURGO,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533294,REDACTED UNDER DP ACT,795.07,DELBOURGO,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532719,REDACTED UNDER DP ACT,795.07,DELBOURGO,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531024,REDACTED UNDER DP ACT,795.07,DELBOURGO,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532153,REDACTED UNDER DP ACT,795.07,DELBOURGO,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531108,REDACTED UNDER DP ACT,1182.79,DUMMETT,276944,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531669,REDACTED UNDER DP ACT,1345.96,DUMMETT,276944,,Children's Services,Birthday Presents - CIC,6004,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532236,REDACTED UNDER DP ACT,1228.69,DUMMETT,276944,,Children's Services,Bed Blocking payments (3rd),5727,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533379,REDACTED UNDER DP ACT,1182.79,DUMMETT,276944,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532804,REDACTED UNDER DP ACT,3309.11,DUMMETT,276944,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,03/05/2017,CFCLEAV33567671,REDACTED UNDER DP ACT,726,DUNSCOMBE,336651,,Children's Services,Contributions to Educational Estabs (3rd,5602,INDV
-18,Devon County Council,22/05/2017,P2P40037820,44198/040517,742.5,FARQUHARSON,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,22/05/2017,P2P40038267,44145/040517,1182.5,FARQUHARSON,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,11/05/2017,P2P40037541,43752/310317,605,FARQUHARSON,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,04/05/2017,P2P40036402,41142/180417,2722.5,FARQUHARSON,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,04/05/2017,P2P40036403,43340/181417,2585,FARQUHARSON,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,22/05/2017,P2P40037669,43996/040517,880,FARQUHARSON,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531388,REDACTED UNDER DP ACT,1822.8,FINBOW,341777,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531946,REDACTED UNDER DP ACT,511.6,FINBOW,341777,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533085,REDACTED UNDER DP ACT,728.2,FINBOW,341777,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532995,REDACTED UNDER DP ACT,856.47,FLANAGAN,327049,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532425,REDACTED UNDER DP ACT,856.47,FLANAGAN,327049,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533568,REDACTED UNDER DP ACT,856.47,FLANAGAN,327049,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531298,REDACTED UNDER DP ACT,856.47,FLANAGAN,327049,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531857,REDACTED UNDER DP ACT,969.45,FLANAGAN,327049,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533480,REDACTED UNDER DP ACT,1219.5,FOLEY,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531772,REDACTED UNDER DP ACT,1219.5,FOLEY,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532338,REDACTED UNDER DP ACT,1219.5,FOLEY,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531212,REDACTED UNDER DP ACT,1219.5,FOLEY,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532907,REDACTED UNDER DP ACT,1219.5,FOLEY,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,18/05/2017,P2P40036882,162300/02/05,10510,FULLER,188738,650494043,"Community, Health, Environment & Prosperity",Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,03/05/2017,CFBOUT33530983,REDACTED UNDER DP ACT,824.25,GANDER,177730,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531547,REDACTED UNDER DP ACT,781.39,GANDER,177730,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532112,REDACTED UNDER DP ACT,824.25,GANDER,177730,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533252,REDACTED UNDER DP ACT,824.25,GANDER,177730,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532678,REDACTED UNDER DP ACT,824.25,GANDER,177730,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33530989,REDACTED UNDER DP ACT,939.54,GARBUTT,181182,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533258,REDACTED UNDER DP ACT,1918.56,GARBUTT,181182,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532684,REDACTED UNDER DP ACT,939.54,GARBUTT,181182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532118,REDACTED UNDER DP ACT,939.54,GARBUTT,181182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531553,REDACTED UNDER DP ACT,939.54,GARBUTT,181182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33580591,REDACTED UNDER DP ACT,573.68,GAZZARD,340297,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,12/05/2017,ICS33874464,REDACTED UNDER DP ACT,1824.55,GIDDINGS,344661,,Children's Services,Section 17 Payments (3rd),5710,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532273,REDACTED UNDER DP ACT,829.57,GILLARD,291807,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531706,REDACTED UNDER DP ACT,666.4,GILLARD,291807,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531146,REDACTED UNDER DP ACT,666.4,GILLARD,291807,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,23/05/2017,SOCCOMM33925835,H.L.1,500,GILLARD,291807,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532844,REDACTED UNDER DP ACT,1610.57,GILLARD,291807,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,23/05/2017,SOCCOMM33925834,B.L.1,500,GILLARD,291807,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533417,REDACTED UNDER DP ACT,666.4,GILLARD,291807,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,22/05/2017,P2P40038793,42771/210417,4537.5,GODFREY,261593,560758621,Children's Services,Materials & Consumables,4003,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33579965,REDACTED UNDER DP ACT,637.24,GOODWIN,335164,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,10/05/2017,CFADDAY33421873,REDACTED UNDER DP ACT,2795.42,GREENAWAY,196903,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,15/05/2017,CFADDAY33422179,REDACTED UNDER DP ACT,2795.42,GREENAWAY,196903,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531357,REDACTED UNDER DP ACT,841.75,GUNSTONE,335724,,Children's Services,Holiday Allowance - CIC,6005,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33577906,REDACTED UNDER DP ACT,1388.72,HAMBRIDGE,241418,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533634,REDACTED UNDER DP ACT,943.74,HAMESBROOK,336962,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533061,REDACTED UNDER DP ACT,1617.84,HAMESBROOK,336962,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532489,REDACTED UNDER DP ACT,752.57,HAMESBROOK,336962,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533430,REDACTED UNDER DP ACT,520.82,HARDING,295337,,Children's Services,In-House Respite Fostering,5725,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532845,REDACTED UNDER DP ACT,586.6,HARMER,291855,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533418,REDACTED UNDER DP ACT,586.6,HARMER,291855,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531147,REDACTED UNDER DP ACT,586.6,HARMER,291855,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531707,REDACTED UNDER DP ACT,873.18,HARMER,291855,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532274,REDACTED UNDER DP ACT,969.48,HARMER,291855,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,11/05/2017,P2P40037535,44118/240417,660,HAYWARD,202750,456142848,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,24/05/2017,CFADRES33509112,REDACTED UNDER DP ACT,8276.48,HIBBERD,90051,,Adult Care & Health,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,10/05/2017,CFADRES33508488,REDACTED UNDER DP ACT,7532.24,HIBBERD,90051,,Adult Care & Health,Care Spot - Private (3rd),5701,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33579000,REDACTED UNDER DP ACT,1076.92,HIGGINS,316600,,Children's Services,Direct Payments,6401,INDV
-18,Devon County Council,30/05/2017,SCPCHILD33909390,CBRENT,506,HILL,344496,,Children's Services,Grants & Cont to all other bodies,5601,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33577467,REDACTED UNDER DP ACT,1562.24,HOLLOWAY ,161313,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532525,REDACTED UNDER DP ACT,605.44,HOWELLS,343821,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,25/05/2017,P2P40037995,43312/100517,632.5,INGHAM,340638,524284846,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,03/05/2017,P2P40036590,43312/230317,495,INGHAM,340638,524284846,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531407,REDACTED UNDER DP ACT,1023.5,JANES,344302,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531218,REDACTED UNDER DP ACT,586.6,JEFFERSON,311126,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531778,REDACTED UNDER DP ACT,586.6,JEFFERSON,311126,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532344,REDACTED UNDER DP ACT,586.6,JEFFERSON,311126,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532913,REDACTED UNDER DP ACT,586.6,JEFFERSON,311126,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,SOCCOMM33925750,T.L.,500,JEX,340298,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531403,REDACTED UNDER DP ACT,906.46,JOHNSON,344075,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533100,REDACTED UNDER DP ACT,1022.91,JOHNSON,344075,,Children's Services,Holiday Allowance - CIC,6005,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531925,REDACTED UNDER DP ACT,558.12,KIRBY,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533637,REDACTED UNDER DP ACT,558.12,KIRBY,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532491,REDACTED UNDER DP ACT,558.12,KIRBY,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531367,REDACTED UNDER DP ACT,558.12,KIRBY,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533063,REDACTED UNDER DP ACT,558.12,KIRBY,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531008,REDACTED UNDER DP ACT,884.17,KNOWLES,194330,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531572,REDACTED UNDER DP ACT,884.17,KNOWLES,194330,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533278,REDACTED UNDER DP ACT,884.17,KNOWLES,194330,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532138,REDACTED UNDER DP ACT,884.17,KNOWLES,194330,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532704,REDACTED UNDER DP ACT,884.17,KNOWLES,194330,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533636,REDACTED UNDER DP ACT,1764.36,LAMONT,337366,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532313,REDACTED UNDER DP ACT,771.78,LAUGHTON,304449,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,03/05/2017,CFCLEAV33567640,REDACTED UNDER DP ACT,1200,LAWSON,307139,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533496,REDACTED UNDER DP ACT,775.74,LEGG,313860,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532924,REDACTED UNDER DP ACT,770.34,LEGG,313860,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532355,REDACTED UNDER DP ACT,706.44,LEGG,313860,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531229,REDACTED UNDER DP ACT,828.84,LEGG,313860,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531789,REDACTED UNDER DP ACT,706.44,LEGG,313860,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33580713,REDACTED UNDER DP ACT,896,LEVERIDGE,341332,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533149,REDACTED UNDER DP ACT,530.95,LOADER,89546,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532009,REDACTED UNDER DP ACT,748.7,LOADER,89546,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532576,REDACTED UNDER DP ACT,530.95,LOADER,89546,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,10/05/2017,CFBOUT33531447,REDACTED UNDER DP ACT,1061.9,LOADER,89546,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,03/05/2017,CFBOUT33530884,REDACTED UNDER DP ACT,1720.21,LOADER,89546,,Children's Services,Birthday Presents - CIC,6004,INDV
-18,Devon County Council,30/05/2017,CFCLEAV33568042,REDACTED UNDER DP ACT,957.48,LOCKHART,294038,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531057,REDACTED UNDER DP ACT,1308.04,LOGAN,240045,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,03/05/2017,SCPCHILD33909043,A2422404,1250,MALLARDO,344497,,Children's Services,Grants & Cont to all other bodies,5601,INDV
-18,Devon County Council,04/05/2017,P2P40036675,171801,768.6,MCDERMOTT,177253,,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532871,REDACTED UNDER DP ACT,516.3,MEHRLICH,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531173,REDACTED UNDER DP ACT,516.3,MEHRLICH,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532300,REDACTED UNDER DP ACT,516.3,MEHRLICH,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533444,REDACTED UNDER DP ACT,516.3,MEHRLICH,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531733,REDACTED UNDER DP ACT,516.3,MEHRLICH,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33580448,REDACTED UNDER DP ACT,2146.32,MILES,338783,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532479,REDACTED UNDER DP ACT,1000.93,MILLARD,335166,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533051,REDACTED UNDER DP ACT,1000.93,MILLARD,335166,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531355,REDACTED UNDER DP ACT,1204.14,MILLARD,335166,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531913,REDACTED UNDER DP ACT,1000.93,MILLARD,335166,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531823,REDACTED UNDER DP ACT,706.44,MILLER,321399,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532961,REDACTED UNDER DP ACT,706.44,MILLER,321399,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532391,REDACTED UNDER DP ACT,706.44,MILLER,321399,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533534,REDACTED UNDER DP ACT,706.44,MILLER,321399,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531264,REDACTED UNDER DP ACT,778.44,MILLER,321399,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,19/05/2017,HQ33870403,PP7006010/13,642.5,MILTON,15149,,Highways & Capital Development & Waste Management,Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531177,REDACTED UNDER DP ACT,515.97,MITCHELL,302100,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,02/05/2017,CFADDAY33421220,REDACTED UNDER DP ACT,1134.64,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,08/05/2017,CFADDAY33421666,REDACTED UNDER DP ACT,621.92,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,08/05/2017,CFADDAY33421668,REDACTED UNDER DP ACT,714.6,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,08/05/2017,CFADDAY33421669,REDACTED UNDER DP ACT,979.2,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,08/05/2017,CFADDAY33421670,REDACTED UNDER DP ACT,714.6,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,02/05/2017,CFADDAY33421221,REDACTED UNDER DP ACT,1103.12,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,02/05/2017,CFADDAY33421222,REDACTED UNDER DP ACT,605.36,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,30/05/2017,CFADDAY33423223,REDACTED UNDER DP ACT,2293.68,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,30/05/2017,CFADDAY33423225,REDACTED UNDER DP ACT,904,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,30/05/2017,CFADDAY33423224,REDACTED UNDER DP ACT,2229.96,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,30/05/2017,CFADDAY33423226,REDACTED UNDER DP ACT,1223.76,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,08/05/2017,CFADDAY33421667,REDACTED UNDER DP ACT,714.6,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,30/05/2017,CFADDAY33423222,REDACTED UNDER DP ACT,2089.76,OKE,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533023,REDACTED UNDER DP ACT,1804.49,OLIVER,331049,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531326,REDACTED UNDER DP ACT,1265.04,OLIVER,331049,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531885,REDACTED UNDER DP ACT,950.04,OLIVER,331049,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533596,REDACTED UNDER DP ACT,1034.24,OLIVER,331049,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532453,REDACTED UNDER DP ACT,1084.14,OLIVER,331049,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531224,REDACTED UNDER DP ACT,706.44,ORGAN,312586,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531784,REDACTED UNDER DP ACT,706.44,ORGAN,312586,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533491,REDACTED UNDER DP ACT,909.65,ORGAN,312586,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532350,REDACTED UNDER DP ACT,706.44,ORGAN,312586,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532919,REDACTED UNDER DP ACT,706.44,ORGAN,312586,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531340,REDACTED UNDER DP ACT,574.5,PACKARD,333268,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531900,REDACTED UNDER DP ACT,574.5,PACKARD,333268,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533038,REDACTED UNDER DP ACT,574.5,PACKARD,333268,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533610,REDACTED UNDER DP ACT,574.5,PACKARD,333268,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532466,REDACTED UNDER DP ACT,574.5,PACKARD,333268,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,22/05/2017,EXCHEQ33670331,0607A,507.47,PATTISON,240874,,Children's Services,Travel Expenses Incl. Hotel,3801,INDV
-18,Devon County Council,05/05/2017,P2P40036780,166740/SBP/326,640,POPE,344100,888280571,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,24/05/2017,P2P40038603,166740/SBP/338,1050,POPE,344100,888280571,Children's Services,Legal Fees & Disbursements,4314,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33577744,REDACTED UNDER DP ACT,620,POWELL,216732,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531360,REDACTED UNDER DP ACT,904.34,POWERS,336235,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531918,REDACTED UNDER DP ACT,2223.49,POWERS,336235,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533628,REDACTED UNDER DP ACT,1032.85,POWERS,336235,,Children's Services,Birthday Presents - CIC,6004,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533056,REDACTED UNDER DP ACT,829.64,POWERS,336235,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532484,REDACTED UNDER DP ACT,829.64,POWERS,336235,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533026,REDACTED UNDER DP ACT,702,PURDY,331182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531888,REDACTED UNDER DP ACT,666.4,PURDY,331182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532455,REDACTED UNDER DP ACT,666.4,PURDY,331182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533598,REDACTED UNDER DP ACT,956.33,PURDY,331182,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531328,REDACTED UNDER DP ACT,666.4,PURDY,331182,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533400,REDACTED UNDER DP ACT,1365.3,RANFT,284473,,Children's Services,In-House Respite Fostering,5725,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533419,REDACTED UNDER DP ACT,2621.51,READ,291861,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33578414,REDACTED UNDER DP ACT,3060,REDGWELL,291131,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,02/05/2017,CDWM33414854,LAND MANAGEMENT,4201.61,REW,261988,,Capital Expenditure,Infra REP Consultant / professional Fees,C405,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532353,REDACTED UNDER DP ACT,879.9,RICE,313292,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532922,REDACTED UNDER DP ACT,879.9,RICE,313292,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533494,REDACTED UNDER DP ACT,708.46,RICE,313292,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531227,REDACTED UNDER DP ACT,879.9,RICE,313292,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531787,REDACTED UNDER DP ACT,879.9,RICE,313292,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531805,REDACTED UNDER DP ACT,962.85,ROGERS,317554,,Children's Services,Holiday Allowance - CIC,6005,INDV
-18,Devon County Council,25/05/2017,P2P40037525,080517,500,ROOK,109225,,"Community, Health, Environment & Prosperity",Other Contractors (not Main / Term),4302,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531957,REDACTED UNDER DP ACT,826.86,ROOM,343534,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533508,REDACTED UNDER DP ACT,999.74,SABOURIN,316668,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532366,REDACTED UNDER DP ACT,2159.53,SABOURIN,316668,,Children's Services,Holiday Allowance - CIC,6005,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532935,REDACTED UNDER DP ACT,999.74,SABOURIN,316668,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531801,REDACTED UNDER DP ACT,999.74,SABOURIN,316668,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531241,REDACTED UNDER DP ACT,999.74,SABOURIN,316668,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,05/05/2017,EXCHEQ33663366,FLORIDA REFUND,1450,SAMPSON,334328,,Children's Services,Educational / Residential Visits,4331,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533618,REDACTED UNDER DP ACT,608.2,SAMS,334200,,Children's Services,Holiday Allowance - CIC,6005,INDV
-18,Devon County Council,24/05/2017,P2P40037493,08/5,700,SAVAGE-BLANCHE,312888,,Children's Services,Residential shortbreaks,5732,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532502,REDACTED UNDER DP ACT,625.55,SCARFE,339299,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,23/05/2017,SOCCOMM33925833,L.A'L-M,500,SCHLAPFER,327911,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,10/05/2017,P2P40036631,CS2382017,595,SCHNEIDER,251826,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532946,REDACTED UNDER DP ACT,2119.06,SCOTT,318999,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531387,REDACTED UNDER DP ACT,1288.19,SHUTE,341087,,Children's Services,Holiday Allowance - CIC,6005,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531945,REDACTED UNDER DP ACT,1048.26,SHUTE,341087,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533083,REDACTED UNDER DP ACT,1164.26,SHUTE,341087,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532512,REDACTED UNDER DP ACT,929.6,SHUTE,341087,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533659,REDACTED UNDER DP ACT,1136.8,SHUTE,341087,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531894,REDACTED UNDER DP ACT,706,SINCLAIR,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531334,REDACTED UNDER DP ACT,706,SINCLAIR,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532461,REDACTED UNDER DP ACT,706,SINCLAIR,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533604,REDACTED UNDER DP ACT,706,SINCLAIR,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533032,REDACTED UNDER DP ACT,706,SINCLAIR,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533666,REDACTED UNDER DP ACT,732.24,SMITH,343453,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531740,REDACTED UNDER DP ACT,1223.81,SMITH,303191,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531181,REDACTED UNDER DP ACT,1362.05,SMITH,303191,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532307,REDACTED UNDER DP ACT,1733.13,SMITH,303191,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532878,REDACTED UNDER DP ACT,1328.67,SMITH,303191,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533451,REDACTED UNDER DP ACT,1328.67,SMITH,303191,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533537,REDACTED UNDER DP ACT,891.73,SMITH,321764,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532900,REDACTED UNDER DP ACT,867.88,SNEDDON,308556,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532331,REDACTED UNDER DP ACT,865.88,SNEDDON,308556,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533473,REDACTED UNDER DP ACT,867.88,SNEDDON,308556,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531765,REDACTED UNDER DP ACT,865.88,SNEDDON,308556,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531205,REDACTED UNDER DP ACT,865.88,SNEDDON,308556,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532401,REDACTED UNDER DP ACT,689.47,STEELE,322328,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532971,REDACTED UNDER DP ACT,784.42,STEELE,322328,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531275,REDACTED UNDER DP ACT,756.52,STEELE,322328,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531833,REDACTED UNDER DP ACT,806.92,STEELE,322328,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,ACOH33958280,STENNING 01,613.8,STENNING,344872,,Adult Care & Health,Travel Expenses Incl. Hotel,3801,INDV
-18,Devon County Council,15/05/2017,EDUC33650294,ARC000031702,3241.4,STREET,336061,,Children's Services,In year DSG to Academies,5608,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531266,REDACTED UNDER DP ACT,650.51,TAYLOR,321749,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532393,REDACTED UNDER DP ACT,574.89,TAYLOR,321749,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531926,REDACTED UNDER DP ACT,1041.81,TRICKETT,337963,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533064,REDACTED UNDER DP ACT,1041.81,TRICKETT,337963,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533638,REDACTED UNDER DP ACT,1041.81,TRICKETT,337963,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532492,REDACTED UNDER DP ACT,1041.81,TRICKETT,337963,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531368,REDACTED UNDER DP ACT,1875.77,TRICKETT,337963,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532388,REDACTED UNDER DP ACT,656.1,TUKE,320811,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533531,REDACTED UNDER DP ACT,530.95,TUKE,320811,,Children's Services,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532958,REDACTED UNDER DP ACT,530.95,TUKE,320811,,Children's Services,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531821,REDACTED UNDER DP ACT,530.95,TUKE,320811,,Children's Services,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531261,REDACTED UNDER DP ACT,530.95,TUKE,320811,,Children's Services,Family Care Worker (3rd),5718,INDV
-18,Devon County Council,03/05/2017,EXCHEQ33659669,0025,750,VACCARI,302227,,Children's Services,Other Building Maintenance,2251,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532412,REDACTED UNDER DP ACT,510.23,WAKEFIELD,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531844,REDACTED UNDER DP ACT,510.23,WAKEFIELD,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531285,REDACTED UNDER DP ACT,510.23,WAKEFIELD,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532982,REDACTED UNDER DP ACT,510.23,WAKEFIELD,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533555,REDACTED UNDER DP ACT,510.23,WAKEFIELD,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33577616,REDACTED UNDER DP ACT,623.48,WARDLE,195025,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33577327,REDACTED UNDER DP ACT,3287.28,WEBSTER,68455,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,08/05/2017,CFADDAY33421664,REDACTED UNDER DP ACT,1767,WELLMAN,131080,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
-18,Devon County Council,25/05/2017,SCPCHILD33909355,A2446235,1200,WHITEHOUSE,319805,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
-18,Devon County Council,03/05/2017,SCPCHILD33909028,A2426840,500,WHITEHOUSE,319805,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33580723,REDACTED UNDER DP ACT,1076.04,WHITTAKER,341607,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531968,REDACTED UNDER DP ACT,2007.17,WILLIAMS,344449,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,03/05/2017,CFBOUT33531384,REDACTED UNDER DP ACT,512,WILLIAMS,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531942,REDACTED UNDER DP ACT,512,WILLIAMS,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532509,REDACTED UNDER DP ACT,512,WILLIAMS,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,23/05/2017,CFBOUT33533080,REDACTED UNDER DP ACT,512,WILLIAMS,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533656,REDACTED UNDER DP ACT,512,WILLIAMS,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
-18,Devon County Council,30/05/2017,EXCHEQ33673978,163,500,WILLIAMS,199490,,Children's Services,Curriculum Support (Schools),4376,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33578874,REDACTED UNDER DP ACT,722,WILLIAMSON,311805,,Adult Care & Health,Direct Payments,6401,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531841,REDACTED UNDER DP ACT,1411.32,WILLS,323698,,Children's Services,Special Gaurdianship Service,5713,INDV
-18,Devon County Council,03/05/2017,CFCLEAV33567638,REDACTED UNDER DP ACT,726.68,WOOD,303456,,Children's Services,Contributions to Educational Estabs (3rd,5602,INDV
-18,Devon County Council,24/05/2017,CFDIRPAY33579425,REDACTED UNDER DP ACT,758.44,WRIGHT,326923,,Children's Services,Direct Payments,6401,INDV
-18,Devon County Council,17/05/2017,SCPCHILD33909247,22/05-21/06,530,WU,330686,,Children's Services,Cl-Unsupported Accom-Rel Child (3rd),5772,INDV
-18,Devon County Council,23/05/2017,CFBOUT33532680,REDACTED UNDER DP ACT,623.98,YOUNG,178822,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,16/05/2017,CFBOUT33532114,REDACTED UNDER DP ACT,710.62,YOUNG,178822,,Children's Services,In-House Respite Fostering,5725,INDV
-18,Devon County Council,09/05/2017,CFBOUT33531549,REDACTED UNDER DP ACT,883.9,YOUNG,178822,,Children's Services,Weekly Allowances,5712,INDV
-18,Devon County Council,03/05/2017,CFBOUT33530985,REDACTED UNDER DP ACT,623.98,YOUNG,178822,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
-18,Devon County Council,30/05/2017,CFBOUT33533254,REDACTED UNDER DP ACT,623.98,YOUNG,178822,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531040,REDACTED UNDER DP ACT,556.43,REDACTED UNDER DP ACT,223885,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531194,REDACTED UNDER DP ACT,506.52,REDACTED UNDER DP ACT,306605,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531753,REDACTED UNDER DP ACT,506.52,REDACTED UNDER DP ACT,306605,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532320,REDACTED UNDER DP ACT,506.52,REDACTED UNDER DP ACT,306605,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533464,REDACTED UNDER DP ACT,506.52,REDACTED UNDER DP ACT,306605,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532891,REDACTED UNDER DP ACT,506.52,REDACTED UNDER DP ACT,306605,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33580655,REDACTED UNDER DP ACT,1456,REDACTED UNDER DP ACT,340899,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533045,REDACTED UNDER DP ACT,1007.94,REDACTED UNDER DP ACT,334195,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532473,REDACTED UNDER DP ACT,1007.94,REDACTED UNDER DP ACT,334195,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533617,REDACTED UNDER DP ACT,1007.94,REDACTED UNDER DP ACT,334195,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531907,REDACTED UNDER DP ACT,1655.88,REDACTED UNDER DP ACT,334195,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531347,REDACTED UNDER DP ACT,1334.57,REDACTED UNDER DP ACT,334195,,Children's Services,Retainer Fee (3rd),5721,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532486,REDACTED UNDER DP ACT,1235.95,REDACTED UNDER DP ACT,336253,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531920,REDACTED UNDER DP ACT,606.48,REDACTED UNDER DP ACT,336253,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533058,REDACTED UNDER DP ACT,606.48,REDACTED UNDER DP ACT,336253,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533631,REDACTED UNDER DP ACT,665.53,REDACTED UNDER DP ACT,336253,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531362,REDACTED UNDER DP ACT,771.57,REDACTED UNDER DP ACT,336253,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33580068,REDACTED UNDER DP ACT,626.16,REDACTED UNDER DP ACT,335859,,Children's Services,Direct Payments,6401,INDV
+18,Devon County Council,26/05/2017,P2P40037994,44241040517,1017.5,REDACTED UNDER DP ACT,169880,742080752,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531380,REDACTED UNDER DP ACT,950.04,REDACTED UNDER DP ACT,339748,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532505,REDACTED UNDER DP ACT,950.04,REDACTED UNDER DP ACT,339748,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533076,REDACTED UNDER DP ACT,950.04,REDACTED UNDER DP ACT,339748,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533650,REDACTED UNDER DP ACT,950.04,REDACTED UNDER DP ACT,339748,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531938,REDACTED UNDER DP ACT,1098.54,REDACTED UNDER DP ACT,339748,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533612,REDACTED UNDER DP ACT,927.01,REDACTED UNDER DP ACT,333850,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,08/05/2017,CFADDAY33421665,REDACTED UNDER DP ACT,2148.05,REDACTED UNDER DP ACT,135593,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533605,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,332449,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531336,REDACTED UNDER DP ACT,625.75,REDACTED UNDER DP ACT,332449,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533033,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,332449,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532462,REDACTED UNDER DP ACT,729.89,REDACTED UNDER DP ACT,332449,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531895,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,332449,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,12/05/2017,EXCHEQ33666304,170103,550,REDACTED UNDER DP ACT,338419,,Children's Services,Other professional Services Schools,4377,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532521,REDACTED UNDER DP ACT,650.49,REDACTED UNDER DP ACT,343481,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532304,REDACTED UNDER DP ACT,637.77,REDACTED UNDER DP ACT,302398,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531737,REDACTED UNDER DP ACT,1214.5,REDACTED UNDER DP ACT,302398,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533448,REDACTED UNDER DP ACT,538.58,REDACTED UNDER DP ACT,302398,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532875,REDACTED UNDER DP ACT,688.33,REDACTED UNDER DP ACT,302398,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,23/05/2017,P2P40038990,165758INVFJC339,5296,REDACTED UNDER DP ACT,255706,805675615,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,18/05/2017,P2P40036809,684,914.12,REDACTED UNDER DP ACT,261951,,Highways & Capital Development & Waste Management,Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,31/05/2017,P2P40038146,686,602.6,REDACTED UNDER DP ACT,261951,,Highways & Capital Development & Waste Management,Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33579193,REDACTED UNDER DP ACT,4665.48,REDACTED UNDER DP ACT,321829,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,09/05/2017,P2P40037112,SCC2,4700,REDACTED UNDER DP ACT,341922,891053620,Children's Services,Legal Advice (Schools),4375,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533390,REDACTED UNDER DP ACT,1030,REDACTED UNDER DP ACT,280456,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532817,REDACTED UNDER DP ACT,3972.86,REDACTED UNDER DP ACT,280456,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531896,REDACTED UNDER DP ACT,601.6,REDACTED UNDER DP ACT,332476,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533606,REDACTED UNDER DP ACT,2887.92,REDACTED UNDER DP ACT,332476,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533034,REDACTED UNDER DP ACT,563.16,REDACTED UNDER DP ACT,332476,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,19/05/2017,P2P40037766,588,3298.75,REDACTED UNDER DP ACT,82795,717524142,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,16/05/2017,CFCLEAV33567840,REDACTED UNDER DP ACT,673,REDACTED UNDER DP ACT,316452,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531344,REDACTED UNDER DP ACT,528.49,REDACTED UNDER DP ACT,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532470,REDACTED UNDER DP ACT,528.49,REDACTED UNDER DP ACT,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533614,REDACTED UNDER DP ACT,528.49,REDACTED UNDER DP ACT,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531904,REDACTED UNDER DP ACT,528.49,REDACTED UNDER DP ACT,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533042,REDACTED UNDER DP ACT,528.49,REDACTED UNDER DP ACT,334074,,Children's Services,Residence & Child Arrangement Order,5716,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531155,REDACTED UNDER DP ACT,626.36,REDACTED UNDER DP ACT,293923,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531715,REDACTED UNDER DP ACT,626.36,REDACTED UNDER DP ACT,293923,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532282,REDACTED UNDER DP ACT,1301.76,REDACTED UNDER DP ACT,293923,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533426,REDACTED UNDER DP ACT,626.36,REDACTED UNDER DP ACT,293923,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532853,REDACTED UNDER DP ACT,626.36,REDACTED UNDER DP ACT,293923,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,02/05/2017,SCPCHILD33909013,A2422064,600,REDACTED UNDER DP ACT,267572,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531587,REDACTED UNDER DP ACT,795.07,REDACTED UNDER DP ACT,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533294,REDACTED UNDER DP ACT,795.07,REDACTED UNDER DP ACT,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532719,REDACTED UNDER DP ACT,795.07,REDACTED UNDER DP ACT,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531024,REDACTED UNDER DP ACT,795.07,REDACTED UNDER DP ACT,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532153,REDACTED UNDER DP ACT,795.07,REDACTED UNDER DP ACT,207382,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531108,REDACTED UNDER DP ACT,1182.79,REDACTED UNDER DP ACT,276944,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531669,REDACTED UNDER DP ACT,1345.96,REDACTED UNDER DP ACT,276944,,Children's Services,Birthday Presents - CIC,6004,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532236,REDACTED UNDER DP ACT,1228.69,REDACTED UNDER DP ACT,276944,,Children's Services,Bed Blocking payments (3rd),5727,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533379,REDACTED UNDER DP ACT,1182.79,REDACTED UNDER DP ACT,276944,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532804,REDACTED UNDER DP ACT,3309.11,REDACTED UNDER DP ACT,276944,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,03/05/2017,CFCLEAV33567671,REDACTED UNDER DP ACT,726,REDACTED UNDER DP ACT,336651,,Children's Services,Contributions to Educational Estabs (3rd,5602,INDV
+18,Devon County Council,22/05/2017,P2P40037820,44198/040517,742.5,REDACTED UNDER DP ACT,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,22/05/2017,P2P40038267,44145/040517,1182.5,REDACTED UNDER DP ACT,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,11/05/2017,P2P40037541,43752/310317,605,REDACTED UNDER DP ACT,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,04/05/2017,P2P40036402,41142/180417,2722.5,REDACTED UNDER DP ACT,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,04/05/2017,P2P40036403,43340/181417,2585,REDACTED UNDER DP ACT,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,22/05/2017,P2P40037669,43996/040517,880,REDACTED UNDER DP ACT,250626,577830892,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531388,REDACTED UNDER DP ACT,1822.8,REDACTED UNDER DP ACT,341777,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531946,REDACTED UNDER DP ACT,511.6,REDACTED UNDER DP ACT,341777,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533085,REDACTED UNDER DP ACT,728.2,REDACTED UNDER DP ACT,341777,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532995,REDACTED UNDER DP ACT,856.47,REDACTED UNDER DP ACT,327049,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532425,REDACTED UNDER DP ACT,856.47,REDACTED UNDER DP ACT,327049,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533568,REDACTED UNDER DP ACT,856.47,REDACTED UNDER DP ACT,327049,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531298,REDACTED UNDER DP ACT,856.47,REDACTED UNDER DP ACT,327049,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531857,REDACTED UNDER DP ACT,969.45,REDACTED UNDER DP ACT,327049,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533480,REDACTED UNDER DP ACT,1219.5,REDACTED UNDER DP ACT,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531772,REDACTED UNDER DP ACT,1219.5,REDACTED UNDER DP ACT,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532338,REDACTED UNDER DP ACT,1219.5,REDACTED UNDER DP ACT,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531212,REDACTED UNDER DP ACT,1219.5,REDACTED UNDER DP ACT,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532907,REDACTED UNDER DP ACT,1219.5,REDACTED UNDER DP ACT,310343,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,18/05/2017,P2P40036882,162300/02/05,10510,REDACTED UNDER DP ACT,188738,650494043,"Community, Health, Environment & Prosperity",Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,03/05/2017,CFBOUT33530983,REDACTED UNDER DP ACT,824.25,REDACTED UNDER DP ACT,177730,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531547,REDACTED UNDER DP ACT,781.39,REDACTED UNDER DP ACT,177730,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532112,REDACTED UNDER DP ACT,824.25,REDACTED UNDER DP ACT,177730,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533252,REDACTED UNDER DP ACT,824.25,REDACTED UNDER DP ACT,177730,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532678,REDACTED UNDER DP ACT,824.25,REDACTED UNDER DP ACT,177730,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33530989,REDACTED UNDER DP ACT,939.54,REDACTED UNDER DP ACT,181182,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533258,REDACTED UNDER DP ACT,1918.56,REDACTED UNDER DP ACT,181182,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532684,REDACTED UNDER DP ACT,939.54,REDACTED UNDER DP ACT,181182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532118,REDACTED UNDER DP ACT,939.54,REDACTED UNDER DP ACT,181182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531553,REDACTED UNDER DP ACT,939.54,REDACTED UNDER DP ACT,181182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33580591,REDACTED UNDER DP ACT,573.68,REDACTED UNDER DP ACT,340297,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,12/05/2017,ICS33874464,REDACTED UNDER DP ACT,1824.55,REDACTED UNDER DP ACT,344661,,Children's Services,Section 17 Payments (3rd),5710,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532273,REDACTED UNDER DP ACT,829.57,REDACTED UNDER DP ACT,291807,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531706,REDACTED UNDER DP ACT,666.4,REDACTED UNDER DP ACT,291807,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531146,REDACTED UNDER DP ACT,666.4,REDACTED UNDER DP ACT,291807,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,23/05/2017,SOCCOMM33925835,H.L.1,500,REDACTED UNDER DP ACT,291807,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532844,REDACTED UNDER DP ACT,1610.57,REDACTED UNDER DP ACT,291807,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,23/05/2017,SOCCOMM33925834,B.L.1,500,REDACTED UNDER DP ACT,291807,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533417,REDACTED UNDER DP ACT,666.4,REDACTED UNDER DP ACT,291807,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,22/05/2017,P2P40038793,42771/210417,4537.5,REDACTED UNDER DP ACT,261593,560758621,Children's Services,Materials & Consumables,4003,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33579965,REDACTED UNDER DP ACT,637.24,REDACTED UNDER DP ACT,335164,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,10/05/2017,CFADDAY33421873,REDACTED UNDER DP ACT,2795.42,REDACTED UNDER DP ACT,196903,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,15/05/2017,CFADDAY33422179,REDACTED UNDER DP ACT,2795.42,REDACTED UNDER DP ACT,196903,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531357,REDACTED UNDER DP ACT,841.75,REDACTED UNDER DP ACT,335724,,Children's Services,Holiday Allowance - CIC,6005,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33577906,REDACTED UNDER DP ACT,1388.72,REDACTED UNDER DP ACT,241418,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533634,REDACTED UNDER DP ACT,943.74,REDACTED UNDER DP ACT,336962,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533061,REDACTED UNDER DP ACT,1617.84,REDACTED UNDER DP ACT,336962,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532489,REDACTED UNDER DP ACT,752.57,REDACTED UNDER DP ACT,336962,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533430,REDACTED UNDER DP ACT,520.82,REDACTED UNDER DP ACT,295337,,Children's Services,In-House Respite Fostering,5725,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532845,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,291855,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533418,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,291855,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531147,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,291855,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531707,REDACTED UNDER DP ACT,873.18,REDACTED UNDER DP ACT,291855,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532274,REDACTED UNDER DP ACT,969.48,REDACTED UNDER DP ACT,291855,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,11/05/2017,P2P40037535,44118/240417,660,REDACTED UNDER DP ACT,202750,456142848,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,24/05/2017,CFADRES33509112,REDACTED UNDER DP ACT,8276.48,REDACTED UNDER DP ACT,90051,,Adult Care & Health,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,10/05/2017,CFADRES33508488,REDACTED UNDER DP ACT,7532.24,REDACTED UNDER DP ACT,90051,,Adult Care & Health,Care Spot - Private (3rd),5701,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33579000,REDACTED UNDER DP ACT,1076.92,REDACTED UNDER DP ACT,316600,,Children's Services,Direct Payments,6401,INDV
+18,Devon County Council,30/05/2017,SCPCHILD33909390,CBRENT,506,REDACTED UNDER DP ACT,344496,,Children's Services,Grants & Cont to all other bodies,5601,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33577467,REDACTED UNDER DP ACT,1562.24,REDACTED UNDER DP ACT,161313,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532525,REDACTED UNDER DP ACT,605.44,REDACTED UNDER DP ACT,343821,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,25/05/2017,P2P40037995,43312/100517,632.5,REDACTED UNDER DP ACT,340638,524284846,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,03/05/2017,P2P40036590,43312/230317,495,REDACTED UNDER DP ACT,340638,524284846,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531407,REDACTED UNDER DP ACT,1023.5,REDACTED UNDER DP ACT,344302,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531218,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,311126,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531778,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,311126,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532344,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,311126,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532913,REDACTED UNDER DP ACT,586.6,REDACTED UNDER DP ACT,311126,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,SOCCOMM33925750,T.L.,500,REDACTED UNDER DP ACT,340298,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531403,REDACTED UNDER DP ACT,906.46,REDACTED UNDER DP ACT,344075,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533100,REDACTED UNDER DP ACT,1022.91,REDACTED UNDER DP ACT,344075,,Children's Services,Holiday Allowance - CIC,6005,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531925,REDACTED UNDER DP ACT,558.12,REDACTED UNDER DP ACT,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533637,REDACTED UNDER DP ACT,558.12,REDACTED UNDER DP ACT,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532491,REDACTED UNDER DP ACT,558.12,REDACTED UNDER DP ACT,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531367,REDACTED UNDER DP ACT,558.12,REDACTED UNDER DP ACT,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533063,REDACTED UNDER DP ACT,558.12,REDACTED UNDER DP ACT,337493,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531008,REDACTED UNDER DP ACT,884.17,REDACTED UNDER DP ACT,194330,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531572,REDACTED UNDER DP ACT,884.17,REDACTED UNDER DP ACT,194330,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533278,REDACTED UNDER DP ACT,884.17,REDACTED UNDER DP ACT,194330,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532138,REDACTED UNDER DP ACT,884.17,REDACTED UNDER DP ACT,194330,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532704,REDACTED UNDER DP ACT,884.17,REDACTED UNDER DP ACT,194330,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533636,REDACTED UNDER DP ACT,1764.36,REDACTED UNDER DP ACT,337366,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532313,REDACTED UNDER DP ACT,771.78,REDACTED UNDER DP ACT,304449,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFCLEAV33567640,REDACTED UNDER DP ACT,1200,REDACTED UNDER DP ACT,307139,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533496,REDACTED UNDER DP ACT,775.74,REDACTED UNDER DP ACT,313860,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532924,REDACTED UNDER DP ACT,770.34,REDACTED UNDER DP ACT,313860,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532355,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,313860,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531229,REDACTED UNDER DP ACT,828.84,REDACTED UNDER DP ACT,313860,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531789,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,313860,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33580713,REDACTED UNDER DP ACT,896,REDACTED UNDER DP ACT,341332,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533149,REDACTED UNDER DP ACT,530.95,REDACTED UNDER DP ACT,89546,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532009,REDACTED UNDER DP ACT,748.7,REDACTED UNDER DP ACT,89546,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532576,REDACTED UNDER DP ACT,530.95,REDACTED UNDER DP ACT,89546,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,10/05/2017,CFBOUT33531447,REDACTED UNDER DP ACT,1061.9,REDACTED UNDER DP ACT,89546,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFBOUT33530884,REDACTED UNDER DP ACT,1720.21,REDACTED UNDER DP ACT,89546,,Children's Services,Birthday Presents - CIC,6004,INDV
+18,Devon County Council,30/05/2017,CFCLEAV33568042,REDACTED UNDER DP ACT,957.48,REDACTED UNDER DP ACT,294038,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531057,REDACTED UNDER DP ACT,1308.04,REDACTED UNDER DP ACT,240045,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,03/05/2017,SCPCHILD33909043,A2422404,1250,REDACTED UNDER DP ACT,344497,,Children's Services,Grants & Cont to all other bodies,5601,INDV
+18,Devon County Council,04/05/2017,P2P40036675,171801,768.6,REDACTED UNDER DP ACT,177253,,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532871,REDACTED UNDER DP ACT,516.3,REDACTED UNDER DP ACT,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531173,REDACTED UNDER DP ACT,516.3,REDACTED UNDER DP ACT,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532300,REDACTED UNDER DP ACT,516.3,REDACTED UNDER DP ACT,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533444,REDACTED UNDER DP ACT,516.3,REDACTED UNDER DP ACT,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531733,REDACTED UNDER DP ACT,516.3,REDACTED UNDER DP ACT,300613,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33580448,REDACTED UNDER DP ACT,2146.32,REDACTED UNDER DP ACT,338783,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532479,REDACTED UNDER DP ACT,1000.93,REDACTED UNDER DP ACT,335166,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533051,REDACTED UNDER DP ACT,1000.93,REDACTED UNDER DP ACT,335166,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531355,REDACTED UNDER DP ACT,1204.14,REDACTED UNDER DP ACT,335166,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531913,REDACTED UNDER DP ACT,1000.93,REDACTED UNDER DP ACT,335166,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531823,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,321399,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532961,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,321399,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532391,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,321399,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533534,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,321399,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531264,REDACTED UNDER DP ACT,778.44,REDACTED UNDER DP ACT,321399,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,19/05/2017,HQ33870403,PP7006010/13,642.5,REDACTED UNDER DP ACT,15149,,Highways & Capital Development & Waste Management,Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531177,REDACTED UNDER DP ACT,515.97,REDACTED UNDER DP ACT,302100,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,02/05/2017,CFADDAY33421220,REDACTED UNDER DP ACT,1134.64,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,08/05/2017,CFADDAY33421666,REDACTED UNDER DP ACT,621.92,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,08/05/2017,CFADDAY33421668,REDACTED UNDER DP ACT,714.6,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,08/05/2017,CFADDAY33421669,REDACTED UNDER DP ACT,979.2,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,08/05/2017,CFADDAY33421670,REDACTED UNDER DP ACT,714.6,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,02/05/2017,CFADDAY33421221,REDACTED UNDER DP ACT,1103.12,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,02/05/2017,CFADDAY33421222,REDACTED UNDER DP ACT,605.36,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,30/05/2017,CFADDAY33423223,REDACTED UNDER DP ACT,2293.68,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,30/05/2017,CFADDAY33423225,REDACTED UNDER DP ACT,904,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,30/05/2017,CFADDAY33423224,REDACTED UNDER DP ACT,2229.96,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,30/05/2017,CFADDAY33423226,REDACTED UNDER DP ACT,1223.76,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,08/05/2017,CFADDAY33421667,REDACTED UNDER DP ACT,714.6,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,30/05/2017,CFADDAY33423222,REDACTED UNDER DP ACT,2089.76,REDACTED UNDER DP ACT,137894,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533023,REDACTED UNDER DP ACT,1804.49,REDACTED UNDER DP ACT,331049,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531326,REDACTED UNDER DP ACT,1265.04,REDACTED UNDER DP ACT,331049,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531885,REDACTED UNDER DP ACT,950.04,REDACTED UNDER DP ACT,331049,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533596,REDACTED UNDER DP ACT,1034.24,REDACTED UNDER DP ACT,331049,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532453,REDACTED UNDER DP ACT,1084.14,REDACTED UNDER DP ACT,331049,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531224,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,312586,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531784,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,312586,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533491,REDACTED UNDER DP ACT,909.65,REDACTED UNDER DP ACT,312586,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532350,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,312586,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532919,REDACTED UNDER DP ACT,706.44,REDACTED UNDER DP ACT,312586,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531340,REDACTED UNDER DP ACT,574.5,REDACTED UNDER DP ACT,333268,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531900,REDACTED UNDER DP ACT,574.5,REDACTED UNDER DP ACT,333268,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533038,REDACTED UNDER DP ACT,574.5,REDACTED UNDER DP ACT,333268,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533610,REDACTED UNDER DP ACT,574.5,REDACTED UNDER DP ACT,333268,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532466,REDACTED UNDER DP ACT,574.5,REDACTED UNDER DP ACT,333268,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,22/05/2017,EXCHEQ33670331,0607A,507.47,REDACTED UNDER DP ACT,240874,,Children's Services,Travel Expenses Incl. Hotel,3801,INDV
+18,Devon County Council,05/05/2017,P2P40036780,166740/SBP/326,640,REDACTED UNDER DP ACT,344100,888280571,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,24/05/2017,P2P40038603,166740/SBP/338,1050,REDACTED UNDER DP ACT,344100,888280571,Children's Services,Legal Fees & Disbursements,4314,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33577744,REDACTED UNDER DP ACT,620,REDACTED UNDER DP ACT,216732,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531360,REDACTED UNDER DP ACT,904.34,REDACTED UNDER DP ACT,336235,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531918,REDACTED UNDER DP ACT,2223.49,REDACTED UNDER DP ACT,336235,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533628,REDACTED UNDER DP ACT,1032.85,REDACTED UNDER DP ACT,336235,,Children's Services,Birthday Presents - CIC,6004,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533056,REDACTED UNDER DP ACT,829.64,REDACTED UNDER DP ACT,336235,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532484,REDACTED UNDER DP ACT,829.64,REDACTED UNDER DP ACT,336235,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533026,REDACTED UNDER DP ACT,702,REDACTED UNDER DP ACT,331182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531888,REDACTED UNDER DP ACT,666.4,REDACTED UNDER DP ACT,331182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532455,REDACTED UNDER DP ACT,666.4,REDACTED UNDER DP ACT,331182,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533598,REDACTED UNDER DP ACT,956.33,REDACTED UNDER DP ACT,331182,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531328,REDACTED UNDER DP ACT,666.4,REDACTED UNDER DP ACT,331182,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533400,REDACTED UNDER DP ACT,1365.3,REDACTED UNDER DP ACT,284473,,Children's Services,In-House Respite Fostering,5725,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533419,REDACTED UNDER DP ACT,2621.51,REDACTED UNDER DP ACT,291861,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33578414,REDACTED UNDER DP ACT,3060,REDACTED UNDER DP ACT,291131,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,02/05/2017,CDWM33414854,LAND MANAGEMENT,4201.61,REDACTED UNDER DP ACT,261988,,Capital Expenditure,Infra REP Consultant / professional Fees,C405,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532353,REDACTED UNDER DP ACT,879.9,REDACTED UNDER DP ACT,313292,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532922,REDACTED UNDER DP ACT,879.9,REDACTED UNDER DP ACT,313292,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533494,REDACTED UNDER DP ACT,708.46,REDACTED UNDER DP ACT,313292,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531227,REDACTED UNDER DP ACT,879.9,REDACTED UNDER DP ACT,313292,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531787,REDACTED UNDER DP ACT,879.9,REDACTED UNDER DP ACT,313292,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531805,REDACTED UNDER DP ACT,962.85,REDACTED UNDER DP ACT,317554,,Children's Services,Holiday Allowance - CIC,6005,INDV
+18,Devon County Council,25/05/2017,P2P40037525,080517,500,REDACTED UNDER DP ACT,109225,,"Community, Health, Environment & Prosperity",Other Contractors (not Main / Term),4302,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531957,REDACTED UNDER DP ACT,826.86,REDACTED UNDER DP ACT,343534,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533508,REDACTED UNDER DP ACT,999.74,REDACTED UNDER DP ACT,316668,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532366,REDACTED UNDER DP ACT,2159.53,REDACTED UNDER DP ACT,316668,,Children's Services,Holiday Allowance - CIC,6005,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532935,REDACTED UNDER DP ACT,999.74,REDACTED UNDER DP ACT,316668,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531801,REDACTED UNDER DP ACT,999.74,REDACTED UNDER DP ACT,316668,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531241,REDACTED UNDER DP ACT,999.74,REDACTED UNDER DP ACT,316668,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,05/05/2017,EXCHEQ33663366,FLORIDA REFUND,1450,REDACTED UNDER DP ACT,334328,,Children's Services,Educational / Residential Visits,4331,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533618,REDACTED UNDER DP ACT,608.2,REDACTED UNDER DP ACT,334200,,Children's Services,Holiday Allowance - CIC,6005,INDV
+18,Devon County Council,24/05/2017,P2P40037493,08/5,700,REDACTED UNDER DP ACT,312888,,Children's Services,Residential shortbreaks,5732,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532502,REDACTED UNDER DP ACT,625.55,REDACTED UNDER DP ACT,339299,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,23/05/2017,SOCCOMM33925833,L.A'L-M,500,REDACTED UNDER DP ACT,327911,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,10/05/2017,P2P40036631,CS2382017,595,REDACTED UNDER DP ACT,251826,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532946,REDACTED UNDER DP ACT,2119.06,REDACTED UNDER DP ACT,318999,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531387,REDACTED UNDER DP ACT,1288.19,REDACTED UNDER DP ACT,341087,,Children's Services,Holiday Allowance - CIC,6005,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531945,REDACTED UNDER DP ACT,1048.26,REDACTED UNDER DP ACT,341087,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533083,REDACTED UNDER DP ACT,1164.26,REDACTED UNDER DP ACT,341087,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532512,REDACTED UNDER DP ACT,929.6,REDACTED UNDER DP ACT,341087,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533659,REDACTED UNDER DP ACT,1136.8,REDACTED UNDER DP ACT,341087,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531894,REDACTED UNDER DP ACT,706,REDACTED UNDER DP ACT,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531334,REDACTED UNDER DP ACT,706,REDACTED UNDER DP ACT,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532461,REDACTED UNDER DP ACT,706,REDACTED UNDER DP ACT,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533604,REDACTED UNDER DP ACT,706,REDACTED UNDER DP ACT,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533032,REDACTED UNDER DP ACT,706,REDACTED UNDER DP ACT,332176,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533666,REDACTED UNDER DP ACT,732.24,REDACTED UNDER DP ACT,343453,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531740,REDACTED UNDER DP ACT,1223.81,REDACTED UNDER DP ACT,303191,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531181,REDACTED UNDER DP ACT,1362.05,REDACTED UNDER DP ACT,303191,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532307,REDACTED UNDER DP ACT,1733.13,REDACTED UNDER DP ACT,303191,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532878,REDACTED UNDER DP ACT,1328.67,REDACTED UNDER DP ACT,303191,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533451,REDACTED UNDER DP ACT,1328.67,REDACTED UNDER DP ACT,303191,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533537,REDACTED UNDER DP ACT,891.73,REDACTED UNDER DP ACT,321764,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532900,REDACTED UNDER DP ACT,867.88,REDACTED UNDER DP ACT,308556,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532331,REDACTED UNDER DP ACT,865.88,REDACTED UNDER DP ACT,308556,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533473,REDACTED UNDER DP ACT,867.88,REDACTED UNDER DP ACT,308556,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531765,REDACTED UNDER DP ACT,865.88,REDACTED UNDER DP ACT,308556,,Children's Services,Cl-Supported Accom-Rel Child (3rd),5771,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531205,REDACTED UNDER DP ACT,865.88,REDACTED UNDER DP ACT,308556,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532401,REDACTED UNDER DP ACT,689.47,REDACTED UNDER DP ACT,322328,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532971,REDACTED UNDER DP ACT,784.42,REDACTED UNDER DP ACT,322328,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531275,REDACTED UNDER DP ACT,756.52,REDACTED UNDER DP ACT,322328,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531833,REDACTED UNDER DP ACT,806.92,REDACTED UNDER DP ACT,322328,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,ACOH33958280,STENNING 01,613.8,REDACTED UNDER DP ACT,344872,,Adult Care & Health,Travel Expenses Incl. Hotel,3801,INDV
+18,Devon County Council,15/05/2017,EDUC33650294,ARC000031702,3241.4,REDACTED UNDER DP ACT,336061,,Children's Services,In year DSG to Academies,5608,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531266,REDACTED UNDER DP ACT,650.51,REDACTED UNDER DP ACT,321749,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532393,REDACTED UNDER DP ACT,574.89,REDACTED UNDER DP ACT,321749,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531926,REDACTED UNDER DP ACT,1041.81,REDACTED UNDER DP ACT,337963,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533064,REDACTED UNDER DP ACT,1041.81,REDACTED UNDER DP ACT,337963,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533638,REDACTED UNDER DP ACT,1041.81,REDACTED UNDER DP ACT,337963,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532492,REDACTED UNDER DP ACT,1041.81,REDACTED UNDER DP ACT,337963,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531368,REDACTED UNDER DP ACT,1875.77,REDACTED UNDER DP ACT,337963,,Children's Services,Carer Prog Level 1 (3rd),5719,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532388,REDACTED UNDER DP ACT,656.1,REDACTED UNDER DP ACT,320811,,Children's Services,Incidental costs Fostered Children (3rd),5715,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533531,REDACTED UNDER DP ACT,530.95,REDACTED UNDER DP ACT,320811,,Children's Services,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532958,REDACTED UNDER DP ACT,530.95,REDACTED UNDER DP ACT,320811,,Children's Services,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531821,REDACTED UNDER DP ACT,530.95,REDACTED UNDER DP ACT,320811,,Children's Services,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531261,REDACTED UNDER DP ACT,530.95,REDACTED UNDER DP ACT,320811,,Children's Services,Family Care Worker (3rd),5718,INDV
+18,Devon County Council,03/05/2017,EXCHEQ33659669,0025,750,REDACTED UNDER DP ACT,302227,,Children's Services,Other Building Maintenance,2251,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532412,REDACTED UNDER DP ACT,510.23,REDACTED UNDER DP ACT,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531844,REDACTED UNDER DP ACT,510.23,REDACTED UNDER DP ACT,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531285,REDACTED UNDER DP ACT,510.23,REDACTED UNDER DP ACT,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532982,REDACTED UNDER DP ACT,510.23,REDACTED UNDER DP ACT,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533555,REDACTED UNDER DP ACT,510.23,REDACTED UNDER DP ACT,324725,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33577616,REDACTED UNDER DP ACT,623.48,REDACTED UNDER DP ACT,195025,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33577327,REDACTED UNDER DP ACT,3287.28,REDACTED UNDER DP ACT,68455,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,08/05/2017,CFADDAY33421664,REDACTED UNDER DP ACT,1767,REDACTED UNDER DP ACT,131080,,Adult Care & Health,Individualised Support - Private (3rd),5706,INDV
+18,Devon County Council,25/05/2017,SCPCHILD33909355,A2446235,1200,REDACTED UNDER DP ACT,319805,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
+18,Devon County Council,03/05/2017,SCPCHILD33909028,A2426840,500,REDACTED UNDER DP ACT,319805,,Children's Services,Cl-Relevant Child-Other Costs (3rd),5773,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33580723,REDACTED UNDER DP ACT,1076.04,REDACTED UNDER DP ACT,341607,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531968,REDACTED UNDER DP ACT,2007.17,REDACTED UNDER DP ACT,344449,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,03/05/2017,CFBOUT33531384,REDACTED UNDER DP ACT,512,REDACTED UNDER DP ACT,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531942,REDACTED UNDER DP ACT,512,REDACTED UNDER DP ACT,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532509,REDACTED UNDER DP ACT,512,REDACTED UNDER DP ACT,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,23/05/2017,CFBOUT33533080,REDACTED UNDER DP ACT,512,REDACTED UNDER DP ACT,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533656,REDACTED UNDER DP ACT,512,REDACTED UNDER DP ACT,340743,,Children's Services,Adoption Allowances (3rd),5711,INDV
+18,Devon County Council,30/05/2017,EXCHEQ33673978,163,500,REDACTED UNDER DP ACT,199490,,Children's Services,Curriculum Support (Schools),4376,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33578874,REDACTED UNDER DP ACT,722,REDACTED UNDER DP ACT,311805,,Adult Care & Health,Direct Payments,6401,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531841,REDACTED UNDER DP ACT,1411.32,REDACTED UNDER DP ACT,323698,,Children's Services,Special Gaurdianship Service,5713,INDV
+18,Devon County Council,03/05/2017,CFCLEAV33567638,REDACTED UNDER DP ACT,726.68,REDACTED UNDER DP ACT,303456,,Children's Services,Contributions to Educational Estabs (3rd,5602,INDV
+18,Devon County Council,24/05/2017,CFDIRPAY33579425,REDACTED UNDER DP ACT,758.44,REDACTED UNDER DP ACT,326923,,Children's Services,Direct Payments,6401,INDV
+18,Devon County Council,17/05/2017,SCPCHILD33909247,22/05-21/06,530,REDACTED UNDER DP ACT,330686,,Children's Services,Cl-Unsupported Accom-Rel Child (3rd),5772,INDV
+18,Devon County Council,23/05/2017,CFBOUT33532680,REDACTED UNDER DP ACT,623.98,REDACTED UNDER DP ACT,178822,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,16/05/2017,CFBOUT33532114,REDACTED UNDER DP ACT,710.62,REDACTED UNDER DP ACT,178822,,Children's Services,In-House Respite Fostering,5725,INDV
+18,Devon County Council,09/05/2017,CFBOUT33531549,REDACTED UNDER DP ACT,883.9,REDACTED UNDER DP ACT,178822,,Children's Services,Weekly Allowances,5712,INDV
+18,Devon County Council,03/05/2017,CFBOUT33530985,REDACTED UNDER DP ACT,623.98,REDACTED UNDER DP ACT,178822,,Children's Services,Carer Prog Level 2 (3rd),5720,INDV
+18,Devon County Council,30/05/2017,CFBOUT33533254,REDACTED UNDER DP ACT,623.98,REDACTED UNDER DP ACT,178822,,Children's Services,Weekly Allowances,5712,INDV
 18,Devon County Council,12/05/2017,EXCHEQ33666330,248,420,1 2 1 MENTORS LTD,329096,239182886,Children's Services,Learning Resources exc. IT Equipment,4401,LTD
 18,Devon County Council,10/05/2017,EXCHEQ33664914,245,675,1 2 1 MENTORS LTD,329096,239182886,Children's Services,Other professional Services Schools,4377,LTD
 18,Devon County Council,22/05/2017,ICS33874490,278,1005,1 2 1 MENTORS LTD,329096,239182886,Children's Services,Community based care,5705,LTD

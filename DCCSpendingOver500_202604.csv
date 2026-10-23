@@ -1,7 +1,4 @@
-﻿query SELECT * FROM [histr],,,,,,,,,,,,,
-sort,,,,,,,,,,,,,
-columns,text Body,text Name of Body,text Date,text Transaction number,Amount,text Supplier name,text Supplier ID,text VAT reg no,text Expense area,text Expense code,text Expense type,text Costcuk,text Creditor type
-,Body,Name of Body,Date,Transaction number,Amount,Supplier name,Supplier ID,VAT reg no,Expense area,Expense code,Expense type,Costcuk,Creditor type
+inserted detail,Body,Name of Body,Date,Transaction number,Amount,Supplier name,Supplier ID,VAT reg no,Expense area,Expense code,Expense type,Costcuk,Creditor type
 INSERTED DETAIL,18,Devon County Council,02/04/2026,22080809,"1,245.75",FAMILY COMPASS,348346,392295664,P-Ledger - Separate Legal Entity,A61060,Support for Children in Care,P0432008,"DCC Business Entities (Sole Trade, Partnership, Ltd)"
 INSERTED DETAIL,18,Devon County Council,02/04/2026,22081449,598.00,DEVON PATHWAYS LTD,383486,392542678,Dedicated Schools Grant,A44180,Services for Educational Estabs - Devon,R0010004,"DCC Business Entities (Sole Trade, Partnership, Ltd)"
 INSERTED DETAIL,18,Devon County Council,02/04/2026,22081454,"3,040.80",PROSPERO RECRUITMENT LIMITED,352539,486704947,Dedicated Schools Grant,A44185,Other professional Services (Schools),R0082007,"DCC Business Entities (Sole Trade, Partnership, Ltd)"
